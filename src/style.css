@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100, 100, 100);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    width: 100vw;
+}
+
+#logo {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+nav {
+    min-height: 100%;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    height: 100%;
+}
+
+nav li {
+    height: 100%;
+    display: block;
+}
+
+nav li a {
+    height: 100%;
+}
+
+nav li:hover {
+    text-decoration: underline;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(100, 100, 100)
+}
+
+nav a:hover {
+    color: #4871b7;
+}
+
+.lsr {
+    cursor: context-menu;
+}
+
+.dropdown-options {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    z-index: 1;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 100%;
+    text-align: center;
+}
+
+.dropdown-options a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #333;
+    white-space: nowrap; 
+}
+
+.dropdown-menu:hover .dropdown-options {
+    display: block;
+}
+
+.dropdown-menu span::after {
+    content: "\25BD";
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+main {
+    flex: 1;
+    text-align: center;
+}
+
+main h1 {
+    color:#4871b7;
+    margin-bottom: 15px;
+}
+
+.lane-1 {
+    display: flex;
+    margin-top: 15px;
+}
+
+.lane-1 p {
+    font-size: 16px;
+    text-align: justify;
+    word
+}
+
+.about {
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.rozbudzeni {
+    width: 45%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.aktualnosci {
+    border: 1px solid black;
+    width: 80%;
+    margin: 10px auto;
+}
+
+.polecamy {
+    border: 1px solid black;
+    width: 80%;
+    margin: 10px auto;
+}
+
+.polecamy-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer {
+    background-color: #4871b7;
+    color: white;
+    font-weight: bold;
+}
+
+.baner {
+    width: 100%;
+}
+
+.baner img {
+    max-width: 100%;
+}
+
+.social-media {
+    position: relative;
+}
+
+.social-media img {
+    width: 30px;
+    height: auto;
+    padding: 10px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer li {
+    padding-top: 10px;
+    display: flex;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    color: #92b4f0;
+}
+
+.icon {
+    width: 15px;
+    margin-right: 10px;
+}
+
+.space a {
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
