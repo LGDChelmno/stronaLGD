@@ -268,14 +268,14 @@ main h1 a {
     color: #fab900;
 }
 
-.radalgd table {
+table {
     text-align: center;
     border: 1px solid black;
     border-collapse: collapse;
     margin-bottom: 20px;
 }
 
-.radalgd td, th{
+td, th, tr {
     border: 1px solid black;
     padding: 10px;
 }
