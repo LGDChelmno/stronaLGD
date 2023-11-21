@@ -91,7 +91,7 @@ nav a:hover, nav li:hover {
     display: block;
     padding: 8px;
     text-decoration: none;
-    color: #333;
+    color: rgb(100, 100, 100);
     white-space: nowrap;
 }
 
@@ -105,6 +105,14 @@ main {
     flex: 1;
     text-align: center;
     margin-top: 13vh;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 28px;
 }
 
 main h1 {
@@ -184,6 +192,116 @@ main h1 a {
     margin-top: 10px;
     margin-bottom: 20px;
     color: #0ca638;
+}
+
+/* strona: statutlgd */
+.container-statutlgd {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.statutlgd p {
+    padding-top: 20px;
+}
+
+.statutlgd h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.statutlgd h2 {
+    margin-top: 30px;
+    color: #fab900;
+}
+
+.statutlgd a {
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+}
+
+.statutlgd a:hover {
+    color:#fab900;
+    text-decoration: underline;
+}
+
+.statutlgd ul {
+    list-style: none;
+}
+
+/* strona: radalgd */
+.container-radalgd {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.radalgd p {
+    padding-top: 20px;
+}
+
+.radalgd h1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.radalgd h2 {
+    color:#0ca638;
+    margin: 20px 0;
+}
+
+.h2-center {
+    text-align: center;
+}
+
+.radalgd a {
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+}
+
+.radalgd a:hover {
+    text-decoration: underline;
+    color: #fab900;
+}
+
+.radalgd table {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.radalgd td, th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+/* strona: zarzadlgd */
+.container-zarzadlgd {
+    width: 60%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.zarzadlgd p {
+    padding-top: 20px;
+}
+
+.zarzadlgd h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.zarzadlgd h2 {
+    color:#0ca638;
+    margin: 20px 0;
+}
+
+.zarzadlgd ul {
+    list-style: none;
 }
 
 /* opcje dla footer */
