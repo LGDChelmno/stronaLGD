@@ -109,6 +109,7 @@ main {
 
 h1 {
     font-size: 38px;
+    padding-top: 40px;
 }
 
 h2 {
@@ -200,6 +201,7 @@ main h1 a {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    margin-bottom: 20px;
 }
 
 .statutlgd p {
@@ -213,7 +215,7 @@ main h1 a {
 
 .statutlgd h2 {
     margin-top: 30px;
-    color: #fab900;
+    color: #0ca638;;
 }
 
 .statutlgd a {
@@ -303,6 +305,59 @@ main h1 a {
 .zarzadlgd ul {
     list-style: none;
 }
+
+.zarzadlgd .sprawozdania {
+    margin-bottom: 20px;
+    margin-top: 200px;
+}
+
+.zarzadlgd a {
+    color: rgb(100, 100, 100);
+    text-decoration: none;
+}
+
+.zarzadlgd a:hover {
+    text-decoration: underline;
+    color: #fab900;
+}
+
+/* strona: komisja rewizyjna */
+.container-komisjarewizyjna {
+    width: 60%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.komisjarewizyjna p {
+    padding-top: 20px;
+}
+
+.komisjarewizyjna h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.komisjarewizyjna h2 {
+    color:#0ca638;
+    margin: 20px 0;
+}
+
+.komisjarewizyjna ul {
+    list-style: none;
+}
+
+.komisjarewizyjna a {
+    color: rgb(100, 100, 100);
+    text-decoration: none;
+}
+
+.komisjarewizyjna a:hover {
+    text-decoration: underline;
+    color: #fab900;
+}
+
 
 /* opcje dla footer */
 
