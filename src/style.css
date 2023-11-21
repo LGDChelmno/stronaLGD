@@ -9,7 +9,12 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+    letter-spacing: 0.11rem;
 }
+
+/* opcje dla header */
 
 header {
     display: flex;
@@ -18,6 +23,9 @@ header {
     text-transform: uppercase;
     border-bottom: 1px solid black;
     width: 100vw;
+    position: fixed;
+    height: 13vh;
+    background-color: #f9f9f9;
 }
 
 .logo {
@@ -43,8 +51,8 @@ nav li {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
     height: 100%;
+    text-align: center;
 }
 
 nav a {
@@ -91,14 +99,22 @@ nav a:hover, nav li:hover {
     display: block;
 }
 
+/* Strona Główna */
+
 main {
     flex: 1;
     text-align: center;
+    margin-top: 13vh;
 }
 
 main h1 {
     color:#4871b7;
     margin-bottom: 15px;
+}
+
+main h1 a {
+    text-decoration: none;
+    color: #4871b7;
 }
 
 .lane-1 {
@@ -109,7 +125,6 @@ main h1 {
 .lane-1 p {
     font-size: 16px;
     text-align: justify;
-    word
 }
 
 .about {
@@ -142,6 +157,36 @@ main h1 {
     align-items: center;
     justify-content: space-around;
 }
+
+/* Strona: stowrzyszenie */
+
+.container-stowarzyszenie {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left
+}
+
+.stowarzyszenie p {
+    padding-top: 20px;
+}
+
+.stowarzyszenie ul {
+    margin-left: 15px;
+}
+
+.stowarzyszenie h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.stowarzyszenie h2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #0ca638;
+}
+
+/* opcje dla footer */
 
 footer {
     background-color: #4871b7;
