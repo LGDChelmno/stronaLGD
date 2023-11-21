@@ -11,16 +11,15 @@
 
 <body>
     <header>
-        <div id="logo">
-            <img src="./assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno">
+        <div class="logo">
+            <a href="index.html"><img src="./assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
         </div>
         <nav>
             <ul>
                 <li><a href="#">Aktualności</a></li>
-                <li class="dropdown-menu" onmouseover="toggleDropdownOptions(this)"
-                    onmouseout="toggleDropdownOptions(this)">
+                <li class="dropdown-menu" onmouseover="toggleDropdownOptions(this)" onmouseout="toggleDropdownOptions(this)">
                     <span onHover="toggleDropdownOptions"><a href="#">Stowarzyszenie</a></span>
-                    <div class="dropdown-options" id="dropdownOptions">
+                    <div class="dropdown-options dropdown-sto" id="dropdownOptionsStowarzyszenie">
                         <a href="#">Statut LGD</a>
                         <a href="#">Rada LGD</a>
                         <a href="#">Zarząd LGD</a>
@@ -29,10 +28,9 @@
                         <a href="#">RODO</a>
                     </div>
                 </li>
-                <li class="dropdown-menu lsr" onmouseover="toggleDropdownOptions(this)"
-                    onmouseout="toggleDropdownOptions(this)">
-                    <span onHover="toggleDropdownOptionslsr">LSR</span>
-                    <div class="dropdown-options" id="dropdownOptions">
+                <li class="dropdown-menu lsr" onmouseover="toggleDropdownOptions(this)" onmouseout="toggleDropdownOptions(this)">
+                    <span onHover="toggleDropdownOptionsLSR">LSR</span>
+                    <div class="dropdown-options dropdown-lsr" id="dropdownOptionsLSR">
                         <a href="#">LSR 2021-2027</a>
                         <a href="#">Monitoring i ewaluacja 2016-2020</a>
                         <a href="#">LSR 2016-2020</a>
