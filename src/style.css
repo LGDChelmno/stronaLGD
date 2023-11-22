@@ -74,7 +74,7 @@ nav a:hover, nav li:hover {
     z-index: 1;
     flex-wrap: wrap;
     flex-direction: column;
-    max-width: 350px;
+    max-width: 400px;
     text-align: center;
     border-top: 3px solid #4871b7;
 }
@@ -395,12 +395,56 @@ td, th, tr {
     color: #fab900;
 }
 
-.czlonkostwolgd ol li {
+.czlonkostwolgd ol, li {
     margin-left: 20px;
 }
 
 .czlonkostwolgd table {
     width: 100%;
+}
+
+/* strona: RODO */
+.container-rodo {
+    width: 60%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.rodo p {
+    padding-top: 20px;
+}
+
+.rodo h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.rodo h2 {
+    color:#0ca638;
+    margin: 20px 0;
+}
+
+.rodo ul {
+    list-style: none;
+}
+
+.rodo a {
+    color: rgb(100, 100, 100);
+    text-decoration: none;
+}
+
+.rodo ul, ol {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.rodo li {
+    margin-top: 10px;
+}
+.rodo ul {
+    list-style: disc;
 }
 
 /* opcje dla footer */
