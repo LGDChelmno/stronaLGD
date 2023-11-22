@@ -462,7 +462,6 @@ td, th, tr {
 
 .kontakt h1 {
     text-align: center;
-    margin-top: 10px;
 }
 
 .kontakt ul {
@@ -475,18 +474,20 @@ td, th, tr {
 }
 
 .dane-kontaktowe {
-    margin-bottom: 150px;
-    margin-top: 50px;
-}
-
-.kontakt img {
-    width: 500px;
-    height: auto;
+    margin-bottom: 200px;
 }
 
 .icon-kontakt {
     width: 15px;
     margin-right: 10px;
+}
+
+.kontakt img {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 350px;
+    left: 800px;
 }
 
 /* opcje dla footer */
