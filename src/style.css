@@ -447,6 +447,57 @@ td, th, tr {
     list-style: disc;
 }
 
+/* strona: lsr-2016 */
+.container-lsr-2016 {
+    width: 60%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.lsr-2016 p {
+    padding-top: 20px;
+}
+
+.lsr-2016 h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.lsr-2016 h2 {
+    color:#0ca638;
+    margin: 20px 0;
+}
+
+.lsr-2016 ul {
+    list-style: none;
+}
+
+.lsr-2016 li {
+    margin-left: 0;
+}
+
+.disc ul {
+    list-style: disc;
+    margin-left: 15px;
+}
+
+.disc li {
+    margin: 10px 0;
+}
+
+.lsr-2016 a {
+    color: rgb(100, 100, 100);
+    text-decoration: none;
+}
+
+.lsr-2016 a:hover {
+    text-decoration: underline;
+    color: #fab900;
+}
+
+
 /* Strona: kontakt */
 .container-kontakt {
     width: 60%;
