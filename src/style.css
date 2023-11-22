@@ -603,3 +603,11 @@ footer a:hover {
     padding-left: 0.25em;
     padding-right: 0.25em;
 }
+
+/* mediaquerys */
+
+/* mediaquery footer */
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+    }
