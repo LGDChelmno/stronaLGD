@@ -447,6 +447,48 @@ td, th, tr {
     list-style: disc;
 }
 
+/* Strona: kontakt */
+.container-kontakt {
+    width: 60%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.kontakt p {
+    padding-top: 20px;
+}
+
+.kontakt h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.kontakt ul {
+    list-style: none;
+}
+
+.kontakt li {
+    padding-top: 10px;
+    display: flex;
+}
+
+.dane-kontaktowe {
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+
+.kontakt img {
+    width: 500px;
+    height: auto;
+}
+
+.icon-kontakt {
+    width: 15px;
+    margin-right: 10px;
+}
+
 /* opcje dla footer */
 
 footer {
