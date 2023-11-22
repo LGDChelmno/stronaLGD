@@ -29,3 +29,4 @@ dropdownMenus.forEach(function (menu) {
         }
     });
 });
+
