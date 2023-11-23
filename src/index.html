@@ -15,16 +15,16 @@
         <div class="logo">
             <a href="index.html"><img src="./assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
         </div>
-        <div class="hamburger-menu" onclick="toggleHamburgerMenu()">
+        <div class="hamburger-menu" id="hamburger-menu">
             <div class="bar"></div>
             <div class="bar"></div>
             <div class="bar"></div>
-          </div>
+        </div>
         <nav>
             <ul>
                 <li><a href="./aktualnosci.html">Aktualności</a></li>
-                <li class="dropdown-menu" onmouseover="toggleDropdownOptions(this)" onmouseout="toggleDropdownOptions(this)">
-                    <span onHover="toggleDropdownOptions"><a href="./stowarzyszenie.html">Stowarzyszenie</a></span>
+                <li class="dropdown-menu" onclick="toggleDropdownOptions(this)">
+                    <span class="toggle-btn"><a href="./stowarzyszenie.html">Stowarzyszenie</a></span>
                     <div class="dropdown-options dropdown-sto" id="dropdownOptionsStowarzyszenie">
                         <a href="./statutlgd.html">Statut LGD</a>
                         <a href="./radalgd.html">Rada LGD</a>
@@ -35,7 +35,7 @@
                     </div>
                 </li>
                 <li class="dropdown-menu lsr" onmouseover="toggleDropdownOptions(this)" onmouseout="toggleDropdownOptions(this)">
-                    <span onHover="toggleDropdownOptionsLSR">LSR</span>
+                    <span class="toggle-btn" onclick="toggleDropdownOptions(this)">LSR</a></span>
                     <div class="dropdown-options dropdown-lsr" id="dropdownOptionsLSR">
                         <a href="#">LSR 2021-2027</a>
                         <a href="#">Monitoring i ewaluacja 2016-2020</a>
@@ -130,7 +130,7 @@
             </div>
         </div>
     </footer>
-    
+    <script src="./hamburgermenu.js"></script>
 </body>
 
 </html>
