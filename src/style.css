@@ -103,16 +103,16 @@ nav {
 }
 
 .dropbtn::after {
-    content:  '\2304';
+    content: '\2304';
     padding-left: 5px;
 }
 
 .dropbtn:hover {
     text-decoration: underline;
-    color:#4871b7;
+    color: #4871b7;
 }
 
-.dropbtn a:hover{
+.dropbtn a:hover {
     text-decoration: underline;
     color: #4871b7;
 }
@@ -130,7 +130,7 @@ nav {
     left: 15%;
     background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
     border-top: 5px solid #4871b7;
 }
@@ -154,7 +154,7 @@ nav {
     left: 25%;
     background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
     border-top: 5px solid #4871b7;
 }
@@ -190,7 +190,7 @@ main {
 }
 
 h1 {
-    font-size: 38px;
+    font-size: 42px;
     padding-top: 20px;
 }
 
@@ -199,8 +199,8 @@ h2 {
 }
 
 main h1 {
-    color:#4871b7;
-    margin-bottom: 15px;
+    color: #4871b7;
+    margin-bottom: 20px;
 }
 
 main a {
@@ -262,7 +262,7 @@ main a {
 
 .aklualnosc-wpis {
     display: flex;
-    width: 99,5%;
+    width: 99, 5%;
     border: 2px solid #4871b7;
     margin-bottom: 10px;
     padding: 10px 0;
@@ -290,7 +290,7 @@ main a {
     border: 1px solid black;
     box-shadow: 0 0 0 0 black;
     margin: 5px auto;
-  }
+}
 
 .czytaj-btn:hover {
     transform: translateY(-4px) translateX(-2px);
@@ -300,7 +300,7 @@ main a {
 .czytaj-btn:active {
     transform: translateY(2px) translateX(1px);
     box-shadow: 0 0 0 0 black;
-  }
+}
 
 .aktualnosci-zdjecie {
     width: 50%;
@@ -336,12 +336,12 @@ main a {
     opacity: 0;
     transform: translateY(20px);
     transition: opacity 0.5s, transform 0.5s;
-  }
-  
+}
+
 .animate.appear {
     opacity: 1;
     transform: translateY(0);
-  }
+}
 
 /* Strona: stowrzyszenie */
 
@@ -349,7 +349,7 @@ main a {
     width: 60%;
     margin-left: auto;
     margin-right: auto;
-    text-align:left
+    text-align: left
 }
 
 .stowarzyszenie p {
@@ -391,7 +391,8 @@ main a {
 
 .statutlgd h2 {
     margin-top: 30px;
-    color: #0ca638;;
+    color: #0ca638;
+    ;
 }
 
 .statutlgd a {
@@ -400,7 +401,7 @@ main a {
 }
 
 .statutlgd a:hover {
-    color:#fab900;
+    color: #fab900;
     text-decoration: underline;
 }
 
@@ -420,13 +421,13 @@ main a {
     padding-top: 20px;
 }
 
-.radalgd h1{
+.radalgd h1 {
     text-align: center;
     margin-top: 10px;
 }
 
 .radalgd h2 {
-    color:#0ca638;
+    color: #0ca638;
     margin: 20px 0;
 }
 
@@ -451,7 +452,9 @@ table {
     margin-bottom: 20px;
 }
 
-td, th, tr {
+td,
+th,
+tr {
     border: 1px solid black;
     padding: 10px;
 }
@@ -459,7 +462,7 @@ td, th, tr {
 /* strona: zarzadlgd */
 .container-zarzadlgd {
     width: 60%;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
     text-align: left;
 }
@@ -474,7 +477,7 @@ td, th, tr {
 }
 
 .zarzadlgd h2 {
-    color:#0ca638;
+    color: #0ca638;
     margin: 20px 0;
 }
 
@@ -500,7 +503,7 @@ td, th, tr {
 /* strona: komisja rewizyjna */
 .container-komisjarewizyjna {
     width: 60%;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
     text-align: left;
     margin-bottom: 20px;
@@ -516,7 +519,7 @@ td, th, tr {
 }
 
 .komisjarewizyjna h2 {
-    color:#0ca638;
+    color: #0ca638;
     margin: 20px 0;
 }
 
@@ -537,7 +540,7 @@ td, th, tr {
 /* strona: czlonkostwo w lgd */
 .container-czlonkostwo {
     width: 60%;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
     text-align: left;
     margin-bottom: 20px;
@@ -553,7 +556,7 @@ td, th, tr {
 }
 
 .czlonkostwolgd h2 {
-    color:#0ca638;
+    color: #0ca638;
     margin: 20px 0;
 }
 
@@ -571,7 +574,8 @@ td, th, tr {
     color: #fab900;
 }
 
-.czlonkostwolgd ol, li {
+.czlonkostwolgd ol,
+li {
     margin-left: 20px;
 }
 
@@ -582,7 +586,7 @@ td, th, tr {
 /* strona: RODO */
 .container-rodo {
     width: 60%;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
     text-align: left;
     margin-bottom: 20px;
@@ -598,7 +602,7 @@ td, th, tr {
 }
 
 .rodo h2 {
-    color:#0ca638;
+    color: #0ca638;
     margin: 20px 0;
 }
 
@@ -611,7 +615,8 @@ td, th, tr {
     text-decoration: none;
 }
 
-.rodo ul, ol {
+.rodo ul,
+ol {
     margin-top: 20px;
     margin-bottom: 15px;
 }
@@ -619,6 +624,7 @@ td, th, tr {
 .rodo li {
     margin-top: 10px;
 }
+
 .rodo ul {
     list-style: disc;
 }
@@ -626,7 +632,7 @@ td, th, tr {
 /* strona: lsr-2016 */
 .container-lsr-2016 {
     width: 60%;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
     text-align: left;
     margin-bottom: 20px;
@@ -642,7 +648,7 @@ td, th, tr {
 }
 
 .lsr-2016 h2 {
-    color:#0ca638;
+    color: #0ca638;
     margin: 20px 0;
 }
 
@@ -673,11 +679,114 @@ td, th, tr {
     color: #fab900;
 }
 
+/* strona: konkursy */
+.container-konkursy {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.tabs-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tab {
+    cursor: pointer;
+    padding: 10px 15px;
+    font-size: 18px;
+    margin: 0;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    background-color: #f1f1f1;
+}
+
+.tab:hover {
+    background-color: #ddd;
+}
+
+.tab.active {
+    background-color: #0ca638;
+    color: white;
+}
+
+.tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 0 5px 5px 5px;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* strona: projekty */
+.container-projekty {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.projekty h1 {
+    text-align: center;
+}
+
+.projekty h3 {
+    color: #0ca638;
+    font-size: 20px;
+    text-align: center;
+}
+
+.projekty h6 {
+    text-align: center;
+}
+
+.projekty span {
+    display: block;
+    margin: 0 auto;
+}
+
+.projekty-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: justify;
+}
+
+.projekty-wpis {
+    display: flex;
+    width: 100%;
+    border: 2px solid #4871b7;
+    margin-bottom: 10px;
+    padding: 10px 0;
+}
+
+.projekty-tekst {
+    width: 100%;
+}
+
+.projekty p {
+    margin: 0px 10px;
+}
+
+.projekty-zdjecie {
+    width: 100%;
+}
+
+.projekty img {
+    width: 100%;
+    height: auto;
+}
 
 /* Strona: kontakt */
 .container-kontakt {
     width: 60%;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
     text-align: left;
     margin-bottom: 20px;
@@ -786,7 +895,7 @@ footer a:hover {
     .topnav {
         position: relative;
     }
-    
+
     #myLinks {
         color: rgb(44, 44, 44);
         display: flex;
@@ -804,7 +913,7 @@ footer a:hover {
         font-size: 17px;
         display: block;
     }
-    
+
     .topnav a.icon {
         display: block;
         color: white;
@@ -828,6 +937,7 @@ footer a:hover {
         color: #4871b7;
         background-color: #ddd
     }
+
     /* dropdown styles */
     .dropbtn::after {
         content: ' \27A4'
@@ -838,7 +948,7 @@ footer a:hover {
         overflow: hidden;
         height: 100%;
     }
-    
+
     .dropdown-content-sto {
         display: none;
         position: absolute;
@@ -846,10 +956,10 @@ footer a:hover {
         left: 100%;
         background-color: #f9f9f9;
         width: 100%;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
         z-index: 1;
     }
-    
+
     .dropdown-content-sto a {
         color: black;
         padding: 12px 16px;
@@ -857,11 +967,11 @@ footer a:hover {
         display: block;
         z-index: 2;
     }
-    
+
     .dropdown-content-sto a:hover {
         background-color: #ddd;
     }
-    
+
     .dropdown-content-lsr {
         display: none;
         position: absolute;
@@ -869,10 +979,10 @@ footer a:hover {
         left: 100%;
         background-color: #f9f9f9;
         width: 100%;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
         z-index: 1;
     }
-    
+
     .dropdown-content-lsr a {
         color: black;
         padding: 12px 16px;
@@ -880,16 +990,16 @@ footer a:hover {
         display: block;
         z-index: 2;
     }
-    
+
     .dropdown-content-lsr a:hover {
         background-color: #ddd;
     }
-    
+
     .show {
         display: block;
         z-index: 1;
     }
-    
+
     .dropdown-content.show {
         display: block;
         z-index: 1;
@@ -900,7 +1010,7 @@ footer a:hover {
 @media (max-width: 1300px) {
 
     .footer-content {
-    flex-direction: column;
+        flex-direction: column;
     }
 
     .lane-1 {
@@ -926,7 +1036,11 @@ footer a:hover {
     }
 
     .polecamy-container {
-        flex-direction: col;
+        flex-direction: column;
+    }
+
+    .projekty-wpis {
+        flex-direction: column-reverse;
     }
 }
 
@@ -934,7 +1048,7 @@ footer a:hover {
     .topnav {
         position: relative;
     }
-    
+
     #myLinks {
         color: rgb(44, 44, 44);
         display: flex;
@@ -952,7 +1066,7 @@ footer a:hover {
         font-size: 17px;
         display: block;
     }
-    
+
     .topnav a.icon {
         display: block;
         color: white;
@@ -976,9 +1090,10 @@ footer a:hover {
         color: #4871b7;
         background-color: #ddd
     }
+
     /* dropdown styles */
     .dropbtn::after {
-        content:  '\2304';
+        content: '\2304';
         padding-left: 5px;
     }
 
@@ -987,7 +1102,7 @@ footer a:hover {
         overflow: hidden;
         height: 100%;
     }
-    
+
     .dropdown-content-sto {
         display: none;
         position: absolute;
@@ -995,10 +1110,10 @@ footer a:hover {
         left: 0%;
         background-color: #f9f9f9;
         width: 100%;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
         z-index: 1;
     }
-    
+
     .dropdown-content-sto a {
         color: black;
         padding: 12px 16px;
@@ -1006,11 +1121,11 @@ footer a:hover {
         display: block;
         z-index: 2;
     }
-    
+
     .dropdown-content-sto a:hover {
         background-color: #ddd;
     }
-    
+
     .dropdown-content-lsr {
         display: none;
         position: absolute;
@@ -1018,10 +1133,10 @@ footer a:hover {
         left: 0%;
         background-color: #f9f9f9;
         width: 100%;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
         z-index: 1;
     }
-    
+
     .dropdown-content-lsr a {
         color: black;
         padding: 12px 16px;
@@ -1029,16 +1144,16 @@ footer a:hover {
         display: block;
         z-index: 2;
     }
-    
+
     .dropdown-content-lsr a:hover {
         background-color: #ddd;
     }
-    
+
     .show {
         display: block;
         z-index: 1;
     }
-    
+
     .dropdown-content.show {
         display: block;
         z-index: 1;

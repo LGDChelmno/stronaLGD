@@ -43,12 +43,34 @@ window.onclick = function (event) {
     }
 }
 
-window.addEventListener("scroll", function() {
-    var elements = document.querySelectorAll(".animate");
-    elements.forEach(function(element) {
-      if (element.getBoundingClientRect().top < window.innerHeight) {
-        element.classList.add("appear");
-      }
-    });
-  });
 
+// scroll na main
+window.addEventListener("scroll", function () {
+    var elements = document.querySelectorAll(".animate");
+    elements.forEach(function (element) {
+        if (element.getBoundingClientRect().top < window.innerHeight) {
+            element.classList.add("appear");
+        }
+    });
+});
+
+
+// zakładki w konkurs
+function showTab(tabId) {
+    // Ukryj wszystkie zakładki
+    var tabs = document.getElementsByClassName('tab-content');
+    for (var i = 0; i < tabs.length; i++) {
+        tabs[i].classList.remove('active');
+    }
+
+    // Pokaż wybraną zakładkę
+    var activeTab = document.getElementById(tabId);
+    activeTab.classList.add('active');
+
+    // Zaznacz aktywną zakładkę w menu
+    var tabButtons = document.getElementsByClassName('tab');
+    for (var i = 0; i < tabButtons.length; i++) {
+        tabButtons[i].classList.remove('active');
+    }
+    document.querySelector('[onclick="showTab(\'' + tabId + '\')"]').classList.add('active');
+}
