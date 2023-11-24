@@ -43,3 +43,12 @@ window.onclick = function (event) {
     }
 }
 
+window.addEventListener("scroll", function() {
+    var elements = document.querySelectorAll(".animate");
+    elements.forEach(function(element) {
+      if (element.getBoundingClientRect().top < window.innerHeight) {
+        element.classList.add("appear");
+      }
+    });
+  });
+
