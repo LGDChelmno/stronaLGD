@@ -8,40 +8,43 @@
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/8a6ff19da0.js" crossorigin="anonymous"></script>
     <link rel="icon" href="./assets/favicon.png" type="image/png">
+    <script src="./script.js"></script>
 </head>
 
 <body>
-    <header>
-        <div class="logo">
-            <a href="index.html"><img src="./assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
-        </div>
-        <nav>
-            <ul>
-                <li><a href="./aktualnosci.html">Aktualności</a></li>
-                <li class="dropdown-menu" onmouseover="toggleDropdownOptions(this)" onmouseout="toggleDropdownOptions(this)">
-                    <span onHover="toggleDropdownOptions"><a href="./stowarzyszenie.html">Stowarzyszenie</a></span>
-                    <div class="dropdown-options dropdown-sto" id="dropdownOptionsStowarzyszenie">
-                        <a href="./statutlgd.html">Statut LGD</a>
-                        <a href="./radalgd.html">Rada LGD</a>
-                        <a href="./zarzadlgd.html">Zarząd LGD</a>
-                        <a href="./komisja-rewizyjnalgd.html">Komisja Rewizyjna LGD</a>
-                        <a href="./czlonkostwolgd.html">Członkostwo w LGD</a>
-                        <a href="./rodo.html">RODO</a>
-                    </div>
-                </li>
-                <li class="dropdown-menu lsr" onmouseover="toggleDropdownOptions(this)" onmouseout="toggleDropdownOptions(this)">
-                    <span onHover="toggleDropdownOptionsLSR">LSR</span>
-                    <div class="dropdown-options dropdown-lsr" id="dropdownOptionsLSR">
-                        <a href="#">LSR 2021-2027</a>
-                        <a href="#">Monitoring i ewaluacja 2016-2020</a>
-                        <a href="./lsr-2016.html">LSR 2016-2020</a>
-                    </div>
-                </li>
-                <li><a href="./konkursy.html">Konkursy</a></li>
-                <li><a href="./projekty.html">Projekty</a></li>
-                <li><a href="./nasze-dzialania.html">Nasze działania</a></li>
-                <li><a href="./kontakt.html">Kontakt</a></li>
-            </ul>
+    <header class="topnav" id="myTopnav">
+        <a href="index.html" class="active"><img src="./assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
+        <nav class="topnav" id="myTopnav">
+            <div id="myLinks">
+                <button class="nav-button"><a href="./aktualnosci.html">Aktualności</a></button>
+
+                <button class="dropbtn nav-button" onclick="toggleServices()">Stowarzyszenie</button>
+                <div class="dropdown-content-sto" id="servicesDropdown">
+                    <a href="./stowarzyszenie.html">O nas</a>
+                    <a href="./statutlgd.html">Statut LGD</a>
+                    <a href="./radalgd.html">Rada LGD</a>
+                    <a href="./zarzadlgd.html">Zarząd LGD</a>
+                    <a href="./komisja-rewizyjnalgd.html">Komisja Rewizyjna LGD</a>
+                    <a href="./czlonkostwolgd.html">Członkostwo w LGD</a>
+                    <a href="./rodo.html">RODO</a>
+                </div>
+
+
+                <button class="dropbtn nav-button" onclick="toggleLsr()">LSR</button>
+                <div class="dropdown-content-lsr" id="lsrDropdown">
+                    <a href="#">LSR 2021-2027</a>
+                    <a href="#">Monitoring i ewaluacja 2016-2020</a>
+                    <a href="./lsr-2016.html">LSR 2016-2020</a>
+                </div>
+
+                <button class="nav-button"><a href="./konkursy.html">Konkursy</a></button>
+                <button class="nav-button"><a href="./projekty.html">Projekty</a></button>
+                <button class="nav-button"><a href="./nasze-dzialania.html">Nasze działania</a></button>
+                <button class="nav-button"><a href="./kontakt.html">Kontakt</a></button>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
         </nav>
     </header>
     <main class="czlonkostwolgd">

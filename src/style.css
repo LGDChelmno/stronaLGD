@@ -181,12 +181,12 @@ nav {
 main {
     flex: 1;
     text-align: center;
-    margin-top: 13vh;
+    margin-top: 5vh;
 }
 
 h1 {
     font-size: 38px;
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 h2 {
@@ -203,9 +203,14 @@ main h1 a {
     color: #4871b7;
 }
 
+.lane-1 h1 {
+    padding-top: 0px;
+}
+
 .lane-1 {
     display: flex;
-    margin-top: 15px;
+    justify-content: center;
+    gap: 2%;
 }
 
 .lane-1 p {
@@ -214,15 +219,13 @@ main h1 a {
 }
 
 .about {
-    width: 40%;
+    width: 39%;
     text-align: center;
-    margin: 0 auto;
     border: 1px solid black;
 }
 
 .rozbudzeni {
-    width: 45%;
-    margin: 0 auto;
+    width: 39%;
     border: 1px solid black;
 }
 
