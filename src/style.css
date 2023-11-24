@@ -96,6 +96,11 @@ nav {
     cursor: pointer;
 }
 
+.dropbtn::after {
+    content:  '\2304';
+    padding-left: 5px;
+}
+
 .dropbtn:hover {
     text-decoration: underline;
     color:#4871b7;
@@ -686,11 +691,12 @@ footer a:hover {
     #myLinks {
         color: rgb(100, 100, 100);
         display: flex;
-        position:absolute;
+        position: absolute;
         top: 100%;
-        right: 10px;
+        right: 100%;
+        width: 45%;
         height: 250px;
-        background-color: #e1e1e1;
+        background-color: #f9f9f9;
     }
 
     .topnav a {
@@ -724,6 +730,10 @@ footer a:hover {
         background-color: #ddd
     }
     /* dropdown styles */
+    .dropbtn::after {
+        content: ' \27A4'
+    }
+
     .dropdown {
         display: inline-block;
         overflow: hidden;
@@ -733,8 +743,8 @@ footer a:hover {
     .dropdown-content-sto {
         display: none;
         position: absolute;
-        top: 123%;
-        left: -5%;
+        top: 45%;
+        left: 100%;
         background-color: #f9f9f9;
         width: 100%;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -756,8 +766,8 @@ footer a:hover {
     .dropdown-content-lsr {
         display: none;
         position: absolute;
-        top: 185%;
-        left: -5%;
+        top: 85%;
+        left: 100%;
         background-color: #f9f9f9;
         width: 100%;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -789,6 +799,123 @@ footer a:hover {
 
 /* mediaquery footer */
 @media (max-width: 1300px) {
+
     .footer-content {
-        flex-direction: column;
+    flex-direction: column;
     }
+}
+
+@media (max-width: 450px) {
+    .topnav {
+        position: relative;
+    }
+    
+    #myLinks {
+        color: rgb(100, 100, 100);
+        display: flex;
+        position: absolute;
+        top: 100%;
+        right: 50%;
+        width: 200%;
+        height: 250px;
+        background-color: #f9f9f9;
+    }
+
+    .topnav a {
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        display: block;
+    }
+    
+    .topnav a.icon {
+        display: block;
+        color: white;
+        background-color: #4871b7;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .topnav a.icon:hover {
+        color: white;
+    }
+
+    .nav-button {
+        width: 100%;
+        height: 70px;
+        color: rgb(100, 100, 100);;
+    }
+
+    .nav-button:hover {
+        color: #4871b7;
+        background-color: #ddd
+    }
+    /* dropdown styles */
+    .dropbtn::after {
+        content:  '\2304';
+        padding-left: 5px;
+    }
+
+    .dropdown {
+        display: inline-block;
+        overflow: hidden;
+        height: 100%;
+    }
+    
+    .dropdown-content-sto {
+        display: none;
+        position: absolute;
+        top: 110%;
+        left: 0%;
+        background-color: #f9f9f9;
+        width: 100%;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    
+    .dropdown-content-sto a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        z-index: 2;
+    }
+    
+    .dropdown-content-sto a:hover {
+        background-color: #ddd;
+    }
+    
+    .dropdown-content-lsr {
+        display: none;
+        position: absolute;
+        top: 160%;
+        left: 0%;
+        background-color: #f9f9f9;
+        width: 100%;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    
+    .dropdown-content-lsr a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        z-index: 2;
+    }
+    
+    .dropdown-content-lsr a:hover {
+        background-color: #ddd;
+    }
+    
+    .show {
+        display: block;
+        z-index: 1;
+    }
+    
+    .dropdown-content.show {
+        display: block;
+        z-index: 1;
+    }
+}
