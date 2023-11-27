@@ -5,6 +5,7 @@
 
 html {
     scroll-behavior: smooth;
+    font-size: 62.5%;
 }
 
 body {
@@ -15,6 +16,7 @@ body {
     flex-direction: column;
     background-color: #ccc8c8;
     line-height: 1.6;
+    font-size: 1.6rem;
     letter-spacing: 0.11rem;
     background-image: url(./assets/backgroundimg.png);
     background-size: cover;
@@ -34,7 +36,7 @@ header {
 }
 
 header img {
-    padding: 10px 20px 10px 10px;
+    padding: 1rem 2rem 1rem 1rem;
 }
 
 nav {
@@ -45,10 +47,10 @@ nav {
 
 .nav-button {
     color: rgb(44, 44, 44);
-    font-size: 17px;
+    font-size: 1.6rem;
     border: none;
     outline: none;
-    padding: 14px 14px;
+    padding: 1.4rem;
     height: 100%;
     background-color: inherit;
     font-family: inherit;
@@ -59,7 +61,7 @@ nav {
 
 .nav-button:hover {
     color: rgb(44, 44, 44);
-    font-size: 17px;
+    font-size: 1.6rem;
     font-family: inherit;
     margin: 0;
 }
@@ -80,9 +82,9 @@ nav {
 
 .topnav a {
     color: rgb(44, 44, 44);
-    padding: 14px 16px;
+    padding: 1.4rem 1.6rem;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.6rem;
 }
 
 .topnav a.icon {
@@ -104,7 +106,7 @@ nav {
 
 .dropbtn::after {
     content: '\2304';
-    padding-left: 5px;
+    padding-left: 0.5rem;
 }
 
 .dropbtn:hover {
@@ -130,14 +132,14 @@ nav {
     left: 15%;
     background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0.8rem 1.6rem 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
-    border-top: 5px solid #4871b7;
+    border-top: 0.5rem solid #4871b7;
 }
 
 .dropdown-content-sto a {
     color: rgb(44, 44, 44);
-    padding: 12px 16px;
+    padding: 1.2rem 1.6rem;
     text-decoration: none;
     display: block;
     z-index: 2;
@@ -153,15 +155,15 @@ nav {
     top: 100%;
     left: 25%;
     background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    min-width: 16rem;
+    box-shadow: 0px 0.8rem 1.6rem 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
-    border-top: 5px solid #4871b7;
+    border-top: 0.5rem solid #4871b7;
 }
 
 .dropdown-content-lsr a {
     color: rgb(44, 44, 44);
-    padding: 12px 16px;
+    padding: 1.2rem 1.6rem;
     text-decoration: none;
     display: block;
     z-index: 2;
@@ -190,17 +192,17 @@ main {
 }
 
 h1 {
-    font-size: 42px;
-    padding-top: 20px;
+    font-size: 4.2rem;
+    padding-top: 2rem;
 }
 
 h2 {
-    font-size: 28px;
+    font-size: 2.8rem;
 }
 
 main h1 {
     color: #4871b7;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 main a {
@@ -216,11 +218,11 @@ main a {
     display: flex;
     justify-content: center;
     gap: 2%;
-    margin: 15px auto 0px auto
+    margin: 1.5rem auto 0px auto
 }
 
 .lane-1 p {
-    font-size: 16px;
+    font-size: 1.6rem;
     text-align: justify;
 }
 
@@ -234,7 +236,7 @@ main a {
 }
 
 .aktualnosci {
-    margin: 10px auto;
+    margin: 1rem auto;
     width: 80%;
 }
 
@@ -273,33 +275,28 @@ main a {
 }
 
 .aktualnosci p {
-    margin: 0px 10px;
+    margin: 0px 1rem;
 }
 
 .czytaj-btn {
-    background-color: #0ca638;
-    color: white;
-    border-radius: 10em;
-    font-size: 17px;
-    font-weight: 600;
-    text-align: center;
-    padding: 0.5em 0.5em;
+    color: #0ca638;
     width: 20%;
-    cursor: pointer;
-    transition: all 0.3s ease-in-out;
-    border: 1px solid black;
-    box-shadow: 0 0 0 0 black;
-    margin: 5px auto;
+    font-size: 1.6rem;
+    border-bottom: 1px solid #0ca638;
+    padding: 0.5rem;
+    transition: all 0.2s;
+    margin: 0.5rem;
 }
 
 .czytaj-btn:hover {
-    transform: translateY(-4px) translateX(-2px);
-    box-shadow: 2px 5px 0 0 black;
+    background-color: #0ca638;
+    color: white;
+    box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.2);
 }
 
 .czytaj-btn:active {
-    transform: translateY(2px) translateX(1px);
-    box-shadow: 0 0 0 0 black;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+    transform: translateY(0);
 }
 
 .aktualnosci-zdjecie {
@@ -313,7 +310,7 @@ main a {
 
 .polecamy {
     width: 80%;
-    margin: 10px auto;
+    margin: 1rem auto;
 }
 
 .polecamy-container {
@@ -334,7 +331,7 @@ main a {
 
 .animate {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(2rem);
     transition: opacity 0.5s, transform 0.5s;
 }
 
@@ -353,21 +350,21 @@ main a {
 }
 
 .stowarzyszenie p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .stowarzyszenie ul {
-    margin-left: 15px;
+    margin-left: 1.5rem;
 }
 
 .stowarzyszenie h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .stowarzyszenie h2 {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
     color: #0ca638;
 }
 
@@ -377,20 +374,20 @@ main a {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .statutlgd p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .statutlgd h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .statutlgd h2 {
-    margin-top: 30px;
+    margin-top: 3rem;
     color: #0ca638;
     ;
 }
@@ -418,17 +415,17 @@ main a {
 }
 
 .radalgd p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .radalgd h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .radalgd h2 {
     color: #0ca638;
-    margin: 20px 0;
+    margin: 2rem 0;
 }
 
 .h2-center {
@@ -449,14 +446,14 @@ table {
     text-align: center;
     border: 1px solid black;
     border-collapse: collapse;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 td,
 th,
 tr {
     border: 1px solid black;
-    padding: 10px;
+    padding: 1rem;
 }
 
 /* strona: zarzadlgd */
@@ -468,17 +465,17 @@ tr {
 }
 
 .zarzadlgd p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .zarzadlgd h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .zarzadlgd h2 {
     color: #0ca638;
-    margin: 20px 0;
+    margin: 2rem 0;
 }
 
 .zarzadlgd ul {
@@ -486,8 +483,8 @@ tr {
 }
 
 .zarzadlgd .sprawozdania {
-    margin-bottom: 20px;
-    margin-top: 200px;
+    margin-bottom: 2rem;
+    margin-top: 20rem;
 }
 
 .zarzadlgd a {
@@ -506,21 +503,21 @@ tr {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .komisjarewizyjna p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .komisjarewizyjna h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .komisjarewizyjna h2 {
     color: #0ca638;
-    margin: 20px 0;
+    margin: 2rem 0;
 }
 
 .komisjarewizyjna ul {
@@ -543,21 +540,21 @@ tr {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .czlonkostwolgd p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .czlonkostwolgd h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .czlonkostwolgd h2 {
     color: #0ca638;
-    margin: 20px 0;
+    margin: 2rem 0;
 }
 
 .czlonkostwolgd ul {
@@ -576,7 +573,7 @@ tr {
 
 .czlonkostwolgd ol,
 li {
-    margin-left: 20px;
+    margin-left: 2rem;
 }
 
 .czlonkostwolgd table {
@@ -589,21 +586,21 @@ li {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .rodo p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .rodo h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .rodo h2 {
     color: #0ca638;
-    margin: 20px 0;
+    margin: 2rem 0;
 }
 
 .rodo ul {
@@ -617,12 +614,12 @@ li {
 
 .rodo ul,
 ol {
-    margin-top: 20px;
-    margin-bottom: 15px;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .rodo li {
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .rodo ul {
@@ -635,21 +632,21 @@ ol {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .lsr-2016 p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .lsr-2016 h1 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .lsr-2016 h2 {
     color: #0ca638;
-    margin: 20px 0;
+    margin: 2rem 0;
 }
 
 .lsr-2016 ul {
@@ -662,11 +659,11 @@ ol {
 
 .disc ul {
     list-style: disc;
-    margin-left: 15px;
+    margin-left: 1.5rem;
 }
 
 .disc li {
-    margin: 10px 0;
+    margin: 1rem 0;
 }
 
 .lsr-2016 a {
@@ -685,7 +682,7 @@ ol {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .tabs-container {
@@ -695,11 +692,11 @@ ol {
 
 .tab {
     cursor: pointer;
-    padding: 10px 15px;
-    font-size: 18px;
+    padding: 1rem 1.5rem;
+    font-size: 1.8rem;
     margin: 0;
     border: none;
-    border-radius: 5px 5px 0 0;
+    border-radius: 0.5rem 0.5rem 0 0;
     background-color: #f1f1f1;
 }
 
@@ -714,9 +711,9 @@ ol {
 
 .tab-content {
     display: none;
-    padding: 20px;
+    padding: 2rem;
     border: 1px solid #ddd;
-    border-radius: 0 5px 5px 5px;
+    border-radius: 0 0.5rem 0.5rem 0.5rem;
 }
 
 .tab-content.active {
@@ -729,7 +726,7 @@ ol {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .projekty h1 {
@@ -738,7 +735,7 @@ ol {
 
 .projekty h3 {
     color: #0ca638;
-    font-size: 20px;
+    font-size: 2rem;
     text-align: center;
 }
 
@@ -762,8 +759,8 @@ ol {
     display: flex;
     width: 100%;
     border: 2px solid #4871b7;
-    margin-bottom: 10px;
-    padding: 10px 0;
+    margin-bottom: 1rem;
+    padding: 1rem 0;
 }
 
 .projekty-tekst {
@@ -771,7 +768,7 @@ ol {
 }
 
 .projekty p {
-    margin: 0px 10px;
+    margin: 0px 1rem;
 }
 
 .projekty-zdjecie {
@@ -789,11 +786,11 @@ ol {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .kontakt p {
-    padding-top: 20px;
+    padding-top: 2rem;
 }
 
 .kontakt h1 {
@@ -805,25 +802,25 @@ ol {
 }
 
 .kontakt li {
-    padding-top: 10px;
+    padding-top: 1rem;
     display: flex;
 }
 
 .dane-kontaktowe {
-    margin-bottom: 200px;
+    margin-bottom: 20rem;
 }
 
 .icon-kontakt {
-    width: 15px;
-    margin-right: 10px;
+    width: 1.5rem;
+    margin-right: 1rem;
 }
 
 .kontakt img {
-    width: 300px;
+    width: 30rem;
     height: auto;
     position: absolute;
-    top: 350px;
-    left: 800px;
+    top: 35rem;
+    left: 80rem;
 }
 
 /* opcje dla footer */
@@ -847,18 +844,18 @@ footer {
 }
 
 .social-media img {
-    width: 30px;
+    width: 3rem;
     height: auto;
-    padding: 10px;
+    padding: 1rem;
 }
 
 .footer-content {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    gap: 50px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    gap: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 footer ul {
@@ -866,7 +863,7 @@ footer ul {
 }
 
 footer li {
-    padding-top: 10px;
+    padding-top: 1rem;
     display: flex;
 }
 
@@ -880,8 +877,8 @@ footer a:hover {
 }
 
 .icon {
-    width: 15px;
-    margin-right: 10px;
+    width: 1.5rem;
+    margin-right: 1rem;
 }
 
 .space a {
@@ -890,10 +887,23 @@ footer a:hover {
 }
 
 /* mediaquerys */
-/* mediaquery header */
-@media (max-width: 1399px) {
+@media (max-width: 1400px) {
+    html {
+        font-size: 62.5%;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    /* mediaquery header */
     .topnav {
         position: relative;
+        width: 100%;
+    }
+
+    .topnav img {
+        padding: 2rem 2rem;
     }
 
     #myLinks {
@@ -901,16 +911,18 @@ footer a:hover {
         display: flex;
         position: absolute;
         top: 100%;
-        right: 100%;
-        width: 45%;
+        right: 50%;
+        width: 96rem;
         height: 250px;
         background-color: #f9f9f9;
+        transform: translate(50%, 0);
+        z-index: 2;
     }
 
     .topnav a {
-        padding: 14px 16px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 1.7rem;
+        padding: 0;
         display: block;
     }
 
@@ -919,6 +931,7 @@ footer a:hover {
         color: white;
         background-color: #4871b7;
         position: absolute;
+        padding: 1rem 1.5rem;
         right: 0;
         top: 0;
     }
@@ -931,6 +944,7 @@ footer a:hover {
         width: 100%;
         height: 70px;
         color: rgb(44, 44, 44);
+        text-align: left;
     }
 
     .nav-button:hover {
@@ -952,8 +966,8 @@ footer a:hover {
     .dropdown-content-sto {
         display: none;
         position: absolute;
-        top: 45%;
-        left: 100%;
+        top: 50%;
+        left: 20%;
         background-color: #f9f9f9;
         width: 100%;
         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -975,8 +989,8 @@ footer a:hover {
     .dropdown-content-lsr {
         display: none;
         position: absolute;
-        top: 85%;
-        left: 100%;
+        top: 102%;
+        left: 9%;
         background-color: #f9f9f9;
         width: 100%;
         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -1006,47 +1020,18 @@ footer a:hover {
     }
 }
 
-/* mediaquery footer */
-@media (max-width: 1300px) {
 
-    .footer-content {
-        flex-direction: column;
+@media (max-width: 720px) {
+    html {
+        font-size: 50%;
     }
 
-    .lane-1 {
-        flex-direction: column;
-        width: 80%;
-        margin: 0 auto;
-    }
-
-    .about {
-        width: 100%;
-    }
-
-    .rozbudzeni {
-        width: 100%;
-    }
-
-    .aklualnosc-wpis {
-        flex-direction: column-reverse
-    }
-
-    .polecamy {
-        flex-direction: column;
-    }
-
-    .polecamy-container {
-        flex-direction: column;
-    }
-
-    .projekty-wpis {
-        flex-direction: column-reverse;
-    }
-}
-
-@media (max-width: 450px) {
     .topnav {
         position: relative;
+    }
+
+    .topnav img {
+        padding: 2rem 2rem;
     }
 
     #myLinks {
@@ -1061,9 +1046,7 @@ footer a:hover {
     }
 
     .topnav a {
-        padding: 14px 16px;
         text-decoration: none;
-        font-size: 17px;
         display: block;
     }
 
@@ -1157,5 +1140,53 @@ footer a:hover {
     .dropdown-content.show {
         display: block;
         z-index: 1;
+    }
+}
+
+/* containers */
+@media (max-width: 720px) {
+
+    .container-czlonkostwo, .container-radalgd {
+        width: 100%;
+        margin: 0;
+    }
+    
+}
+
+/* mediaquery footer */
+@media (max-width: 1300px) {
+
+    .footer-content {
+        flex-direction: column;
+    }
+
+    .lane-1 {
+        flex-direction: column;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .about {
+        width: 100%;
+    }
+
+    .rozbudzeni {
+        width: 100%;
+    }
+
+    .aklualnosc-wpis {
+        flex-direction: column-reverse
+    }
+
+    .polecamy {
+        flex-direction: column;
+    }
+
+    .polecamy-container {
+        flex-direction: column;
+    }
+
+    .projekty-wpis {
+        flex-direction: column-reverse;
     }
 }
