@@ -286,6 +286,7 @@ main a {
     padding: 0.5rem;
     transition: all 0.2s;
     margin: 0.5rem;
+    display: inline-block;
 }
 
 .czytaj-btn:hover {
