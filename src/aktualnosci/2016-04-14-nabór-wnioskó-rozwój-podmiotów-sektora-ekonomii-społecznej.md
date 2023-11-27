@@ -4,8 +4,7 @@ date: 2016-04-14
 tags: ['aktualnosci']
 image:
 imageAlt:
-description: Nabór wniosków "Aktywne formy przeciwdziałania wykluczeniu społecznemu - nowy wymiar 2020" - edycja 2016
-Minister Rodziny, Pracy i Polityki ogłasza otwarte konkursy ofert w ramach Programu "Aktywne formy przeciwdziałania wykluczeniu społecznemu [...]
+description: Instytucja Zarządzająca Kujawsko-Pomorskim Regionalnym Programem Operacyjnym na lata 2014-2020 ogłasza nabór wniosków w trybie konkursowym, w ramach Poddziałania 9.4.1 [...]
 ---
 Instytucja Zarządzająca Kujawsko-Pomorskim Regionalnym Programem Operacyjnym na lata 2014-2020 ogłasza nabór wniosków w trybie konkursowym, w ramach Poddziałania 9.4.1 Rozwój podmiotów sektora ekonomii społecznej.
 
