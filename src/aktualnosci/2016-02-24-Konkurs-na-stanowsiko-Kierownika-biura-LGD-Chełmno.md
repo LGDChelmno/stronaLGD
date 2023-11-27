@@ -2,8 +2,8 @@
 title: Konkurs na stanowsiko Kierownika biura LGD Chełmno
 date: 2016-02-23
 tags: ['aktualnosci']
-image: /assets/aktualnosci
-imageAlt: This is a test
+image:
+imageAlt:
 description: Warunki zatrudnienia umowa o pracę, wymiar czasu pracy - pełen etat. Zakres obowiązków reprezentowanie stowarzyczenia w granicach umocowania; realizaca zadań określonych przez Zarząd; [...]
 ---
 Warunki zatrudnienia
