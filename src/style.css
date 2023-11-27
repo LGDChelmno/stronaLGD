@@ -304,6 +304,10 @@ main a {
     width: 50%;
 }
 
+.aktualnosc-tekst a {
+    color: #0ca638;
+}
+
 .aktualnosci img {
     width: 100%;
     height: auto;
