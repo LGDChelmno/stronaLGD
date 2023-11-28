@@ -264,7 +264,7 @@ main a {
 
 .aklualnosc-wpis {
     display: flex;
-    width: 99,5%;
+    width: 100%;
     border: 2px solid #4871b7;
     margin-bottom: 10px;
     padding: 10px 0;
@@ -309,7 +309,7 @@ main a {
 }
 
 .aktualnosci img {
-    width: 100%;
+    width: 400px;
     height: auto;
 }
 
