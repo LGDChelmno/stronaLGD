@@ -264,7 +264,7 @@ main a {
 
 .aklualnosc-wpis {
     display: flex;
-    width: 99, 5%;
+    width: 99,5%;
     border: 2px solid #4871b7;
     margin-bottom: 10px;
     padding: 10px 0;
@@ -280,7 +280,7 @@ main a {
 
 .czytaj-btn {
     color: #0ca638;
-    width: 20%;
+    width: 30%;
     font-size: 1.6rem;
     border-bottom: 1px solid #0ca638;
     padding: 0.5rem;
@@ -301,7 +301,7 @@ main a {
 }
 
 .aktualnosci-zdjecie {
-    width: 50%;
+    max-width: 50%;
 }
 
 .aktualnosc-tekst a {
@@ -355,8 +355,8 @@ main a {
 }
 
 .aktualnosc-img {
-width: 100%;
-height: auto;;
+    width: 100%;
+    height: auto;;
 }
 
 .aktualnosc-data {

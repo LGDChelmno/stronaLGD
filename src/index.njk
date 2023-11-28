@@ -1,0 +1,45 @@
+---
+title: LGD Chełmno - Lokalna Grupa Działania
+layout: 'base.njk'
+---
+    <main>
+        <div class="lane-1">
+            <div class="about">
+                <a href="/stowarzyszenie/">
+                    <h1>O nas</h1>
+                </a>
+                <p>LGD Chełmno to stowarzyszenie, które tworzą organizacje pozarządowe, przedsiębiorcy, Gmina Miasta
+                    Chełmno i mieszkańcy Chełmna - to realne, międzysektorowe partnerstwo. Jako miesjka Lokalna Grupa
+                    Działania w Chełmnie będziemy korzystać ze środków Europejskiego Funduszu Społecznego, by realizować
+                    predsięwzięcia projektowe, przygotowane przez mieszkańców i ich organizajce.</p>
+            </div>
+            <div class="rozbudzeni">
+                <a href="/nasze-dzialania/">
+                    <h1>Rozbudzeni - Rozmarzeni</h1>
+                </a>
+            </div>
+        </div>
+        <div class="aktualnosci">
+            <a href="/aktualnosci/"><h1>Aktualności</h1></a>
+            <div class="aktualnosci-container">
+                {%- for news in collections.glowna | reverse -%}
+                    {% include 'news-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+        </div>
+        <div class="polecamy animate animate.appear">
+            <h1>Polecamy</h1>
+            <div class="polecamy-container">
+                <div class="chelmno">
+                    <a href="https://chelmno.pl/pl/" target="_blank"><img src="/assets/logo-chelmno-removebg-preview.png" alt=""></a>
+                </div>
+                <div class="ngo">
+                    <a href="https://www.ngo.pl/" target="_blank"><img src="/assets/logo-ngo-nowe.png" alt=""></a>
+                </div>
+                <div class="kuj-pom">
+                    <a href="https://www.kujawsko-pomorskie.pl/" target="_blank"><img src="/assets/logo-kuj-pom.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </main>
+    

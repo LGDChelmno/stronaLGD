@@ -1,0 +1,13 @@
+<div class="aklualnosc-wpis">
+    <div class="aktualnosc-tekst">
+        <h3><a href="{{ news.url }}">{{ news.data.title }}</a></h3>
+        <h6>{{ news.data.date | postDate }}</h6>
+        <p>{{ news.data.description }}</p>
+        <a href="{{ news.url }}">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="{{ news.data.image }}" alt="{{ post.data.imageAlt }}">
+    </div>
+</div>

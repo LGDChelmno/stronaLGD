@@ -1,0 +1,18 @@
+---
+layout: 'base.njk'
+---
+
+<main class="aktualnosc-main">
+    <article class="aktualnosc-article">
+        <div class="aktualnosc-container">
+
+            <img src="{{ image }}" alt="{{ imageAlt }}" class="aktualnosc-img">
+            <h1 class="aktualnosc-title">
+                {{ title }}
+            </h1>
+
+            {{ content | safe }}
+
+        </div>
+    </article>
+</main>
