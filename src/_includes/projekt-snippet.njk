@@ -1,0 +1,13 @@
+<div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="{{ projekt.url}}">{{ projekt.data.title }}</a></h3>
+        <h6>{{ projekt.data.date | postDate }}</h6>
+        <p> {{ projekt.data.description }} </p>
+        <a href="{{ projekt.url }}">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="projekty-zdjecie">
+        <img src="/assets/LGD.jpg" alt="">
+    </div>
+</div>

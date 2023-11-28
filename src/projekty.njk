@@ -3,38 +3,15 @@ title: LGD Chełmno - Projekty
 layout: 'base.njk'
 ---
 
-    <main class="projekty">
-        <div class="container-projekty">
-            <div class="projekty">
-                <h1>Projekty</h1>
-                <div class="projekty-container">
-                    <div class="projekty-wpis">
-                        <div class="projekty-tekst">
-                            <h3>Nazwa projektu</h3>
-                            <h6>data dodania</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam debitis nesciunt commodi quod itaque nobis asperiores eius vel esse obcaecati impedit ratione, doloremque ut illum aliquam officia? Ratione ad exercitationem beatae, quis tenetur commodi expedita laudantium eum itaque earum ipsa sed iusto labore architecto doloremque id, placeat quos eius perspiciatis?
-                            </p>
-                            <a href=""><div class="czytaj-btn">Czytaj dalej &rightarrow;</div></a>
-                        </div>
-                        <div class="projekty-zdjecie">
-                            <img src="/assets/LGD.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="projekty-wpis">
-                        <div class="projekty-tekst">
-                            <h3>Nazwa projektu</h3>
-                            <h6>data dodania</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam debitis nesciunt commodi quod itaque nobis asperiores eius vel esse obcaecati impedit ratione, doloremque ut illum aliquam officia? Ratione ad exercitationem beatae, quis tenetur commodi expedita laudantium eum itaque earum ipsa sed iusto labore architecto doloremque id, placeat quos eius perspiciatis?
-                            </p>
-                            <a href=""><div class="czytaj-btn">Czytaj dalej &rightarrow;</div></a>
-                        </div>
-                        <div class="projekty-zdjecie">
-                            <img src="/assets/LGD.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
+<main class="projekty">
+    <div class="container-projekty">
+        <div class="projekty">
+            <h1>Projekty</h1>
+            <div role="list" class="projekty-container">
+                {%- for projekt in collections.projekt | reverse -%}
+                {% include 'projekt-snippet.njk' %}
+                {%- endfor -%}
             </div>
         </div>
 
-    </main>
-    
+</main>
