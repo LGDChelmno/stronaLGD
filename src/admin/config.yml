@@ -17,4 +17,16 @@ collections:
       - { label: "Obraz Postu", name: "image", widget: "image" }
       - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
       - { label: "Treść", name: "body", widget: "markdown" }
-
+  - name: "projekty"
+    label: "Projekty"
+    folder: "src/projekty"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Opis", name: "description", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["projekt"] }
+      - { label: "Obraz Posru", name: "image", widget: "image" }
+      - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
+      - { label: "Treść", name: "body", widget: "markdown" }
