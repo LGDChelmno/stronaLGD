@@ -717,6 +717,10 @@ ol {
     text-align: right;
 }
 
+.konkursy h1 {
+    text-align: center;
+}
+
 .tabs-container {
     display: flex;
     flex-wrap: wrap;
