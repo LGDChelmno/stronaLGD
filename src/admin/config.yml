@@ -33,6 +33,7 @@ collections:
   - name: "konkursy"
     label: "Konkursy"
     folder: "src/konkursy"
+    create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
