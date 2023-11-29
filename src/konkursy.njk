@@ -5,6 +5,8 @@ layout: 'base.njk'
     <main class="konkursy">
         <div class="container-konkursy">
             <div class="tabs-container">
+                {%- for tabs in collections.tabs | reverse -%}
+                <button class="tab" onclick="showTab('{{ tabs.data.id }}')">{{ tabs.data.title }}</button>
                 <button class="tab" onclick="showTab('projekt2023')">Projekt pilotażowy 2023/PP/2</button>
                 <button class="tab" onclick="showTab('archiwalny2022')">Archiwalny - Projekt pilotażowy
                     2022/PP/1</button>
@@ -18,6 +20,12 @@ layout: 'base.njk'
                 <button class="tab" onclick="showTab('archiwalny1K2019')">Archiwalny - 1/K/2019</button>
                 <button class="tab" onclick="showTab('archiwalny2018G1')">Archiwalny - 2018/G/1</button>
             </div>
+
+            
+            <div id="{{ tabs.data.id }}" class="tab-content">
+                {{ tabs.content | safe }}
+            </div>
+            {%- endfor -%}
 
             <div id="projekt2023" class="tab-content">
                 <p>Lorem ipsum dolor sit amet.</p>
