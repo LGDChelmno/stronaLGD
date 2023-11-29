@@ -20,7 +20,7 @@ layout: 'base.njk'
                   {% for file in tabs.data.files %}
                     <li>
                       <a href="{{ file.file | url }}" target="_blank">
-                        {{ file.fileName }}  <!-- Używamy nowego pola fileName -->
+                        {{ file.fileName }}  
                       </a>
                     </li>
                   {%- endfor -%}
