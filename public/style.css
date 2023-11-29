@@ -713,6 +713,10 @@ ol {
     margin-bottom: 2rem;
 }
 
+.konkursy-data {
+    text-align: right;
+}
+
 .tabs-container {
     display: flex;
     flex-wrap: wrap;

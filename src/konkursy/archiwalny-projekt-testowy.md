@@ -1,6 +1,7 @@
 ---
 title: testowy post archiwalny
 id: archiwalny-testowy
+date: 2023-11-29
 ---
 
 Warunki zatrudnienia

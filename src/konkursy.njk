@@ -23,6 +23,7 @@ layout: 'base.njk'
 
             
             <div id="{{ tabs.data.id }}" class="tab-content">
+                <h6 class="konkursy-data">{{ tabs.data.date | postDate}}</h6>
                 {{ tabs.content | safe }}
             </div>
             {%- endfor -%}
