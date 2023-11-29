@@ -721,6 +721,16 @@ ol {
     text-align: center;
 }
 
+.konkursy a {
+    color: rgb(44, 44, 44);
+    text-decoration: none;
+}
+
+.konkursy a:hover {
+    text-decoration: underline;
+    color: #fab900;
+}
+
 .tabs-container {
     display: flex;
     flex-wrap: wrap;
