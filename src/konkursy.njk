@@ -14,6 +14,24 @@ layout: 'base.njk'
             <div id="{{ tabs.data.id }}" class="tab-content">
                 <h6 class="konkursy-data">{{ tabs.data.date | postDate}}</h6>
                 {{ tabs.content | safe }}
+
+                {% if tabs.data.files %}
+                <ul>
+                    {%for file in tabs.data.files %}
+                    <li>
+                        <a href="{{ file.file | url }}" target="_blank">
+                            {% if file.fileType == 'pdf' %}
+                                PDF:
+                            {% elif file.fileType == 'docx' %}
+                                DOCX:
+                            {% elif file.fileType == 'xlsx' %}
+                                XLSX:
+                            {{ file.file.name }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             </div>
             {%- endfor -%}
 
