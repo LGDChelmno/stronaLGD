@@ -30,3 +30,12 @@ collections:
       - { label: "Obraz Posru", name: "image", widget: "image" }
       - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
       - { label: "Treść", name: "body", widget: "markdown" }
+  - name: "konkursy"
+    label: "Konkursy"
+    folder: "src/konkursy"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Id pisane bez spacji", name: "id", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Treść", name: "body", widget: "markdown" }
