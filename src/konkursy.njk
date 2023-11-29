@@ -21,11 +21,11 @@ layout: 'base.njk'
                     <li>
                         <a href="{{ file.file | url }}" target="_blank">
                             {% if file.fileType == 'pdf' %}
-                                PDF:
+                               
                             {% elif file.fileType == 'docx' %}
-                                DOCX:
+                              
                             {% elif file.fileType == 'xlsx' %}
-                                XLSX:
+                                
                             {{ file.file.name }}
                         </a>
                     </li>
