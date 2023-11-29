@@ -22,9 +22,9 @@ layout: 'base.njk'
                         <a href="{{ file.file | url }}" target="_blank">
                             {% if file.fileType == 'pdf' %}
                                
-                            {% elif file.fileType == 'docx' %}
+                            {% elseif file.fileType == 'docx' %}
                               
-                            {% elif file.fileType == 'xlsx' %}
+                            {% elseif file.fileType == 'xlsx' %}
                                 
                             {{ file.file.name }}
                         </a>
