@@ -11,7 +11,15 @@ tags:
   - projekt
 image: /assets/lgd.jpg
 imageAlt: main post photo
-files: []
+files:
+  - file: >-
+      /assets/uploads/zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
+    fileName: test
+    fileType: pdf
+  - file: >-
+      /assets/uploads/zał.-nr-2-do-ogłoszenia-o-naborze_wzór_wniosek-o-dofinansowanie_efs.pdf
+    fileName: test
+    fileType: pdf
 gallery:
   - caption: zdjęcie przedstawiające kobiety na projekcie
     image: /assets/uploads/fota_1.jpg
