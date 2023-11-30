@@ -19,14 +19,14 @@ layout: 'base.njk'
                 <ul>
                   {% for file in projekt.data.files %}
                     <li>
-                      <a href="{{ file.file | url }}" target="_blank">
+                      <a href="{{ file.fileUrl }}" target="_blank">
                         {{ file.fileName }}  
                       </a>
                     </li>
                   {% endfor %}
                 </ul>
             </div>
-              {% endif %}
+            {% endif %}
             
             {% if gallery %}
             <div class="gallery">
