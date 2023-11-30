@@ -74,3 +74,25 @@ function showTab(tabId) {
     }
     document.querySelector('[onclick="showTab(\'' + tabId + '\')"]').classList.add('active');
 }
+
+
+// photos full screen in posts
+function showFullImage(imageUrl) {
+    // Tworzymy nowy element obrazu pełnoekranowego
+    var fullImage = document.createElement('img');
+    fullImage.src = imageUrl;
+    fullImage.alt = 'Full Image';
+
+    // Tworzymy overlay (nakładkę) do wyświetlania obrazu na całym ekranie
+    var overlay = document.createElement('div');
+    overlay.classList.add('overlay');
+    overlay.appendChild(fullImage);
+
+    // Dodajemy overlay do body dokumentu
+    document.body.appendChild(overlay);
+
+    // Dodajemy obsługę zdarzenia do zamknięcia obrazu po kliknięciu
+    overlay.addEventListener('click', function () {
+        document.body.removeChild(overlay);
+    });
+}

@@ -18,7 +18,7 @@ layout: 'base.njk'
             <div class="gallery">
                 {% for item in gallery %}
                 <div class="gallery-item">
-                    <img src="{{ item.image }}" alt="{{ item.caption }}" class="gallery-image">
+                    <img src="{{ item.image }}" alt="{{ item.caption }}" class="gallery-image" onclick="showFullImage('{{ item.image }}')">
                 </div>
                 {% endfor %}
             </div>
