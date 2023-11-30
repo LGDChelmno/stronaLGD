@@ -17,6 +17,11 @@ collections:
       - { label: "Obraz Postu", name: "image", widget: "image" }
       - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
       - { label: "Treść", name: "body", widget: "markdown" }
+      - { label: 'Galeria', name: 'gallery', widget: 'list', multiple: true, fields: [
+          { label: 'Zdjęcie', name: 'image', widget: 'image' },
+          { label: 'Podpis', name: 'caption', widget: 'string' },
+        ]
+      }
   - name: "projekty"
     label: "Projekty"
     folder: "src/projekty"
@@ -30,6 +35,11 @@ collections:
       - { label: "Obraz Posru", name: "image", widget: "image" }
       - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
       - { label: "Treść", name: "body", widget: "markdown" }
+      - { label: 'Galeria', name: 'gallery', widget: 'list', multiple: true, fields: [
+          { label: 'Zdjęcie', name: 'image', widget: 'image' },
+          { label: 'Podpis', name: 'caption', widget: 'string' },
+        ]
+      }
   - name: "konkursy"
     label: "Konkursy"
     folder: "src/konkursy"

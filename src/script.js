@@ -82,16 +82,29 @@ function showFullImage(imageUrl) {
     var fullImage = document.createElement('img');
     fullImage.src = imageUrl;
     fullImage.alt = 'Full Image';
+    fullImage.style.maxWidth = '100%';
+    fullImage.style.maxHeight = '100%';
 
     // Tworzymy overlay (nakładkę) do wyświetlania obrazu na całym ekranie
     var overlay = document.createElement('div');
     overlay.classList.add('overlay');
     overlay.appendChild(fullImage);
 
+    // Stylizujemy overlay
+    overlay.style.position = 'fixed';
+    overlay.style.top = '0';
+    overlay.style.left = '0';
+    overlay.style.width = '100%';
+    overlay.style.height = '100%';
+    overlay.style.backgroundColor = 'rgba(0, 0, 0, 0.7)';
+    overlay.style.display = 'flex';
+    overlay.style.alignItems = 'center';
+    overlay.style.justifyContent = 'center';
+
     // Dodajemy overlay do body dokumentu
     document.body.appendChild(overlay);
 
-    // Dodajemy obsługę zdarzenia do zamknięcia obrazu po kliknięciu
+    // Dodajemy obsługę zdarzenia do zamknięcia overlay po kliknięciu
     overlay.addEventListener('click', function () {
         document.body.removeChild(overlay);
     });

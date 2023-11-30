@@ -869,6 +869,38 @@ ol {
     left: 80rem;
 }
 
+/* galeria zdjęć w postach */
+.gallery {
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 80%;
+}
+
+.gallery-item { 
+    width: calc(33.33% - 10px);
+    height: auto;
+    margin-bottom: 10px; 
+    box-sizing: border-box;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.gallery-item:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
+
 /* opcje dla footer */
 
 footer {
