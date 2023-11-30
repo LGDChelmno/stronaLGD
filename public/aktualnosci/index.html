@@ -9,6 +9,7 @@
     <script src="https://kit.fontawesome.com/8a6ff19da0.js" crossorigin="anonymous"></script>
     <link rel="icon" href="/assets/favicon.png" type="image/png">
     <script src="/script.js"></script>
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 
@@ -54,6 +55,18 @@
             <div class="aktualnosci">
                 <a href="./aktualnosci.html"><h1>Aktualności</h1></a>
                 <div role="list" class="aktualnosci-container"><div class="aklualnosc-wpis">
+    <div class="aktualnosc-tekst">
+        <h3><a href="/news/2023-11-29-test/">test</a></h3>
+        <h6>29 lis 2023</h6>
+        <p>tutaj trzeba dodawać więcej, żeby się nie przewijało zdjęcie do lewej strony [...]</p>
+        <a href="/news/2023-11-29-test/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/lgd.jpg" alt="">
+    </div>
+</div><div class="aklualnosc-wpis">
     <div class="aktualnosc-tekst">
         <h3><a href="/news/2016-04-14-nabór-wniosków-wsparcie-przedsiębiorczości-i-samozatrudnienia-w-regionie/">Nabór wniosków - Wsparcie przedsiębiorczości i samozatrudnienia w regionie</a></h3>
         <h6>14 kwi 2016</h6>
@@ -186,6 +199,18 @@
         </div>
     </footer>
 
+
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+    </script>
 
 </body>
 </html>

@@ -13,6 +13,17 @@ layout: 'base.njk'
 
             {{ content | safe }}
 
+            
+            {% if gallery %}
+            <div class="gallery">
+                {% for item in gallery %}
+                <div class="gallery-item">
+                    <img src="{{ item.image }}" alt="{{ item.caption }}" class="gallery-image">
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+
         </div>
     </article>
 </main>
