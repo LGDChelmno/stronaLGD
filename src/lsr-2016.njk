@@ -8,7 +8,7 @@ layout: 'base.njk'
             <h1>Lokalna Strategia Rozwoju LGD Chełmno</h1>
             <div class="tabs-container">
                 {%- for lsr in collections.lsr| reverse -%}
-                <button class="tab" onclick="showTab('{{ tabs.data.id }}')">{{ lsr.data.title }}</button>
+                <button class="tab" onclick="showTab('{{ lsr.data.id }}')">{{ lsr.data.title }}</button>
             </div>
 
             
