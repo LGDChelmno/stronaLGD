@@ -76,7 +76,7 @@ function showTab(tabId) {
 }
 
 
-// photos full screen in posts
+// photos fullscreen in posts
 function showFullImage(imageUrl) {
     // Tworzymy nowy element obrazu pełnoekranowego
     var fullImage = document.createElement('img');
