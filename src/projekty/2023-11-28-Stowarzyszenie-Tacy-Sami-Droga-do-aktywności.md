@@ -14,12 +14,8 @@ imageAlt: main post photo
 files:
   - file: >-
       /assets/uploads/zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
-    fileName: 'załącznik kompletnie nie do tego ale dodany dla testu '
-    fileType: pdf
-  - file: >-
-      /assets/uploads/zał.-nr-2-do-ogłoszenia-o-naborze_wzór_wniosek-o-dofinansowanie_efs.docx
     fileName: test
-    fileType: docx
+    fileType: pdf
 gallery:
   - caption: zdjęcie przedstawiające kobiety na projekcie
     image: /assets/uploads/fota_1.jpg
