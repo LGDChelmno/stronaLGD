@@ -19,7 +19,7 @@ layout: 'base.njk'
                 <ul>
                   {% for file in files %}
                     <li>
-                      <a href="{{ file.file | Url}}" target="_blank">
+                      <a href="{{ file.file | url }}" target="_blank">
                         {{ file.fileName }}  
                       </a>
                     </li>
