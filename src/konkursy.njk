@@ -14,8 +14,9 @@ layout: 'base.njk'
             <div id="{{ tabs.data.id }}" class="tab-content">
                 <h6 class="konkursy-data">{{ tabs.data.date | postDate}}</h6>
                 {{ tabs.content | safe }}
-
+                
                 {% if tabs.data.files %}
+                  <h2 class="zalacznik-h2">Załączniki:</h2>
                 <ul>
                   {% for file in tabs.data.files %}
                     <li>
