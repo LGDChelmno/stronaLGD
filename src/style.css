@@ -894,6 +894,7 @@ ol {
     cursor: pointer;
     box-sizing: border-box;
     transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
+    border: 1rem groove #4871b7;
 }
 
 .gallery-item:hover {
@@ -965,6 +966,12 @@ footer a:hover {
 }
 
 /* mediaquerys */
+@media (max-width: 1000px) {
+    .gallery-item {
+        width: 100%;
+    }
+}
+
 @media (max-width: 1400px) {
     html {
         font-size: 62.5%;
