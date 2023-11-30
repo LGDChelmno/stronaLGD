@@ -14,8 +14,8 @@ layout: 'base.njk'
             {{ content | safe }}
 
             <script>
-                console.log('Files:', {{ projekt.data.files | dump | safe }});
-            </script>
+                console.log('All Data:', {{ collections | dump | safe }});
+            </script>            
 
             {% if projekt.data.files %}
             <div class="zalaczniki">
