@@ -11,15 +11,7 @@ tags:
   - projekt
 image: /assets/lgd.jpg
 imageAlt: main post photo
-files:
-  - file: >-
-      /assets/uploads/zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
-    fileName: test do wyświetlenia
-    fileType: pdf
-  - file: >-
-      /assets/uploads/zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
-    fileName: weź się wyświetl
-    fileType: pdf
+files: []
 gallery:
   - caption: zdjęcie przedstawiające kobiety na projekcie
     image: /assets/uploads/fota_1.jpg
