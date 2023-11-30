@@ -13,11 +13,11 @@ layout: 'base.njk'
 
             {{ content | safe }}
 
-            {% if projekt.data.files %}
+            {% if files %}
             <div class="zalaczniki">
                 <h2 class="zalacznik-h2">Załączniki:</h2>
                 <ul>
-                  {% for file in projekt.data.files %}
+                  {% for file in files %}
                     <li>
                       <a href="{{ file.fileUrl }}" target="_blank">
                         {{ file.fileName }}  
