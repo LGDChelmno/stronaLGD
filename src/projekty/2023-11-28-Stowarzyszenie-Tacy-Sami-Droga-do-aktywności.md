@@ -11,6 +11,11 @@ tags:
   - projekt
 image: /assets/lgd.jpg
 imageAlt: main post photo
+files:
+  - file: >-
+      /assets/uploads/zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
+    fileName: 'załącznik kompletnie nie do tego ale dodany dla testu '
+    fileType: pdf
 gallery:
   - caption: zdjęcie przedstawiające kobiety na projekcie
     image: /assets/uploads/fota_1.jpg
