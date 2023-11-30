@@ -19,7 +19,7 @@ layout: 'base.njk'
                 {% if lsr.data.files %}
                   <h2 class="zalacznik-h2">Załączniki:</h2>
                 <ul>
-                  {% for file in files %}
+                  {% for file in lsr.data.files %}
                     <li>
                       <a href="{{ file.file | url }}" target="_blank">
                         {{ file.fileName }}  
