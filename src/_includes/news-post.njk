@@ -14,6 +14,8 @@ layout: 'base.njk'
             {{ content | safe }}
 
             {% if news.data.files %}
+            <div class="zalaczniki">
+                <h2 class="zalacznik-h2">Załączniki:</h2>
                 <ul>
                   {% for file in news.data.files %}
                     <li>
@@ -23,6 +25,7 @@ layout: 'base.njk'
                     </li>
                   {% endfor %}
                 </ul>
+            </div>
               {% endif %}
             
 

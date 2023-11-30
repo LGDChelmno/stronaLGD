@@ -902,6 +902,13 @@ ol {
     filter: brightness(1.2);
 }
 
+.zalaczniki {
+    width: 100%;
+}
+
+.zalacznik-h2 {
+    color:#0ca638;
+}
 /* opcje dla footer */
 
 footer {
