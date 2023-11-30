@@ -14,7 +14,7 @@ imageAlt: main post photo
 files:
   - file: >-
       /assets/uploads/zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
-    fileName: test
+    fileName: test do wyświetlenia
     fileType: pdf
 gallery:
   - caption: zdjęcie przedstawiające kobiety na projekcie
