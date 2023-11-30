@@ -16,7 +16,7 @@ layout: 'base.njk'
                 <h1>{{ lsr.data.title }}</h1>
                 {{ lsr.content | safe }}
                 
-                {% if files %}
+                {% if lsr.data.files %}
                   <h2 class="zalacznik-h2">Załączniki:</h2>
                 <ul>
                   {% for file in files %}
