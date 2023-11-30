@@ -13,6 +13,10 @@ layout: 'base.njk'
 
             {{ content | safe }}
 
+            <script>
+                console.log('Files:', {{ projekt.data.files }});
+            </script>
+
             {% if projekt.data.files %}
             <div class="zalaczniki">
                 <h2 class="zalacznik-h2">Załączniki:</h2>
