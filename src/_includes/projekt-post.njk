@@ -14,7 +14,7 @@ layout: 'base.njk'
             {{ content | safe }}
 
             <script>
-                console.log('Files:', {{ projekt.data.files | json }});
+                console.log('Files:', {{ projekt.data.files | dump | safe }});
             </script>
 
             {% if projekt.data.files %}
