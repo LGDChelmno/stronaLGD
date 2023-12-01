@@ -919,6 +919,10 @@ ol {
     text-decoration: underline;
     color: #fab900;
 }
+
+.arrow {
+    font-size: 2rem;
+}
 /* opcje dla footer */
 
 footer {

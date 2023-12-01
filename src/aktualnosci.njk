@@ -20,8 +20,8 @@ pagination:
                         {%- endfor -%}
                     </ol>
 
-                    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow;</a>{% endif %}
-                    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">&rightarrow;</a>{% endif %}
+                    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
+                    {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
 
                 </div>
             </div>
