@@ -1,7 +1,7 @@
 ---
 title: testowa aktualność do paginacjo
 description: 'dodamy trochę opisu tataj, żeby zdjęcie zostało na swoim miesjcu [...]'
-date: 2023-12-01T07:32:22.522Z
+date: 2023-12-01T08:32:22+01:00
 tags:
   - news
   - glowna
