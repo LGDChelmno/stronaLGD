@@ -12,10 +12,6 @@ module.exports = function(eleventyConfig) {
             day: 'numeric',
             month: 'long',
             year: 'numeric',
-            hour: 'numeric',
-            minute: 'numeric',
-            second: 'numeric',
-            timeZoneName: 'short',
             locale: 'pl'
         });
     });
