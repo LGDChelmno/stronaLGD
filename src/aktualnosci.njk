@@ -1,6 +1,10 @@
 ---
 title: LGD Chełmno - Aktualności
 layout: 'base.njk'
+pagination:
+    data: collections.news
+    size: 5
+    alias: news
 ---
 
     <main class="aktualnosci-page">
@@ -9,25 +13,18 @@ layout: 'base.njk'
                 <a href="./aktualnosci.html"><h1>Aktualności</h1></a>
                 <div role="list" class="aktualnosci-container">
                     
-                    {%- for news in collections.news | reverse -%}
-                        {% include 'news-snippet.njk' %}
-                    {%- endfor -%}
+                    <ol>
+                        {%- for news in news -%}
+                            {% include 'news-snippet.njk' %}
+                        {%- endfor -%}
+                    </ol>
+
+                    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow;</a>{% endif %}
+                    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">&rightarrow;</a>{% endif %}
 
                 </div>
             </div>
         </div>
     </main>
 
-    <!-- <div class="aklualnosc-wpis">
-        <div class="aktualnosc-tekst">
-            <h3>Nazwa wpisu</h3>
-            <h6>data dodania</h6>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam debitis nesciunt commodi quod itaque nobis asperiores eius vel esse obcaecati impedit ratione, doloremque ut illum aliquam officia? Ratione ad exercitationem beatae, quis tenetur commodi expedita laudantium eum itaque earum ipsa sed iusto labore architecto doloremque id, placeat quos eius perspiciatis?
-            </p>
-            <a href=""><div class="czytaj-btn">Czytaj dalej &rightarrow;</div></a>
-        </div>
-        <div class="aktualnosc-zdjecie">
-            <img src="/assets/LGD.jpg" alt="">
-        </div>
-    </div> -->
    

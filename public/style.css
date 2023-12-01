@@ -909,6 +909,16 @@ ol {
 .zalacznik-h2 {
     color:#0ca638;
 }
+
+.zalaczniki a {
+    color: rgb(44, 44, 44);
+    text-decoration: none;
+}
+
+.zalaczniki a:hover {
+    text-decoration: underline;
+    color: #fab900;
+}
 /* opcje dla footer */
 
 footer {

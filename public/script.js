@@ -55,7 +55,7 @@ window.addEventListener("scroll", function () {
 });
 
 
-// zakładki w konkurs
+// zakładki w konkurs i lsr ?
 function showTab(tabId) {
     // Ukryj wszystkie zakładki
     var tabs = document.getElementsByClassName('tab-content');
