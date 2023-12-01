@@ -8,14 +8,10 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/admin');
 
     eleventyConfig.addFilter("postDate", (dateObj) => {
-        return DateTime.fromJSDate(dateObj).toLocaleString({
-            day: 'numeric',
-            month: 'long',
-            year: 'numeric',
-            locale: 'pl'
-        });
+        const options = { day: 'numeric', month: 'short', year: 'numeric' };
+        return new Intl.DateTimeFormat('pl-PL', options).format(dateObj);
     });
-
+    
     return {
         dir: {
             input: "src",
