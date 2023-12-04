@@ -13,9 +13,18 @@
 </head>
 <body>
 
-     <header class="topnav" id="myTopnav">
+     <header class="topnav" id="myTopnav content">
         <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
         <nav class="topnav" id="myTopnav">
+            <div id="accessibility-panel">
+                <h3>Accessibility Panel</h3>
+                <label for="contrast">Contrast:</label>
+                <input type="range" id="contrast" min="0" max="200" value="100">
+                <button onclick="toggleContrast()">Toggle Contrast</button>
+                <button onclick="resetContrast()">Reset Contrast</button>
+            </div>
+        
+            <div id="toggle-panel-btn" onclick="toggleAccessibilityPanel()"><i class="fa-solid fa-wheelchair"></i></div>
             <div id="myLinks">
                 <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
 
@@ -63,18 +72,6 @@
     </div>
 </div><div class="aklualnosc-wpis">
     <div class="aktualnosc-tekst">
-        <h3><a href="/news/2023-11-29-test/">test</a></h3>
-        <h6>29 lis 2023</h6>
-        <p>tutaj trzeba dodawać więcej, żeby się nie przewijało zdjęcie do lewej strony [...]</p>
-        <a href="/news/2023-11-29-test/">
-            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
-        </a>
-    </div>
-    <div class="aktualnosc-zdjecie">
-        <img src="/assets/uploads/lgd.jpg" alt="">
-    </div>
-</div><div class="aklualnosc-wpis">
-    <div class="aktualnosc-tekst">
         <h3><a href="/news/2016-04-14-nabór-wniosków-wsparcie-przedsiębiorczości-i-samozatrudnienia-w-regionie/">Nabór wniosków - Wsparcie przedsiębiorczości i samozatrudnienia w regionie</a></h3>
         <h6>14 kwi 2016</h6>
         <p>Instytucja Zarządzająca Kujawsko-Pomorskim Regionalnym Programem Operacyjnym na lata 2014-2020 ogłasza nabór wniosków w tybie konkursowym, w ramach Działania 8.3 Wsparcie [...]</p>
@@ -103,6 +100,18 @@
         <h6>14 mar 2016</h6>
         <p>W dniu 14 marca 2016r. Zarząd Stowarzyszenia LGD Chełmno dokonoał wyboru kandydata na stanowsiko Kierownika biura LGD Chełmno. [...]</p>
         <a href="/news/2016-03-14-rozstrzygnięcie-konkursu-na-stanowisko-kierownika-biura-lgd-chełmno/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/lgd.jpg" alt="">
+    </div>
+</div><div class="aklualnosc-wpis">
+    <div class="aktualnosc-tekst">
+        <h3><a href="/news/2016-03-14-Staż-w-biurze-lgd/">Staż w biurze LGD</a></h3>
+        <h6>14 mar 2016</h6>
+        <p>Stowarzyszenie Lokalna Grupa Działania Chełmno poszukuje kandydata na staż w biurze LGD.[...]</p>
+        <a href="/news/2016-03-14-Staż-w-biurze-lgd/">
             <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
         </a>
     </div>

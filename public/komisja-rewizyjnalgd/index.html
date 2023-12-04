@@ -13,9 +13,18 @@
 </head>
 <body>
 
-     <header class="topnav" id="myTopnav">
+     <header class="topnav" id="myTopnav content">
         <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
         <nav class="topnav" id="myTopnav">
+            <div id="accessibility-panel">
+                <h3>Accessibility Panel</h3>
+                <label for="contrast">Contrast:</label>
+                <input type="range" id="contrast" min="0" max="200" value="100">
+                <button onclick="toggleContrast()">Toggle Contrast</button>
+                <button onclick="resetContrast()">Reset Contrast</button>
+            </div>
+        
+            <div id="toggle-panel-btn" onclick="toggleAccessibilityPanel()"><i class="fa-solid fa-wheelchair"></i></div>
             <div id="myLinks">
                 <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
 

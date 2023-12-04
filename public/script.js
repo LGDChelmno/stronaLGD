@@ -109,3 +109,28 @@ function showFullImage(imageUrl) {
         document.body.removeChild(overlay);
     });
 }
+
+// panel dostępu
+
+const defaultContrast = 100;
+
+function toggleContrast() {
+    const contrastValue = document.getElementById('contrast').value;
+    const contrastPercentage = contrastValue / 100;
+    const content = document.getElementById('content');
+
+    content.style.color = contrastPercentage > 1 ? '#000' : '#fff';
+    content.style.background = contrastPercentage > 1 ? '#fff' : 'url("background-image.jpg") center/cover';
+}
+
+function resetContrast() {
+    document.getElementById('contrast').value = defaultContrast;
+    toggleContrast(); 
+}
+
+function toggleAccessibilityPanel() {
+    const panel = document.getElementById('accessibility-panel');
+    const currentState = panel.style.right;
+
+    panel.style.right = currentState === '0px' ? '-500px' : '0';
+}

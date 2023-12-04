@@ -13,9 +13,18 @@
 </head>
 <body>
 
-     <header class="topnav" id="myTopnav">
+     <header class="topnav" id="myTopnav content">
         <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
         <nav class="topnav" id="myTopnav">
+            <div id="accessibility-panel">
+                <h3>Accessibility Panel</h3>
+                <label for="contrast">Contrast:</label>
+                <input type="range" id="contrast" min="0" max="200" value="100">
+                <button onclick="toggleContrast()">Toggle Contrast</button>
+                <button onclick="resetContrast()">Reset Contrast</button>
+            </div>
+        
+            <div id="toggle-panel-btn" onclick="toggleAccessibilityPanel()"><i class="fa-solid fa-wheelchair"></i></div>
             <div id="myLinks">
                 <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
 
@@ -42,7 +51,7 @@
         </nav>
     </header>
 
-        <main>
+        <main id="content">
         <div class="lane-1">
             <div class="about">
                 <a href="/stowarzyszenie/">
@@ -67,18 +76,6 @@
         <h6>1 gru 2023</h6>
         <p>dodamy trochę opisu tataj, żeby zdjęcie zostało na swoim miesjcu do prawej strony [...]</p>
         <a href="/news/2023-12-01-testowa-aktualność-do-paginacjo/">
-            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
-        </a>
-    </div>
-    <div class="aktualnosc-zdjecie">
-        <img src="/assets/uploads/lgd.jpg" alt="">
-    </div>
-</div><div class="aklualnosc-wpis">
-    <div class="aktualnosc-tekst">
-        <h3><a href="/news/2023-11-29-test/">test</a></h3>
-        <h6>29 lis 2023</h6>
-        <p>tutaj trzeba dodawać więcej, żeby się nie przewijało zdjęcie do lewej strony [...]</p>
-        <a href="/news/2023-11-29-test/">
             <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
         </a>
     </div>

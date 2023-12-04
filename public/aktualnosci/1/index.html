@@ -13,9 +13,18 @@
 </head>
 <body>
 
-     <header class="topnav" id="myTopnav">
+     <header class="topnav" id="myTopnav content">
         <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
         <nav class="topnav" id="myTopnav">
+            <div id="accessibility-panel">
+                <h3>Accessibility Panel</h3>
+                <label for="contrast">Contrast:</label>
+                <input type="range" id="contrast" min="0" max="200" value="100">
+                <button onclick="toggleContrast()">Toggle Contrast</button>
+                <button onclick="resetContrast()">Reset Contrast</button>
+            </div>
+        
+            <div id="toggle-panel-btn" onclick="toggleAccessibilityPanel()"><i class="fa-solid fa-wheelchair"></i></div>
             <div id="myLinks">
                 <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
 
@@ -50,18 +59,6 @@
                 <div role="list" class="aktualnosci-container">
                     
                     <ol><div class="aklualnosc-wpis">
-    <div class="aktualnosc-tekst">
-        <h3><a href="/news/2016-03-14-Staż-w-biurze-lgd/">Staż w biurze LGD</a></h3>
-        <h6>14 mar 2016</h6>
-        <p>Stowarzyszenie Lokalna Grupa Działania Chełmno poszukuje kandydata na staż w biurze LGD.[...]</p>
-        <a href="/news/2016-03-14-Staż-w-biurze-lgd/">
-            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
-        </a>
-    </div>
-    <div class="aktualnosc-zdjecie">
-        <img src="/assets/lgd.jpg" alt="">
-    </div>
-</div><div class="aklualnosc-wpis">
     <div class="aktualnosc-tekst">
         <h3><a href="/news/2016-02-24-Konkurs-na-stanowsiko-Kierownika-biura-LGD-Chełmno/">Konkurs na stanowsiko Kierownika biura LGD Chełmno</a></h3>
         <h6>23 lut 2016</h6>
