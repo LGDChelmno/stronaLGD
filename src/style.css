@@ -427,7 +427,7 @@ main a {
 }
 
 .statutlgd a:hover {
-    color: #fab900;
+    color: #A0170D;
     text-decoration: underline;
 }
 
@@ -468,7 +468,7 @@ main a {
 
 .radalgd a:hover {
     text-decoration: underline;
-    color: #fab900;
+    color: #A0170D;
 }
 
 table {
@@ -523,7 +523,7 @@ tr {
 
 .zarzadlgd a:hover {
     text-decoration: underline;
-    color: #fab900;
+    color: #A0170D;
 }
 
 /* strona: komisja rewizyjna */
@@ -560,7 +560,7 @@ tr {
 
 .komisjarewizyjna a:hover {
     text-decoration: underline;
-    color: #fab900;
+    color: #A0170D;
 }
 
 /* strona: czlonkostwo w lgd */
@@ -597,7 +597,7 @@ tr {
 
 .czlonkostwolgd a:hover {
     text-decoration: underline;
-    color: #fab900;
+    color: #A0170D;
 }
 
 .czlonkostwolgd ol,
@@ -702,7 +702,7 @@ ol {
 
 .lsr-2016 a:hover {
     text-decoration: underline;
-    color: #fab900;
+    color: #A0170D;
 }
 
 /* strona: konkursy */
@@ -729,7 +729,7 @@ ol {
 
 .konkursy a:hover {
     text-decoration: underline;
-    color: #fab900;
+    color: #A0170D;
 }
 
 .tabs-container {
@@ -918,7 +918,7 @@ ol {
 
 .zalaczniki a:hover {
     text-decoration: underline;
-    color: #fab900;
+    color: #A0170D;
 }
 
 .arrow {
