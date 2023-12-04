@@ -22,6 +22,44 @@ body {
     background-size: cover;
 }
 
+a[href$=".pdf"]::before{
+    content: "otwiera plik pdf w nowym oknie przeglądarki";
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+} 
+}
+
+a[href$=".docx"]::before {
+    content: "Rozpocznie pobieranie pliku docx";
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+}
+
+a[href$=".xls"]::before {
+    content: "Rozpocznie pobieranie pliku xls";
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
 /* opcje dla header */
 
 header {
