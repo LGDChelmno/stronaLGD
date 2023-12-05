@@ -1358,10 +1358,6 @@ footer a:hover {
         width: 100%;
     }
 
-    .aklualnosc-wpis {
-        flex-direction: column-reverse
-    }
-
     .polecamy {
         flex-direction: column;
     }
