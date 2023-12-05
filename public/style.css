@@ -604,6 +604,10 @@ tr {
     list-style: none;
 }
 
+.komisjarewizyjna li {
+    margin-left: 0;
+}
+
 .komisjarewizyjna a {
     color: rgb(44, 44, 44);
     text-decoration: none;
