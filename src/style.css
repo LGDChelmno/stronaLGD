@@ -72,6 +72,10 @@ a[href$=".xls"] {
     content: " (.xls)"
 }
 
+h2 {
+    color:#A0170D;
+}
+
 /* opcje dla header */
 
 header {
