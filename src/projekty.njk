@@ -13,16 +13,14 @@ pagination:
         <div class="projekty">
             <h1>Projekty</h1>
             <div role="list" class="projekty-container">
-            <ol>
+
                 {%- for projekt in collections.projekt | reverse -%}
                 {% include 'projekt-snippet.njk' %}
                 {%- endfor -%}
-            </ol>
-            
-            {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
-            {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
 
             </div>
+            {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
+            {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
         </div>
 
 </main>

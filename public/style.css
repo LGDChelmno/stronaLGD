@@ -33,7 +33,7 @@ a[href$=".pdf"]::before{
     clip: rect(0, 0, 0, 0);
     border: 0;
 } 
-}
+
 
 a[href$=".docx"]::before {
     content: "Rozpocznie pobieranie pliku docx";
@@ -46,7 +46,7 @@ a[href$=".docx"]::before {
     clip: rect(0, 0, 0, 0);
     border: 0;
 }
-}
+
 
 a[href$=".xls"]::before {
     content: "Rozpocznie pobieranie pliku xls";
@@ -297,20 +297,17 @@ main a {
 .aktualnosci-container {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
-    text-align: justify;
 }
 
 .aklualnosc-wpis {
     display: flex;
-    width: 100%;
+    flex-wrap: wrap-reverse; 
+    width: calc(33.33% - 20px); 
+    box-sizing: border-box; 
     border: 2px solid #36568C;
+    margin-right: 20px; 
     margin-bottom: 10px;
     padding: 10px 0;
-}
-
-.aktualnosci-tekst {
-    width: 50%;
 }
 
 .aktualnosci p {
@@ -319,7 +316,7 @@ main a {
 
 .czytaj-btn {
     color: #A0170D;
-    width: 30%;
+    width: 50%;
     font-size: 1.6rem;
     border-bottom: 1px solid #A0170D;
     padding: 0.5rem;
@@ -348,7 +345,7 @@ main a {
 }
 
 .aktualnosci img {
-    width: 600px;
+    width: 100%;
     height: auto;
 }
 
@@ -836,16 +833,17 @@ ol {
 .projekty-container {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
-    text-align: justify;
 }
 
 .projekty-wpis {
     display: flex;
-    width: 100%;
+    flex-wrap: wrap-reverse; 
+    width: calc(33.33% - 20px); 
+    box-sizing: border-box; 
     border: 2px solid #36568C;
-    margin-bottom: 1rem;
-    padding: 1rem 0;
+    margin-right: 20px; 
+    margin-bottom: 10px;
+    padding: 10px 0;
 }
 
 .projekty-tekst {
@@ -861,8 +859,12 @@ ol {
 }
 
 .projekty img {
-    width: 600px;
+    width: 100%;
     height: auto;
+}
+
+.projekty a {
+    color: #A0170D;
 }
 
 /* Strona: kontakt */

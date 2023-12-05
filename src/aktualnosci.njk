@@ -3,7 +3,7 @@ title: LGD Chełmno - Aktualności
 layout: 'base.njk'
 pagination:
     data: collections.news
-    size: 5
+    size: 6
     alias: news
     reverse: true
 ---
@@ -14,16 +14,13 @@ pagination:
                 <a href="./aktualnosci.html"><h1>Aktualności</h1></a>
                 <div role="list" class="aktualnosci-container">
                     
-                    <ol>
                         {%- for news in news -%}
                             {% include 'news-snippet.njk' %}
                         {%- endfor -%}
-                    </ol>
-
-                    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
-                    {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
 
                 </div>
+                {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
+                {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
             </div>
         </div>
     </main>
