@@ -1365,8 +1365,4 @@ footer a:hover {
     .polecamy-container {
         flex-direction: column;
     }
-
-    .projekty-wpis {
-        flex-direction: column-reverse;
-    }
 }
