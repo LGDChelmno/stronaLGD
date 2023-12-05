@@ -1008,6 +1008,12 @@ footer {
     width: 3rem;
     height: auto;
     padding: 1rem;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+.social-media img:hover {
+    scale: 1.3;
 }
 
 .footer-content {
