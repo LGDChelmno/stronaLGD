@@ -64,3 +64,9 @@ Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt "Wsparcie na 
 * Całkowita wartość projektu 332 489,45 zł,
 * Całkowita wartość dofinansowania 315 864,97 zł,
 * Wkład własny 16 624,48 zł.
+
+<br>
+
+<br>
+
+<br>
