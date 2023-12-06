@@ -3,7 +3,7 @@ title: LGD Chełmno - Projekty
 layout: 'base.njk'
 pagination:
     data: collections.projekt
-    size: 5
+    size: 6
     alias: projekt
     reverse: true
 ---
@@ -14,7 +14,7 @@ pagination:
             <h1>Projekty</h1>
             <div role="list" class="projekty-container">
 
-                {%- for projekt in collections.projekt | reverse -%}
+                {%- for projekt in collections.projekt -%}
                 {% include 'projekt-snippet.njk' %}
                 {%- endfor -%}
 
