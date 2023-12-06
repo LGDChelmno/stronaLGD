@@ -4,7 +4,7 @@ description: >-
   Projekt realizowany przez Fundację Rodzina Przymierza w Chełmnie pt.:
   "Aktywizacja i integracja społeczności senioralnej miasta Chełmna". Celem
   projektu jest integracja i aktywizacja oraz [...]
-date: 2019-04-16T09:17:18+02:00
+date: 2019-04-16T07:17:18.000Z
 tags:
   - projekt
 image: >-
@@ -74,3 +74,9 @@ Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt "Wsparcie na 
 * Całkowita wartość projektu 332 489,45 zł,
 * Całkowita wartość dofinansowania 315 864,97 zł,
 * Wkład własny 16 624,48 zł.
+
+<br>
+
+<br>
+
+<br>

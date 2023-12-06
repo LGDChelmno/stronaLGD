@@ -18,9 +18,13 @@ files:
     fileType: pdf
 gallery: []
 ---
-Projekt realizowany przez Zgromadzenie Sióstr Miłosiedzia Św. Wincentego a Paulo Prowincja Chełmińsko Poznańska<br>
+Projekt realizowany przez Zgromadzenie Sióstr Miłosiedzia Św. Wincentego a Paulo Prowincja Chełmińsko Poznańska
 
-## pt.: "Miłość jest twórcza do nieskończoności".<br>
+<br>
+
+## pt.: "Miłość jest twórcza do nieskończoności".
+
+## <br>
 
 ## 
 
