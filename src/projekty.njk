@@ -14,7 +14,7 @@ pagination:
             <h1>Projekty</h1>
             <div role="list" class="projekty-container">
 
-                {%- for projekt in collections.projekt -%}
+                {%- for projekt in projekt -%}
                 {% include 'projekt-snippet.njk' %}
                 {%- endfor -%}
 
