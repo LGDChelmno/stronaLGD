@@ -4,13 +4,18 @@ description: >-
   Projekt realizowany przez Zgromadzenie Sióstr Miłosierdzia Św. Wincentego a
   Paulo Prowincja Chełmnińsko Poznańska pt.: "Miłość jest twórcza do
   nieskończoności". Celem jest zwiększenie liczby [...]
-date: 2019-04-01T08:18:12+02:00
+date: 2019-04-01T06:18:12.000Z
 tags:
   - projekt
 image: /assets/uploads/grant-milosc-do-nieskonczonosci.jpg
 imageAlt: 'Zdjęcie tytułowe, Miłość jest twórcza do nieskończonosci'
 files:
-  - {}
+  - file: /assets/uploads/plakat-zgromadzenie-sióstr-miłosierdzia.pdf
+    fileName: plakat - Zgromadzenie Sióstr Miłosierdzia
+    fileType: pdf
+  - file: /assets/uploads/plakat-miłość-jest-twórcza-do-nieskończoności.pdf
+    fileName: Plakat MIŁOŚĆ JEST TWÓRCZA DO NIESKOŃCZONOŚCI
+    fileType: pdf
 gallery: []
 ---
 Projekt realizowany przez Zgromadzenie Sióstr Miłosiedzia Św. Wincentego a Paulo Prowincja Chełmińsko Poznańska<br>
