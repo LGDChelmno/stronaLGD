@@ -17,11 +17,11 @@ pagination:
                 {%- for projekt in collections.projekt | reverse -%}
                 {% include 'projekt-snippet.njk' %}
                 {%- endfor -%}
-                
-                {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
-                {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
-            </div>
 
+
+            </div>
+            {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
+            {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
         </div>
 
 </main>
