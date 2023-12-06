@@ -1,48 +1,48 @@
 ---
 title: Stowarzyszenie Ludzie-Ludziom
 description: >-
-  Projekt realizowany przez Stowarzyszenie Ludzie-Ludziom pt.: "Grupa
-  samopomocowa rodziców dzieci z niepełnosprawnością intelektualną i/lub
-  autyzmem" Celem projektu jest wsparcie w zakresie [...]
-date: 2019-04-16T11:00:31+02:00
+  Projekt realizowany prez Stowarzyszenie Ludzie-lidziom pt.: "Szkoła
+  społecznych liderów trzeźwienia "Pierwszy Kontakt"" Celem projektu jest
+  wsparcie w zakresie organizowania społeczności [...]
+date: 2019-04-16T11:20:07+02:00
 tags:
   - projekt
-image: /assets/uploads/grupa-pomocowa.jpg
+image: /assets/uploads/szkola-liderow.png
 imageAlt: >-
-  zdjecie tytułowe projektu grupa samopomocowa rodziców dzieci z
-  niepełnosprawnością intelektualną i/lub autyzmem
+  zdjecie tytułowe projektu szkoła społecznych liderów trzeźwienia pierwszy
+  kontakt
 ---
-Projekt realizowany przez Stowarzyszenie Ludzie-ludziom
+Projekt realizowany przez Stowarzyszenie Ludzie-lidziom
 
 <br>
 
-## pt.:"Grupa samopomocowa rodziców dzieci z niepełnosprawnością intelektualną i/lub autyzmem"
+## pt.: "Szkoła społecznych liderów trzeźwienia "Pierwszy Kontakt""
 
 <br>
 
-Celem projektu jest wsparcie w zakresie organizowania społeczności lokalnej i animacji społecznej oraz poprawa jakości kapitału społecznego poprzez zwiększenie liczby działań z zakresu animacji i życia lokalnego społeczeństwa z obszaru LGD Chełmno, dobrze zorganiozwana animacja społeczeństwa Chełmna. Projekt jest skierowany do mieszkańców miasta Chełmna- rodziców dzieci z niepełnosprawnością intelektualną i/lub autyzmem oraz ich dzieci z niepełnosprawnościa intelektualną i/lub autyzmem. Okres realizajcji projektu 11.03.2019 - 31.12.2019 r.
+Celem projektu jest wsparcie w zakresie organizowania społeczności lokalnej i animacji społecznej oraz jakości kapirału społecznego poprzez zwiększenie liczby działań z zakresu animacji i życia lokalnego społeczeństwa z obszaru LGD Chełmno, dobrze zorganizowana animacja społeczeństwa Chełmna. Projekt jest skierowany do mieszkańców miasta Chełmna - osób uzależnionych i współuzależnionych od alkoholu z rodzin zagrożonych alkoholizmem. Okres realizacji projektu 11.03.2019 - 31.12.2019 r.
 
 <br>
 
 Cele szczegółowe:
 
-* zwiększenie motywacji do samodzielnego, aktywnego poszukiwania pomocy oraz nowoczesnych rozwiązań w zakresie opieki i terapii dzieci z niepełnosprawnością intelektualną i/lub autyzmem w warunkach domowych;
-* zwiększenie wiedzy i umiejętności parktycznych nt. najnowocześniejszych metod opieki i terapii dzieci z niepełnosprawnością intelektualną i/lub autyzmem w warunkach domowych;
-* ugruntowanie postaw samopomocy i kooperacji w środowisku osób z niepełnosprawnościami w zakresie rozwiązywania problemów wynikających z niepełnosprawności.
+* zwiększenie aktywności osób - niepijących alkoholików i osób współuzależnionyc w zakresie działalności samopomocowej i wzajemnościowej na rzecz innych osób z problemem alkoholowym;
+* wypracowanie skutecznej formuły działań profilaktycznych w zakresie uzależnienia od alkoholu;
+* ugruntowanie postaw abstynenckich oraz nabycie umiejętności aktywnego radzenia sobie z problemem alkoholowym;
 
 <br>
 
 ## Działania:
 
-* prowadzenie punktu konsultacyjnego;
-* warsztaty połączone z prezentacją metod rehabilitacyjnych i terapeutycznych;
-* obóz terapeutyczno-integracyjny;
+* prowadzenie punktu konsultacyjnegol
+* letnie warsztaty wyjazdowe;
+* akcja "Żywa książka'
 
 <br>
 
 <br>
 
-Biuro projektu czynne od poniedziałku do piątku od godziny 10.00 do godziny 14.00, ul. Plac Rydygiera 1, 86-200 Chełmno,
+Biuro czynne od poniedziałku do piątku od godziny 10.00 do godziny 14.00, ul. Plac Rydygiera 1, 86-200 Chełmno
 
 nr telefonu: 56 686 24 85; e-mail: dariuszjach1@wp.pl, strona www: www.ludzie-ludziom.org
 
