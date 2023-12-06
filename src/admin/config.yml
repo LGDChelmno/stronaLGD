@@ -61,7 +61,7 @@ collections:
       - { label: "Id pisane bez spacji", name: "id", widget: "string" }
       - { label: "Data", name: "date", widget: "datetime" }
       - { label: "Treść", name: "body", widget: "markdown" }
-      - { label: 'Files', name: 'files', widget: 'list', fields: [
+      - { label: 'Files', name: 'files', widget: 'list', required: false, fields: [
           { label: 'File', name: 'file', widget: 'file', multiple: true, required: false },
           { label: 'File Type', name: 'fileType', widget: 'select', options: ['pdf', 'docx', 'xlsx'], required: false },
           { label: 'File Name', name: 'fileName', widget: 'string', required: false }  
