@@ -4,7 +4,7 @@ description: >-
   Klub Sportowy Chełminianka Chełmno realizuje w ramach naboru 2019/G/1 projekt
   pt.: "Damy radę". W ramach zaplanowanych działań realizowane między innymi są
   zajęcia [...]
-date: 2023-12-07T12:02:52.568Z
+date: 2020-08-05T13:02:52+02:00
 tags:
   - projekt
 image: /assets/uploads/chelminianka-chelmno.jpg
