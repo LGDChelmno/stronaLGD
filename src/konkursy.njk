@@ -8,11 +8,12 @@ layout: 'base.njk'
             <div class="tabs-container">
                 {%- for tabs in collections.tabs | reverse -%}
                 <button class="tab" onclick="showTab('{{ tabs.data.id }}')">{{ tabs.data.title }}</button>
-            </div>
                 {%- endfor -%}
-
-                {%- for tabs in collections.tabs -%}
+            </div>
+                
+    
             <div id="{{ tabs.data.id }}" class="tab-content">
+              {%- for tabs in collections.tabs -%}
                 <h6 class="konkursy-data">{{ tabs.data.date | postDate}}</h6>
                 {{ tabs.content | safe }}
                 
