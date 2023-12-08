@@ -61,7 +61,7 @@ a[href$=".xls"]::before {
 }
 
 a[href$=".doc"]::before {
-    content: "Rozpocznie pobieranie pliku xls";
+    content: "Rozpocznie pobieranie pliku doc";
     position: absolute;
     width: 1px;
     height: 1px;
