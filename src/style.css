@@ -84,7 +84,7 @@ a[href$=".xls"] {
     content: " (.xls)"
 }
 
-a[href$=".docx"]::after {
+a[href$=".doc"]::after {
     content: " (.doc)"
 }
 
