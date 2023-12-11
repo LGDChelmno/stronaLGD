@@ -126,3 +126,30 @@ Wygenerowany przez GWD wniosek wraz z załącznikami należy złożyć najpóźn
 Podmiot ubiegający się o grant składa wniosek:
 
 1. osobiście, przez pełnomocnika lub osobę uprawnioną do reprezentacji (dostarczyciel otrzyma potwierdzenie wpływu wniosku) - decyduje data wpływu do biura LGD.
+
+<br>
+
+**Wniosek o dofinansowanie należy złożyć zarówno w wersji elektronicznej (poprzez generator wniosków), jak i w wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).**
+
+<br>
+
+## V. Kto może złożyć wniosek?
+
+<br>
+
+O grant mogą się ubiegać:
+
+* wszystkie podmioty z wyłączeniem osób fizycznych (nie dotyczy osób prowadzących działalność gospodarczą lub oświatową na podstawie przepisów odrębnych).
+
+<br>
+
+## VI. Do kogo ma być skierowany projekt (GRUPA DOCELOWA)
+
+<br>
+
+**Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające poniższe kryteria:**
+
+1. osoby zagrożone ubóstwem lub wykluczeniem społecznym z obszaru objętego LSR, tj. miasta Chełmno;
+2. otoczenie osób zagrożonych ubóstwem lub wykluczeniem społecznym (w takim zakresie, w jakim jest to niezbędne dla wsparcia osób zagrożonych ubóstwem lub wykluczeniem społecznym), w tym osoby pełniące obowiązki opiekuńcze.
+
+<br>
