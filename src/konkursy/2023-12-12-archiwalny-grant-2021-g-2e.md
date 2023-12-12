@@ -1,7 +1,7 @@
 ---
 title: Archiwalny grant 2021/G/2E
 id: archiwalnygrant2021g2e
-date: 2021-08-23T13:29:53+02:00
+date: 2021-08-23T11:29:53.000Z
 ---
 INFORMACJA:
 
@@ -110,5 +110,13 @@ Lokalna Grupa Działania Chełmno ogłasza nabór wniosków o powierzenie grant�
 <br>
 
 ## III. Miejsce składania wniosku
+
+<br>
+
+Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, 86-200 Chełmno, sala nr 3, w godzinach pracy biura, tj. od poniedziałku do piątku, od 7.15-15.15
+
+<br>
+
+## IV. Sposób i tryb składania wniosku
 
 <br>
