@@ -224,3 +224,48 @@ LGD Chełmno dokona oceny i wyboru projektów w oparciu o Kryteria wyboru projek
 <br>
 
 Szczegółowe nazwy kryteriów, uzasadnienie oraz źródło ich weryfikacji określają Kryteria wyboru projektów, stanowiące załącznik nr 5 i nr 6 do Ogłoszenia o naborze.
+
+<br>
+
+Warunki uzyskania pozytywnej oceny:
+
+1. Uzyskanie odpowiedzi TAK lub NIE DOTYCZY za spełnienie kryteriów zgodności z LSR Grantobiorców.
+2. Uzyskanie minimum wymaganych punktów za spełnienie lokanych kryteriów wyboru;
+
+<br>
+
+Maksymalna suma punktów możliwych do uzyskania: 88 pkt.
+
+<br>
+
+Procedury wyboru i oceny projektów zostały szczegółowo opisane w załączniku nr 14 do ogłoszenia o naborze.
+
+<br>
+
+## XIII. Zasady udzielania wparcia na projekty objęte grantami w ramach EFS
+
+<br>
+
+Szczegółowe zasady dotyczące naboru zawarte są w Zasadach udzielania wsparcia na projekty wobjęte grantami w ramach EFS, snatowiących załącznik nr 1 do Ogłoszenia.
+
+<br>
+
+## XIV. Pytania i odpowiedzi dityczące naboru
+
+<br>
+
+Informacji dotyczących naboru udzielają pracownicy biura Lokalnej Grupy Działania Chełmno, czynnego w godzinach pracy biura, tj. od poniedziałku do piątku, od 7.15-15.15. 
+
+<br>
+
+Z pytaniami można się zgłaszać osobiście w biurze LGD lub na e-mail: lgdchelmno@wp.pl, w godzinach pracy Biura LGD.
+
+<br>
+
+W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie przygotowania wniosku o powierzenie grantu w formie bezpośredniej wizyty w biurze LGD lub w formie on-line, po uprzednim umówieniu sięna doradztwo.
+
+<br>
+
+<br>
+
+<br>
