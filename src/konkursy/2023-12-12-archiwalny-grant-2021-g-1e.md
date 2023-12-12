@@ -204,3 +204,86 @@ Forma wsparcia: zaliczka/refundacja
 <br>
 
 Wysokość maksymalna grantu wynosi 50 00 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem.
+
+<br>
+
+Wnioskodawca zobowiązany jest do wniesienia wkładu własnego - 5% wydatków kwalifikowalnych projektu objętego grantem.
+
+<br>
+
+## XI. Kwalifikowalność kosztów
+
+<br>
+
+Koszty projektu objętego grantem winny być zgodne z aktulnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podziale na:
+
+1. koszty bezpośrednie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
+2. koszty administracyjne - w projektach objętych grantami Grantobiorca może rozliczyć koszty administracyjne związane z obsługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
+
+<br>
+
+UWAGA: W ramach projektów objętych grantami nie przewiduje się finansowania zakupu środków trwałych i cross-financingu.
+
+<br>
+
+## XII. kryteria wyboru projektów
+
+<br>
+
+LGD Chełmno dokona oceny i wyboru projektów w opariu o Kryteria wyboru projektów w zakresie:
+
+1. Kryteriów zgodności z LSR;
+2. Lokalnych kryteriów wyboru Grantobiorców;
+
+<br>
+
+Szczegółowe nazwy kryteriów, uzasadnienie oraz źródło ich weryfikacji określają Kryteria wyboru projektów, stanowiące załączniki nr 5 i nr 6 do Ogłoszenia o naborze.
+
+<br>
+
+Warunki uzyskania pozytywnej oceny:
+
+1. Uzyskanie odpowiedzi TAK lub NIE DOTYCZY za spełnienie kryteriów zgodności z LSR Grantobiorców.
+2. Uzyskanie minimum wymaganych punktów za spełnienie lokalnych kryteriów wyboru;
+
+Maksymalna suma punktów możliwych do uzyskania: 64 pkt.
+
+<br>
+
+Procedury wyboru i oceny projektów zostały szczegółowo opisane w załączniku nr 14 do Ogłozsenia o naborze.
+
+<br>
+
+## XIII. Zasady udzielania wsparcia na projekty objęte grantami w ramach EFS
+
+<br>
+
+Szczegółowe zasady dotyczące naboru zawarte śa w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS, stanowiących załącznik nr 1 do Ogłoszenia.
+
+<br>
+
+## XIV. Pytania i odpowiedzi dotyczące naboru
+
+<br>
+
+Informacji dotyczących naboru udzielają wyłącznie pracownicy biura Lokalnej Grupy Działania Chełmno, czynnego w godzinach pracy biura, tj. od poniedziałku do piątku, od 7.15-15.15.
+
+<br>
+
+Z pytaniami można się zgłaszać osobiście w biurze LGD lub na e-mail: lgdchelmno@wp.pl, w godzinach pracy Biura LGD.
+
+<br>
+
+W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie przygotowania wniosku o powierzenie grantu w formie bezpośredniej wizyty w biurze LGD lub w formie on-line, po uprzednim umówieniu się na doradztwo.
+
+<br>
+
+<br>
+
+<br>
+
+Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt "Wsparcie na rzecz kosztów bieżących i animacji" współfinansowanego w ramach Europejskiego Funduszu Społecznego, w ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego.
+
+* Całkowita wartoś projektu: 527 383,83 zł,
+* Całkowita wartość dofinansowania: 501 014,63 zł,
+* Wkład własny: 26 369,20 zł.
