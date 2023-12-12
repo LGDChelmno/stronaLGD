@@ -6,6 +6,94 @@ files:
   - file: /assets/uploads/komunikat-z-dnia-02.10.2020-1.pdf
     fileName: KOMUNIKAT z dnia 02.10.2020
     fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-1-1-zasady-udzielenia-wsparcia-na-projekty-grantowe_02.10.2020.pdf
+    fileName: >-
+      Załącznik nr 1 - Zasady udzielania wsparcia na projekty grantowe
+      02.10.2020
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-1-2-zasady-udzielenia-wsparcia-na-projekty-grantowe_18.09.2020.pdf
+    fileName: >-
+      Załącznik nr 1 - Zasady udzielania wsparcia na projekty grantowe
+      18.09.2020 Errata z dnia 18.09.2020. Zasady obowiązujące od 18.09.2020
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-1-3-zasady-udzielenia-wsparcia-na-projekty-grantowe-2020.pdf
+    fileName: Załącznik nr 1 - Zasady udzielania wsparcia na projekty grantowe 2020
+    fileType: pdf
+  - file: /assets/uploads/i_załącznik-nr-2-wniosek-o-dofinansowanie-efs-2.docx
+    fileName: Załącznik nr 2 - Wniosek o dofinansowanie EFS 2
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-2-wniosek-o-dofinansowanie-efs-2.docx
+    fileName: Załącznik nr 2 - Wniosek o dofinansowanie EFS
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-3-umowa-o-dofinansowanie-efs.pdf
+    fileName: Załącznik nr 3 - Umowa o dofinansowanie EFS
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-4-wniosek-o-rozliczenie-grantu-1.docx
+    fileName: Załącznik nr 4 - Wniosek o rozliczenie grantu
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-5-lokalne-kryteria-wyboru-grantobiorców.pdf
+    fileName: Załącznik nr 5 - Lokalne kryteria wyboru Grantobiorców
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-6-kryteria-zgodnosci-z-lokalna-strategia-rozwoju.pdf
+    fileName: Załącznik nr 6 - Kryteria zgodności z Lokalna Strategia Rozwoju
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-7-katalog-stawek-maksymalnych.pdf
+    fileName: Załącznik nr 7 - Katalog stawek maksymalnych
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-8-lokalna-strategia-rozwoju.pdf
+    fileName: Załącznik nr 8 Lokalna strategia Rozwoju
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-9-statut-stowarzyszenia-lokalna-grupa-działania-chełmno-2.pdf
+    fileName: Załącznik nr 9 - Statut Stowarzyszenia Lokalna Grupa Działania Chełmno
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-10-wytyczne-w-zakresie-kwalifikowalności-wydatków-w-ramach-efrr-efs-oraz-fs-na-lata-2014-2020.pdf
+    fileName: >-
+      Załącznik nr 10 - Wytyczne w zakresie kwalifikalności wydatków w ramach
+      EFRR, EFS oraz FS na lata 2014-2020
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-11-wytyczne-w-zakresie-realizacji-przedsiewzięć-w-obszarze-włączenia-społecznego-i-ubóstwa-z-wykorzystaniem-śródków-efs.pdf
+    fileName: >-
+      Załącznik nr 11 - Wytyczne w zakresie realizacji przedsięwzięć w obszarze
+      włączenia społecznego i ubóstwa z wykorzystaniem środków EFS
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-12-efektywność-społeczna-i-zatrudnieniowa-2.pdf
+    fileName: 'Załącznik nr 12 - Efektywność społeczna i zatrudnieniowa '
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-13-pomiar-efektywności-społecznej-i-zatrudnieniowej-w-celu-tematycznym-9.pdf
+    fileName: >-
+      Załącznik nr 13 - Pomiar efektywności społecznej i zatrudnieniowej w celu
+      tematycznym 9
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-14-procedura-ogłoszenia-naboru-oceny-i-wyboru-grantobiorców-w-ramach-projektu-grantowego-w-ramach-środków-efs-z-rpo-w-k-p-2014-2020.pdf
+    fileName: >-
+      Załącznik nr 14 - Procedura ogłoszenia naboru oceny i wyboru Grantobiorców
+      w ramach projektu grantowego w ramach śodków EFS z RPO W K-P 2014-2020
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-15-karta-oceny-zgodności-z-lsr.pdf
+    fileName: Załącznik nr 15 - Karta oceny zgodności z LSR
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-16-karta-zgodności-z-lokalnymi-kryteriami-wyboru-cel-szczegółowy-2.1.pdf
+    fileName: >-
+      Załącznik nr 16 - Karta zgodności z lokalnymi kryteriami wyboru cel
+      szegółowy 2.1
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-17-karta-weryfikacji-wstępnej-wniosku.pdf
+    fileName: Załącznik nr 17 - Karta weryfikacji wstępnej wniosku
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-18-standard-pracy-klub-młodzieżowy-2.pdf
+    fileName: Załącznik nr 18 - Standard pracy Klub Młodzieżowy
+    fileType: pdf
 ---
 **KOMUNIKAT z dnia 02.10.2020 r. o zmianie terminów składania wniosków o powierzenie grantu - wydłużenie terminu składania wniosków do 09.10.2020 r., do godz. 15.15**
 
@@ -199,11 +287,11 @@ W ramach naboru wniosków planowane jest osiągnięcie wskaźników rezultatu i 
 
 1. wskaźnik produktu wg SzOOP:
 
-*  liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie (RLKS)
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie (RLKS)
 
 2. wskaźnik produktu specyficznie dla Projektu Grantowego LGD:
 
-*  Liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych usługami aktywnej integracji o charakterze społecznym, edukacyjnym lub zdrowotnym;
+* Liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych usługami aktywnej integracji o charakterze społecznym, edukacyjnym lub zdrowotnym;
 * Liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w postaci usług wzajemnościowych lub samopomocowych;
 * Liczba osób z otoczenia osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie.
 
@@ -303,3 +391,37 @@ Z pytaniami można się zgłaszać osobiście w biurze LGD lub na e-mail: lgdche
 <br>
 
 W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie przygotowania wniosku o powierzenie grantu w formie bezpośredniej wizyty w biurze LGD lub w formie on-line, po uprzednim umówieniu się na doradztwo.
+
+<br>
+
+<br>
+
+<br>
+
+Dodatkowe
+
+http://www.mojregion.eu/index.php/dowiedz-sie/rlks/pytania-i-odpowiedzi-interpretacje – oś 11
+
+<br>
+
+Polecamy również wejść w zakładkę GRANTY na naszej stronie www, gdzie omówione są wszyskie sekcje wniosku do dofinansowanie.
+
+<br>
+
+**UWAGA! link do generatora wniosków o dofinansowanie JEST JUŻ AKTYWNY. ZAPRASZAMY DO SKŁADANIA WNIOSKÓW.**
+
+<br>
+
+<https://omikronkonkursy.pl/wnioski/generator1.php?a=32be5a7c74ff0c86&&b=eeedddf56c878a78d883af0d7e0ad4c9> - wejdź i składaj wnioski na działania społeczne
+
+<br>
+
+<br>
+
+<br>
+
+Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt "Wsparcie na rzecz kosztów bieżących i animacji" współfinansowanego w ramach Europejskiego Funduszu Społecznego, w ramach Regionalnego PRogramu Operacyjnego Województwa Kujawsko-Pomorskiego.
+
+* Całkowita wartość projektu: 527 383,83 zł,
+* Całkowita wartość dofinansowania: 501 014,63 zł,
+* Wkład własny: 26 369,20 zł.
