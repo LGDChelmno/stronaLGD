@@ -9,6 +9,82 @@ files:
   - file: /assets/uploads/wskazówki.pdf
     fileName: Wskazówki
     fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-1-zasady-udzielenia-wsparcia-na-projekty-grantowe-2021-1.pdf
+    fileName: Załącznik nr 1 - Zasady udzielania wsparcia na projekty grantowe 2021
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-2-wniosek-o-dofinansowanie-efs-4.docx
+    fileName: Załącznik nr 2 - Wniosek o dofinansowanie EFS
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-3-umowa-o-dofinansowanie-efs-2.pdf
+    fileName: Załącznik nr 3 - Umowa o dofinansowanie EFS
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-4-wniosek-o-rozliczenie-grantu-4.docx
+    fileName: Załącznik nr 4 - Wniosek o rozliczenie grantu
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-5-lokalne-kryteria-wyboru-grantobiorców-2.pdf
+    fileName: Załącznik nr 5 - Lokalne kryteria wyboru Grantobiorców
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-6-kryteria-zgodności-z-lokalna-strategia-rozwoju-1.pdf
+    fileName: Załącznik nr 6 - Kryteria zgodności z Lokalna Strategia Rozwoju
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-7-katalog-stawek-maksymalnych-2.pdf
+    fileName: Załącznik nr 7 - Katalog stawek maksymalnych
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-8-lokalna-strategia-rozwoju-lgd-chełmno-aktualizacja-z-dnia-18-grudnia-2020-1.pdf
+    fileName: >-
+      Załącznik nr 8 - Lokalna Strategia Rozwoju LGD Chełmno aktualizacja z dnia
+      18 grudnia 2020
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-9-statut-stowarzyszenia-lokalna-grupa-działania-chełmno-4.pdf
+    fileName: Załącznik nr 9 - Statu Stowarzyszenia Lokalna Grupa Dzaiłania Chełmno
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-10-wytyczne-w-zakresie-kwalifikowalności-wydatków-1.pdf
+    fileName: Załącznik nr 10 - Wytyczne w zakresie kwalifikowalności wydatków
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-11-wytyczne-w-zakresie-realizacji-przedsięwzięć-w-obszarze-włączenia-społecznego-1.pdf
+    fileName: >-
+      Załącznik nr 11 - Wytyczne w zakresie realizacji przedsię wzięć w obszarze
+      wyłączenia społecznego
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-12-sposób-i-metodologia-mierzenia-efektywności-społecznej-i-zatrudnieniowej-1.pdf
+    fileName: >-
+      Załącznik nr 12 - Sposób i metodologia mierzenia efektywności społęcznej i
+      zatrudnieniowej
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-13-pomiar-efektywności-społecznej-i-zatrudnieniowej-w-celu-tematycznym-9-2.pdf
+    fileName: >-
+      Załącznik nr 13 - Pomiar efektywności społecznej i zatrudnieniowej w celu
+      tematycznym 9
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-14-procedura-ogłoszenia-naboru-oceny-i-wyboru-grantobiorców-w-ramach-projektu-grantowego-w-ramach-środków-efs-z-rpo-w-k-p-2014-2020-2.pdf
+    fileName: >-
+      Załącznik nr 14 - Procedura ogłoszenia naboru oceny i wyboru Grantobiorców
+      w ramach projektu grantowego w ramach środków EFS z RPO W K-P 2014-2020
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-15-karta-oceny-zgodności-z-lsr-2.pdf
+    fileName: Załącznik nr 15 - Karta oceny zgodności z LSR
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-16-karta-zgodności-z-lokalnymi-kryteriami-wyboru-cel-szczegółowy-2.1-2.pdf
+    fileName: >-
+      Załącznik nr 16 - Karta zgodności z lokalnymi kryteriami wyboru cel
+      szegółowy 2.1
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-17-karta-weryfikacji-wstępnej-wniosku-2.pdf
+    fileName: Załącznik nr 17 - Karta weryfikacji wstępnej wniosku
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-18-standard-pracy-klub-młodzieżowy-4.pdf
+    fileName: Załącznik nr 18 - Standard pracy Klub Młodzieżowy
+    fileType: pdf
 ---
 ## Ogłoszenie o naborze wniosków
 
