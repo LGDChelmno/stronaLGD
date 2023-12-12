@@ -104,3 +104,123 @@ Podmiot ubiegający się o grant składa wniosek:
 <br>
 
 **Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (poprzez generator wnioskó), jak i wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).**
+
+<br>
+
+## V. Kto może złożyć wniosek?
+
+<br>
+
+**Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające poniższe kryteria:**
+
+1. osoby zagrożone ubóstwem lub wykluczeniem społecznym z obszaru objętego LSR, tj. miasta Chełmno;
+2. otoczenie osób zagrożonych ubóstwem lub wykluczeniem społecznym (w takim zakresie, w jakim jest to niezbędne dla wsparcia osób zagrożonych ubóstwem lub wykluczeniem społecznym), w tym osoby pełniące obowiązki opiekuńcze.
+
+<br>
+
+## VII. Na co można otrzymać grant?
+
+<br>
+
+Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami obszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią siędo realizacji następujących celów LSR:
+
+1. CEL OGÓLNY LSR: 2 - Wsparcie w zakresie organizowania społeczności lokalnej i animacji społecznej oraz poprawa jakości kapitału społecznego do roku 2023;
+2. CEL SZCZEGÓŁOWY LSR 2.1 - zwiększenie liczby działań z zakresu animacji życia lokalnego społeczeństwa z obszaru LGD;
+3. PRZEDSIĘWZIĘCIE 2.1.1 - Dobrze zorganizowana animacja społeczeństwa Chełmna, typ projektu 2a, b, c oraz 1c i 1f (wg SzOOP RPO WKP)
+
+<br>
+
+TYPY:
+
+* usług wzajemnościowych, samopomocowych;
+* lidera lub animatora aktywności lokalnej oraz obywatelskiej;
+* inne rozwiązania w zakresie organizowania społeczności lokalnej i animacji społecznej;
+* kluby młodzieżowe;
+* i inne z obszaru aktywnej integracji o charakterze środowiskowym.
+
+<br>
+
+**UWAGA!**
+
+1. Wszystkie działania podejmowane w ramach pkt. typu 2 a, b i c winny wspierać rozwiązania, które pozwalają na organizowanie i animacje społęczności lokalnej. Tworzenie "zamkniętych działań" skierowanych tylko do jednej z grup społeczności lokalnej, nie wpisuje sięw ww. rozwiązania, ponieważ nie angażują, nie animują ani nie integrują osób zagrożonych wykluczeniem społęcznym ze społecznością mieszkańców. Działania takie powinny włączać osoby zagrożone wykluczeniem społecznym w działania na rzecz mieszkańców, ale także włączać mieszkańców w działania na rzecz osób zagrożonych wykluczeniem społęcznym.
+2. Realizowane projekty w ramach typu 2 c inne rozwiązania w zakresie organizowania społeczności lokalnej i animacj społecznej nie powinny być skoncentrowane na wsparciu dzieci (tym bardziej, iż grantobiorcy będą zobligowani do realizacji wskaźnika związanego z efektywnością społeczną). Uczestnictwo dzieci w tych projektach powinno być łączone ze wsparciem dorsołych dla zapewnienia kompleksowości wsparcia i realizacji zamierzonych celów. Dzieci mogą być również objęte wsparciem we wszyskich typach (pkt. a, b i c) jako otoczenie.
+
+<br>
+
+## VIII. Wskaźnik produktu i rezultatu
+
+<br>
+
+W ramach naboru wniosków planowane jest osiągnięcie wskaźników rezultatu i produktu zgodnych z założeniami RPO WKP na lata 2014-2020, które ujęte są w Szczegółowym Opisie Osi Priorytetowych oraz wskaźniki produktu i rezultatu ujętę w LSR LGD Chełmno oraz projekcie grantowym LGD Chełmno:
+
+1. wskaźnik prodkuktu wg SzOOP:
+
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie (RLKS);
+
+2. wskaźnik rezultatu wg SzOOP:
+
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym, u któych wzrosła aktywność społeczna;
+
+3. wskaźniki produktu specyficzne dla Projektu Grantowego LGD:
+
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych usługami aktywnej integracji o charakterze społecznym, edukacyjnym lub zdrowotnym;
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w postaci usług wzajemnościowych lub samopomocowych;
+* liczba osób z otoczenia osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie;
+
+4. wskaźniki rezultatu specyficznee dla Projektu Grantowego LGD:
+
+* wskaźnik efektywności społecznej.
+
+<br>
+
+## IX. Alokacja środków w naborze
+
+<br>
+
+Całkowita kwota środków przeznaczzonych na dofinansowanie projektów objętych grantem w naborze wynosi 1 024 463,59 PLN.
+
+<br>
+
+## X. Forma wsparcia i poziom dofinansowania oraz maksymalna wartość grantu
+
+<br>
+
+Forma wsparcia: zaliczka/refundacja
+
+<br>
+
+Wysokość maksymalna grantu wynosi 50 000 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem.
+
+<br>
+
+Wnioskodawca zobowiązany jest do wniesienia wkładu własnego - 5% wydatków kwalifikowalnych projektu objętego grantem.
+
+<br>
+
+## XI. Kwalifikowalność kosztów
+
+<br>
+
+Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podzialne na:
+
+1. koszty bezpośrednie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
+2. koszty administracyjne - w projektach objętych grantami Grantobiorca może roliczyć koszty administracyjne związane z obsługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
+
+<br>
+
+UWAGA: W ramach projektów objętych grantami nie przewiduje się finansowania zakupu środków trwałych i cross-financingu.
+
+<br>
+
+## XII. Kryteria wyboru projektów
+
+<br>
+
+LGD Chełmno dokona oceny i wyboru projektów w oparciu o Kryteria wyboru projektów, w zakresie:
+
+1. Kryteriów zgodności z LSR;
+2. Lokalnych kryteriów wyboru Grantobiorców;
+
+<br>
+
+Szczegółowe nazwy kryteriów, uzasadnienie oraz źródło ich weryfikacji określają Kryteria wyboru projektów, stanowiące załącznik nr 5 i nr 6 do Ogłoszenia o naborze.
