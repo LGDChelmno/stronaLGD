@@ -2,6 +2,8 @@
 title: Archiwalny grant 2021/G/3E
 id: archiwalnygrant2021g3e
 date: 2021-11-02T11:03:42.000Z
+files:
+  - {}
 ---
 ## Ogłoszenie o naborze wniosków
 
