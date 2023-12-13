@@ -1,7 +1,7 @@
 ---
 title: Archiwalny grant 2021/G/3E
 id: archiwalnygrant2021g3e
-date: 2021-11-02T12:03:42+01:00
+date: 2021-11-02T11:03:42.000Z
 ---
 ## Ogłoszenie o naborze wniosków
 
@@ -67,7 +67,7 @@ Lokalna Grupa Działania Chełmno ogłasza nabór wniosków o powierzenie grant�
 
 <br>
 
-## II. Terminy składania wniosku 
+## II. Terminy składania wniosku
 
 * Termin, od któego można skłądać wnioski - 16.11.2021 r.
 * Termin, do którego można składać wnioski - 30.11.2021 r.
@@ -98,3 +98,39 @@ Podmiot ubiegający się o grant składa wniosek:
 <br>
 
 **Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (poprzez generator wniosków), jak i w wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).**
+
+<br>
+
+## V. Kto może złożyć wniosek?
+
+<br>
+
+O grant mogą się ubiegać:
+
+* wszystkie podmioty z wyłączeniem osób fizycznych (nie dotyczy osób prowadzących działalność gospodarczą lub oświatową na podstawie przepisów odrębnych).
+
+<br>
+
+## VI. Do kogo ma być skierowany projekt (grupa docelowa)
+
+<br>
+
+**Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające poniższe kryteria:**
+
+1. osoby zagrożone ubóstwem lub wykluczeniem społęcznym z obszaru objętego LSR, tj. miasta Chełmno;
+2. podmioty ekonomii społecznej z obszaru LSR,
+3. jednostki samorządu terytorialnego z obzsaru LSR
+
+<br>
+
+## VII. Na co można otrzymać grant?
+
+<br>
+
+Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osgiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami obszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią siędo realizacji następujących celów LSR:
+
+* Cel ogólny LSR 3 - Wsparcie rozwoju gospodarki społecznej i przedsiębiorczości społęcznej na obszarze LGD Chełmno do roku 2023;
+* Cel szczegółowy LSR 3.1 - Wsparcie inicjatyw w zakresie rozwoju ekonomii społecznej;
+* Przedsięwzięcie 3.1.1 - Wzmocnienie sektora ekonomii społecznej
+
+TPY: Działania spierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju predsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
