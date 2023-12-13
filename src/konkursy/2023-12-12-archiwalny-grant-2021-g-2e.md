@@ -2,7 +2,69 @@
 title: Archiwalny grant 2021/G/2E
 id: archiwalnygrant2021g2e
 date: 2021-08-23T11:29:53.000Z
-files: []
+files:
+  - file: >-
+      /assets/uploads/załącznik-nr-1-zasady-udzielenia-wsparcia-na-projekty-grantowe-2021_aktualizacja.docx
+    fileName: Załącznik nr 1 - Zasady udzielenia wsparcia na projekty grantowe 2021
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-2-wniosek-o-dofinansowanie-efs-5.docx
+    fileName: Załącznik nr 2 - Wniosek o dofinansowanie EFS
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-3-umowa-o-dofinansowanie-efs-1.docx
+    fileName: Załącznik nr 3 - Umowa o dofinansowanie EFS
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-4-wniosek-o-rozliczenie-grantu-5.docx
+    fileName: 'Załącznik nr 4 - Wniosek o rozliczenie grantu '
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-5-lokalne-kryteria-wyboru-grantobiorców-2.docx
+    fileName: Załącznik nr 5 - Lokalna kryteria wyboru Grantobiorców
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-6-kryteria-zgodności-z-lokalna-strategia-rozwoju.docx
+    fileName: Załącznik nr 6 - Kryteria zgodności z Lokalna Strategia Rozwoju
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-7-katalog-stawek-maksymalnych-2.docx
+    fileName: Załącznik nr 7 - Katalog stawek maksymalnych
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-8-lokalna-strategia-rozwoju-lgd-chełmno-aktualizacja-z-dnia-18-grudnia-2020-2.pdf
+    fileName: >-
+      Załącznik nr 8 - Lokalna Stategia Rozwoju LGD Chełmno aktualizacja z dnia
+      3 sierpnia 2021
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-9-statut-stowarzyszenia-lokalna-grupa-działania-chełmno-5.pdf
+    fileName: Załącznik nr 9 - Statut Stowarzyszenia Lokalna Grupa Działania Chełmno
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-10-wytyczne-w-zakresie-kwalifikowalności-wydatków-2.pdf
+    fileName: 'Załącnik nr 10 - Wytyczne w zakresie kwalifikowalności wydatków '
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-11-wytyczne-w-zakresie-realizacji-przedsięwzięć-w-obszarze-włączenia-społecznego-2.pdf
+    fileName: >-
+      Załącznik nr 11 - Wytyczne w zakresie realizacji przedsięwzięć w obszarze
+      włączenia społecznego
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-12-procedura-ogłoszenia-naboru-oceny-i-wyboru-grantobiorców-w-ramach-projektu-grantowego-w-ramach-środków-efs-z-rpo-w-k-p-2014-2020.docx
+    fileName: >-
+      Załącznik nr 12 - Procedura ogłoszenia naboru oceny i wyboru Grantobiorców
+      w ramach projektu grantowego w ramach środków EFS z RPO W K-P 2014-2020
+    fileType: pdf
+  - file: /assets/uploads/załącznik-nr-13-karta-oceny-zgodności-z-lsr.docx
+    fileName: Załącznik nr 13 - Karta oceny zgodności z LSR
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-14-karta-zgodności-z-lokalnymi-kryteriami-wyboru-cel-szczegółowy-3.1.doc
+    fileName: >-
+      Załącznik nr 14 - Karta zgodności z lokalnymi kryteriami wyboru cel
+      szeczółowy 3.1
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-15-karta-weryfikacji-wstępnej-wniosku.docx
+    fileName: Załącznik nr 15 - Karta weryfikacji wstępnej wniosku
+    fileType: docx
 ---
 INFORMACJA:
 
