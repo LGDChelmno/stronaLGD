@@ -134,3 +134,109 @@ Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osgi�
 * Przedsięwzięcie 3.1.1 - Wzmocnienie sektora ekonomii społecznej
 
 TPY: Działania spierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju predsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
+
+<br>
+
+## VIII. Wskaźniki produktu i rezultatu
+
+<br>
+
+W ramach naboru wnioskó planowane jest osiągnięcie wskaźników rezultatu i produktu zgodnych z założeniami RPO WKP na lata 2014-2020, które ujęte są w Szczegółowym Opisie Osi Priorytetowych oraz wskaźniki produktu i rezultatu ujęte w LSR LGD Chemno oraz projekcie grantowym LGD Chełmno:
+
+1. wskaźnik produktu wg SzOOP:
+
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie (RLKS);
+
+2. wskaźniki produktu specyficzne dla Projektu Grantowego LGD:
+
+* liczba podmiotów ekonomii społecznej objętych wsparciem w programie;
+* liczba jednostek samorządu terytorialnego objętych wsparciem w programie;
+* liczba inicjatyw dotyczących rozwoju ekonomii społecznej sfinansowanych ze środków EFS (def. WLWK);
+
+3. wskaźniki rezultatu specyficzne dla Projektu Grantowego LGD:
+
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym, które podiosły wiedzę w zakresie rozwoju przedsiębiorczości społecznej po opuszczeniu programu;
+* liczba utworzonych partnerstw publicznospołecznych.
+
+<bt>
+
+UWAGA: Wymogi realizayjne dotyczące wskaźników produktu i rezultatu zawarto w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS.
+
+<br>
+
+## IX. Alokacja środków w naborze
+
+<br>
+
+Całkowita kwota środków przeznaczonych na dofinansowanie projektów grantem w naborze wynosi 213 749,25 PLN.
+
+<br>
+
+## X. Forma wsparcia i poziom dofinansowania oraz maksymalna wartość grantu
+
+<br>
+
+forma wsparcia: zaliczka/refundacja
+
+<br>
+
+Wysokość maksymalna grantu wynosi 50 000 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem.
+
+Wnioskodawca zobowiązany jest do wniesienia wkładu własnego - 5% wydatków kwalifikowalnych projektu objętego grantem.
+
+<br>
+
+## XI. Kwalifikowalność kosztów
+
+<br>
+
+Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podziale na:
+
+* koszty bezpośrednie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
+* koszty administracyjne - w projektach objętych grantami Grantobiorca może roliczyć koszty administrayjne związane z obługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
+
+<br>
+
+UWAGA: W ramach projektów objętych grantami nie przewiduje się finansowania zakupu środków trwałych i cross-financingu.
+
+<br>
+
+## XII. Kryteria wyboru projektów
+
+<br>
+
+LGD Chełmno dokona oceny i wyboru projektów w opaciu o Kryteria wyboru projektów, w zakresie:
+
+1. Kryteriów zgodności z LSR;
+2. Lokalnych kryteriów wyboru Grantobiorców;
+
+Szczegółowe nazwy kryteriów, uzasadnianie oraz źródło ich weryfikacji określają Kryteria wyboru projektów, stanowiące załącznik nr 5 i nr 6 do Ogłoszenia o naborze.
+
+<br>
+
+Warunki uzyskania pozytywnej oceny:
+
+1. Uzyskanie odpowiedzi TAK lub NIE DOTYCZNY za spełnienie kryteriów zgodności z LSR Grantobiorców.
+2. Uzyskanie minimum wymaganych puntków za spenienie lokalnych kryteriów wyboru;
+
+Maksymalna suma punktów możliwyczh do uzyskania: 64 pkt.
+
+Procedury wyboru i oceny projektów zostały szczegółowo opisane w załączniku nr 12 do ogłoszenia o naborze.
+
+<br>
+
+## XIII. Zasady udzielania wsparcia na projekty objęte grantami w ramach EFS
+
+<br>
+
+Szczegółowe zasady dotyczące naboru zawarte są w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS, stanowiących złączniki nr 1 do Ogłoszenia.
+
+<br>
+
+## XIV. Pytania i odpowiedzi dotyczące naboru
+
+<br>
+
+Informacji dotyczących naboru udzielają wyłącznie pracownicy biura Lokalnej Grupy Działania Chełmno, czynnego w godzinach pracy biura, tj. od poniedziałku do piątku, od 7.15-15.15. Z pytaniami można się zgłaszać osobiście w biurze LGD lub na e-mail: lgdchelmno@wp.pl, w godzinach pracy Biura LGD.
+
+W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie przygotowania wniosku o powierzenie grantu w formie bezpośredniej wizyty w biurze LGD lub w formie on-line, po uprzednim umówieniu się na doradztwo.
