@@ -2,10 +2,7 @@
 title: Archiwalny grant 2021/G/2E
 id: archiwalnygrant2021g2e
 date: 2021-08-23T11:29:53.000Z
-files:
-  - file: >-
-      /assets/uploads/1-zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
-    fileType: docx
+files: []
 ---
 INFORMACJA:
 
@@ -255,3 +252,34 @@ Szczegółowe nazwy kryteriów, uzasadnienie oraz źródło ich weryfikacji okre
 <br>
 
 Warunki uzyskania pozytywnej oceny:
+
+1. Uzyskanie odpowiedzi TAK lub NIE DOTYCZY za spełnienie kryteriów zgodności z LSR Grantobiorców.
+2. Uzyskanie minimum wymaganych punktów za spełnienie lokalnych kryteriów wyboru;
+
+<br>
+
+Maksymalna suma puntków możliwych do uzyskania: 64 pkt.
+
+<br>
+
+Procedury wyboru i oceny projektów zostały szczegółowo opisane w załączniku nr 12 do ogłoszenia o naborze.
+
+<br>
+
+## XIII. Zasady udzielania wsparcia na projekty objęte grantami w ramach EFS
+
+<br>
+
+Szczegółowe zasady dotyczące naboru zawarte są w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS, stanowiących załącznik nr 1 do Ogłoszenia.
+
+<br>
+
+## XIV. Pytania i odpowiedzi dotyczące naboru
+
+<br>
+
+Informacji dotyczących naboru udzielają wyłącznie pracownicy biura Lokalnej Grupy Działania Chełmno, czynnego w godzinach pracy biura, tj. od poniedziałku do piątku, od 7.15-15.15. Z pytaniami można się zgłaszać osobiście w biurze LGD lub na e-mail: lgdchelmno@wp.pl, w godzinach pracy Biura LGD.
+
+<br>
+
+W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie przygotowania wniosku o powierzenie grantu w formie bezpośredniej wizyty w biurze LGD lub w formie on-line, po uprzednim umówieniu się na doradztwo.
