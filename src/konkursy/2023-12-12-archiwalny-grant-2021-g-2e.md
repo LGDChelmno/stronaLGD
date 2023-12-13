@@ -152,3 +152,106 @@ O grant mogą się ubierać:
 ## VI. Do kogo ma być skierowany projekt (grupa docelowa)
 
 <br>
+
+Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające poniższe kryteria:
+
+1. osoby zagrożone usóstwem lub wykluczeniem społecznym z obszaru objętego LSR, tj. miasta Chełmno;
+2. podmioty ekonomii społeczenj z obszaru LSR,
+3. jednostki samorządu terytorialnego z obszaru LSR
+
+<br>
+
+## VII. Na co można otrzymać grant ?
+
+<br>
+
+Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami oszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią się do realizacji następujących celów LSR:
+
+* Cel ogólny LSR 3 - Wsparcie rozwoju gospodarki społecznej i przedsiębiorczości społecznej na obszarze LGD Chełmno do roku 2023;
+* Cel szczegółowy LSR 3.1 - Wsparcie inicjatyw w zakresie rozwoju ekonomii społecznej;
+* Przedsięwzięcie 3.1.1 - Wzmocnienie sektora ekonomii społecznej.
+
+<br>
+
+TYP: Działania wspierające rozwój gospodarki społecznej i predsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wpierające rozwój gospodarki społecznej i predsiębiorczości społecznej.
+
+<br>
+
+## VIII. Wskaźniki produktu i rezultatu
+
+<br>
+
+W ramach naboru wniosków planowane jest osiągnięcie wskaźników rezultatu i produktu zgodnych z założeniami RPO WKP na lata 2014-2020, które ujęte są w Szczegółowym Opisie Osi Priorytetowych oraz wskaźniki produktu i rezultatu ujęte w LSR LGD Chełmno oraz projekcie grantowym LGD Chełmno:
+
+1. wskaźnik produktu wg SzOOP:
+
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie (RLKS)
+
+2. wskaźniki produktu specyficzne dla PRojektu Grantowego LGD:
+
+* liczba podmiotów ekonomii społecznej objętych wsparciem w programie;
+* liczba jednostek samorządu terytorialnego objętych wsparciem w programie;
+* liczba inicjatyw dotyczących rozwoju ekonomii społęcznej sfinansowanych ze środków EFS (def. WLWK);
+
+3. wskaźniki rezultatu specyficzne dla Projektu Grantowego LGD:
+
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym, które podniosły wiedzęw zakresie rozwoju przedsiębiorczości społecznej po opuszczeniu programu;
+* Liczba utworzonych partnerstw publicznospołecznych.
+
+<br>
+
+UWAGA: Wymogi realizacyjne dotyczące wskaźników produktu i rezultatu zawaro w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS.
+
+<br>
+
+## IX. Alokacja środków w naborze
+
+<br>
+
+Całkowita kwota środków przeznaczonych na dofinansowanie projektów objętych grantem w naborze wynosi 199 852,00 PLN.
+
+<br>
+
+## X. Forma wsparcia i poziom dofinansowania oraz maksymalna wartość grantu
+
+<br>
+
+Forma wsparcia: zaliczka/refundacja
+
+<br>
+
+Wysokość maksymalna grantu wynosi 50 000 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem. Wnioskodawca zobowiązany jest do wniesienia wkłądu własnego - 5% wydatków kwalifikowalnych porjektu objętego granem.
+
+<br>
+
+## XI. Kwalifikowalność kosztów
+
+<br>
+
+Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podziale na:
+
+* koszty bezpośrenie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
+* koszty administracyjne - w projektach objętych grantami Grantobiorca może rozliczyć koszty administracyjne związane z obsługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
+
+<br>
+
+UWAGA: W ramach projektów objętych grantami nie przewiduje się finansowania zakupu środków trwałych i cross-financingu.
+
+<br>
+
+## XII. Kryteria wyboru projektów
+
+<br>
+
+LGD Chełmno dokona oceny i wyboru projektów w oparciu o Kryteria wyboru projektów, w zakresie:
+
+1. Kryteriów zgodności z LSR;
+2. Lokalnych kryteriów wyboru Grantobiorców;
+
+<br>
+
+Szczegółowe nazwy kryteriów, uzasadnienie oraz źródło ich weryfikacji określają Kryteria wyboru projektów, stanowiące załącznik nr 5 i nr 6 do Ogłoszenia o naborze.
+
+<br>
+
+Warunki uzyskania pozytywnej oceny:
