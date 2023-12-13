@@ -120,3 +120,31 @@ Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, 86-200 Chełmno, sala n
 ## IV. Sposób i tryb składania wniosku
 
 <br>
+
+Formularz wniosku o powierzenie grantu i załączniki (wg obowiązujących wzorów wskazanych w Ogłoszeniu o naborze) należy pobrać ze strony www.lgdchelmno.pl - zakładka KONKURSY. W pierwszej kolejności należy wypełnić i wysłać elektroniczniew w generatorze wniosków o dofinansowanie. Wersję ostateczną wygenerowaną przez GWD kompletnie wypełnionego formularza wniosku o powierzenie grantu wraz z załącznikami należy wydrukować i podpisać (pieczątka podmiotu oraz pieczątka/i imienna/e osoby/osób upoważnionej/ych). Wymaga się zachowania czytelności wszystkich formularzy składanych w odpowiedzi na Ogłoszenie o naborze wniosków.
+
+<br>
+
+Wygenerowany przez GWD wniosek wraz z załącznikami należy złożyć najpóźniej do dnia 30.09.2021 r., do godz. 15.15.
+
+<br>
+
+Podmiot ubiegający się o grant składa wniosek:
+
+* osobiście, przez pełnomocnika lub osobę uprawnioną do reprezentacji (dostarczyciel otrzyma potwierdzenie wpływu wniosku) - decyduje data wpływu do biura LGD. Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (poprzez generatora wniosków), jak i wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o teżsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).
+
+<br>
+
+## V. Kto może złożyć wniosek?
+
+<br>
+
+O grant mogą się ubierać:
+
+* wszystkie podmioty z wyłączeniem osób fizycznych (nie dotyczy osób prowadzących działalność gospodarczą lub oświatową na podstawie przepisów odrębnych).
+
+<br>
+
+## VI. Do kogo ma być skierowany projekt (grupa docelowa)
+
+<br>
