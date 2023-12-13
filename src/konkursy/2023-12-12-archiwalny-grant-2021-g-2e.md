@@ -2,6 +2,10 @@
 title: Archiwalny grant 2021/G/2E
 id: archiwalnygrant2021g2e
 date: 2021-08-23T11:29:53.000Z
+files:
+  - file: >-
+      /assets/uploads/1-zał.-nr-1-do-ogłoszenia-o-naborze_-zasady_udzielania_wsparcia.pdf
+    fileType: docx
 ---
 INFORMACJA:
 
