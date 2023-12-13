@@ -345,3 +345,9 @@ Informacji dotyczących naboru udzielają wyłącznie pracownicy biura Lokalnej 
 <br>
 
 W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie przygotowania wniosku o powierzenie grantu w formie bezpośredniej wizyty w biurze LGD lub w formie on-line, po uprzednim umówieniu się na doradztwo.
+
+<br>
+
+<br>
+
+<br>
