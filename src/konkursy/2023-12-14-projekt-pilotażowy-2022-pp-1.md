@@ -2,6 +2,39 @@
 title: Projekt pilotażowy 2022/PP/1
 id: archiwalnygrant2
 date: 2022-10-31T07:58:59.000Z
+files:
+  - file: /assets/uploads/zal-1-wzór wniosku o dof.  ok.docx
+    fileName: Załącznik nr 1 - Wzór wniosku o dofinansowanie
+    fileType: docx
+  - file: /assets/uploads/zal-2-umowa ok.docx
+    fileName: >-
+      Załącznik nr 2 - Wzór umowy o dofinansowanie projektu pilotażowego wraz z
+      załącznikami
+    fileType: docx
+  - file: /assets/uploads/zal-3-3. wzor-formularza-wniosku-o-platnosc ok.docx
+    fileName: Załącznik nr 3 - Wzór wniosku o płatność;
+    fileType: docx
+  - file: /assets/uploads/zal-4-kryteria wyboru projektów pilotażowych ok.docx
+    fileName: Załącznik nr 4 - Kryteria wyboru projektów pilotażowych
+    fileType: docx
+  - file: /assets/uploads/zal-5-9. karta-oceny-projektu-pilotazowego ok.docx
+    fileName: Załącznik nr 5 - Karta oceny projektu pilotażowego
+    fileType: docx
+  - file: /assets/uploads/zal-6-5. katalog-stawek-maksymalnych ok.docx
+    fileName: Załącznik nr 6 - Katalog maksymalnych stawek
+    fileType: docx
+  - file: >-
+      /assets/uploads/zal-9-7.
+      procedury-dotyczace-realizacji-i-rozliczania-projektow-pilotazowych
+      ok.docx
+    fileName: >-
+      Załącznik nr 7 - Procedura realizacji i rozliczania projektów pilotażowych
+      oraz odzyskiwania środków w przypadku ich wykorzystania niezgodnie z
+      celami projektu pilotażowego
+    fileType: docx
+  - file: /assets/uploads/zal-10-10. procedury monitorowania i kontroli  ok.docx
+    fileName: Załącznik nr 8 - Procedura monitorowania i kontroli projektów pilotażowych
+    fileType: docx
 ---
 ## Ogłoszenie o naborze wniosków
 
