@@ -3,7 +3,66 @@ title: Archiwalny grant 2021/G/3E
 id: archiwalnygrant2021g3e
 date: 2021-11-02T11:03:42.000Z
 files:
-  - {}
+  - file: >-
+      /assets/uploads/załącznik-nr-1-zasady-udzielenia-wsparcia-na-projekty-grantowe-2021_aktualizacja.docx
+    fileName: >-
+      Załącznik nr 1 - Zasady udzielania wsparcia na projekty grantowe objęte
+      grantami w ramach EFS
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-2-wniosek-o-dofinansowanie-efs-5.docx
+    fileName: Załącznik nr 2 - Wzór wniosku o dofinansowanie
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-3-umowa-o-dofinansowanie-efs-1.docx
+    fileName: Załącznik nr 3 - Wzór umowy o dofinansowanie projektu wraz z załącznikami
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-4-wniosek-o-rozliczenie-grantu-5.docx
+    fileName: Załącznik nr 4 - Wzór formularza wniosku o rolziczenie grantu
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-5-lokalne-kryteria-wyboru-grantobiorców-2.docx
+    fileName: Załącznik nr 5 - Lokalne kryteira wyboru Grantobiorców
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-6-kryteria-zgodności-z-lokalna-strategia-rozwoju.docx
+    fileName: Załącznik nr 6 - Kryteria zgodności z Lokalna Strategia Rozwoju
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-7-katalog-stawek-maksymalnych-2.docx
+    fileName: Załącznik nr 7 - Katalog stawek maksymalnych
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-8-lokalna-strategia-rozwoju-lgd-chełmno-aktualizacja-z-dnia-18-grudnia-2020-2.pdf
+    fileName: >-
+      Załącznik nr 8 - Lokalna Strategia Rozwoju LGD Chełmno aktualizacja z dnia
+      3 sierpnia 2021
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-9-statut-stowarzyszenia-lokalna-grupa-działania-chełmno-5.pdf
+    fileName: Załącznik nr 9 - Wytyczne w zakresie kwalifikowalności wydatków
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-11-wytyczne-w-zakresie-realizacji-przedsięwzięć-w-obszarze-włączenia-społecznego-2.pdf
+    fileName: >-
+      Załącznik nr 11 - Wytyczzne w zakresie realizacji przedsięwzięć w obszarze
+      włączenia społecznego
+    fileType: pdf
+  - file: >-
+      /assets/uploads/załącznik-nr-12-procedura-ogłoszenia-naboru-oceny-i-wyboru-grantobiorców-w-ramach-projektu-grantowego-w-ramach-środków-efs-z-rpo-w-k-p-2014-2020.docx
+    fileName: >-
+      Załącnik nr 12 - Procedura ogłoszenia naboru oceny i wyboru Grantobiorców
+      w ramach projektu grantowego
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-13-karta-oceny-zgodności-z-lsr.docx
+    fileName: Załącznik nr 13 - Karta oceny zgodności z LSR
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-14-karta-zgodności-z-lokalnymi-kryteriami-wyboru-cel-szczegółowy-3.1.doc
+    fileName: >-
+      Załącznik nr 14 - Karta oceny zgodności z lokalnymi kryteriami wyboru cel
+      szczegółowy 3.1
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-15-karta-weryfikacji-wstępnej-wniosku.docx
+    fileName: Załącznik nr 15 - Karta weryfikacji stępnej wniosku
+    fileType: docx
 ---
 ## Ogłoszenie o naborze wniosków
 
@@ -242,3 +301,9 @@ Szczegółowe zasady dotyczące naboru zawarte są w Zasadach udzielania wsparci
 Informacji dotyczących naboru udzielają wyłącznie pracownicy biura Lokalnej Grupy Działania Chełmno, czynnego w godzinach pracy biura, tj. od poniedziałku do piątku, od 7.15-15.15. Z pytaniami można się zgłaszać osobiście w biurze LGD lub na e-mail: lgdchelmno@wp.pl, w godzinach pracy Biura LGD.
 
 W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie przygotowania wniosku o powierzenie grantu w formie bezpośredniej wizyty w biurze LGD lub w formie on-line, po uprzednim umówieniu się na doradztwo.
+
+<br>
+
+<br>
+
+<br>
