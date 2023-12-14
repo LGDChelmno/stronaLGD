@@ -175,3 +175,17 @@ W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie
 <br>
 
 <br>
+
+Link do generatora wniosków o dofinansowanie: 
+
+<https://omikronkonkursy.pl/wnioski/generator1.php?a=cd8ee8c339da3baf&&b=eeedddf56c878a78d883af0d7e0ad4c9>
+
+<br>
+
+Uwaga! wnioski można składać do 18.07.2023 r. W generatorze można pracować już teraz, ae nie będzie można wysłać do nas wniosków cześniej niżod 18.07.2023 r.
+
+<br>
+
+<br>
+
+<br>
