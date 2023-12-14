@@ -10,6 +10,83 @@ files:
     fileName: Ogłoszenie o naborze wnioskw pilotazowych
   - file: /assets/uploads/regulamin_udzielania_wsparcia.docx
     fileName: Regulamin udzielania wsparcia
+  - file: >-
+      /assets/uploads/załącznik_nr_1_do_regulaminu_wzór_wniosku_o_dofinansowanie.-ok.docx
+    fileName: Załącznik nr 1 do regulaminu - Wzór wniosku o dofinansowanie
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik_nr_2_do_regulaminu_wzór_umowy_o_dofinansowanie_projektu_pilotażowego.docx
+    fileName: >-
+      Załącznik nr 2 do regulaminu - Wzór umowy o dofinansowanie projektu
+      pilotażowego
+    fileType: docx
+  - file: /assets/uploads/załącznik_nr_3_do_regulaminu_wzór_wniosku_o_płatność.docx
+    fileName: Załącznik nr 3 do regulaminu - Wzór wniosku o płatność
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik_nr_4_do_regulaminu_kryteria-wyboru-projektów-pilotażowych.docx
+    fileName: Załącznik nr 4 do regulaminu - Kryteria wyboru projektówpilotażowych
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik_nr_5_do_regulaminu_-katalog-stawek-maksymalnych-ok.docx
+    fileName: Załącznik nr 5 do regulaminu - Katalog stawek maksymalnych
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik_nr_7_do_regulaminu_procedury-dotyczace-realizacji-i-rozliczania-projektow-pilotazowych-ok.docx
+    fileName: >-
+      Załącznik nr 7 do regulaminu - Procedury dotyczące realizacji i
+      rozliczania projektów pilotażowych
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik_nr_8_do_regulaminu_wymogi-w-zakresie-zabezpieczenia-projektow-pilotazowych-ok.docx
+    fileName: >-
+      Załącznik nr 8 do regulaminu - Wymogi w zakresie zabezpieczenia projektów
+      pilotażowych
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik_nr_9_do_regulaminu_karta-oceny-projektu-pilotazowego-ok.docx
+    fileName: Załącznik nr 9 do regulaminu - Karta oceny projektu pilotażowego
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik_nr_10_do_regulaminu_procedury-monitorowania-i-kontroli-ok.docx
+    fileName: Załącznik nr 10 do regulaminu - Proceduty monitorowania i kontroli
+    fileType: docx
+  - file: /assets/uploads/wzór_umowy_o_dofinansowanie_projektu_pilotażowego.docx
+    fileName: 'Wzór umowy o dofinansowanie projektu pilotażowego '
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-1-do-umowy_obowiązki-informacyjne-wnioskodawcy.docx
+    fileName: Załącznik nr 1 do umowy - Obowiązki informacyjne Wnioskodawcy
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-2-do-umowy_harmonogram-płatności.docx
+    fileName: Załącznik nr 2 do umowy - Harmonogram płatnośsci
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-3-do-umowy_wzór-upoważnienia..docx
+    fileName: Załącznik nr 3 do umowy - Wzór upoważnienia
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-4-do-umowy_wzór-odwołania-upoważnienia.docx
+    fileName: Załącznik nr 4 do umowy - Wzór odwółania upoważnienia
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-5-do-umowy_oświadczenie-o-kwalifikowalności.docx
+    fileName: Załącznik nr 5 do umowy - Oświadczenie o waklifikowalności
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-6-do-umowy_wzór-oświadczenia-uczestnika-projektu.docx
+    fileName: 'Załącznik nr 6 do umowy - Wzór ośiadcenia uczestnika projektu '
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-7-do-umowy_zakres-danych-osobowych.docx
+    fileName: Załącznik nr 7 do umowy - Zakres danych osobowych
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-9-do-umowy_-pełnomocnictwo.docx
+    fileName: Załącznik nr 8 do umowy - Pełnomocnictwo
+    fileType: docx
+  - file: /assets/uploads/załącznik-nr-10-do-umowy_harmonogram-form-wsparcia.odt
+    fileName: Załącznik nr 9 do umowy - Harmonogram form wsparcia
+    fileType: docx
+  - file: >-
+      /assets/uploads/załącznik-nr-11-do-umowy_oświadczenie-o-komunikacji-elektronicznej.docx
+    fileName: Załącznik nr 10 do umowy - Oświadczenie o komunikacji elektronicznej
 ---
 ## Ogłoszenie o naborze wniosków
 
