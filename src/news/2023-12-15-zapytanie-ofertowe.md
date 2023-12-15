@@ -1,60 +1,67 @@
 ---
 title: Zapytanie ofertowe
 description: >-
-  Chełmno, dn. 12.05.2016 Stowarzyszenie Lokalna Grupa Działania Chełmno
-  zaprasza do składania oferty cenowej na zakup artykułów promocyjnych i
-  gadżetów reklamowych.   Opis przedmiotów [...]
-date: 2016-05-12T11:04:33+02:00
+  Chełmno, dn. 12.10.2016 r. STOWARZYSZENIE LOKALNA GRUPA DZIAŁANIA CHEŁMNO
+  ZAPRASZA DO SKŁADANIA OFERT NA ŚWIADCZENIE USŁUG CATERINGOWYCH I WYNAJEM SALI
+  PODCZAS SPOTKAŃ ORGANIZOWANYCH PRZEZ LGD [...]
+date: 2016-10-12T12:57:38+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
-imageAlt: Zdjęcie tytułowe
-files:
-  - file: /assets/uploads/oferta-cenowa-zakup.doc
-    fileName: Oferty do pobrania
-    fileType: docx
+imageAlt: 'Zdjęcie tytułowe '
 ---
-## Stowarzyszenie Lokalna Grupa Działania Chełmno zaprasza do składania oferty cenowej na zakup artykułów promocyjnych i gadżetów reklamowych.
+**STOWARZYSZENIE LOKALNA GRUPA DZIAŁANIA CHEŁMNO**
+
+**ZAPRASZA DO SKŁADANIA OFERT NA ŚWIADCZENIE USŁUG CATERINGOWYCH I WYNAJEM SALI PODCZAS SPOTKAŃ ORGANIZOWANYCH PRZEZ LGD CHEŁMNO W 2016 ROKU.**
 
 <br>
 
-**Opis przedmiotów zamówienia:**
+**OPIS PRZEDMIOTÓW ZAMÓWIENIA:**
+
+Przedmiotem zamówienia jest:
+
+1. Usługa cateringowa dla 20 uczestników: obiad + napoje oraz zapewnienie serwisu kawowego składającego się z: kawy, herbaty, cytryny, mleka, ciastek itp.
+2. Wynajem sali szkoleniowej wyposażonej w rzutnik, ekran projekcyjny lub np. jasną ścianę, na której można wyświetlać informacje.
 
 <br>
 
-1. Krówki reklamowe. Nakład 10 kg krówek, rodzaj opakowania papier, smak mleczny krówek. W cenę wliczony projekt.
-2. Ulotki reklamowe. Nakład 500 szt., wymiary ulotki 10,5×14,8. gramatura 135g, druk 4+4.  W cenę wliczony projekt.
-3. Ulotki reklamowe. Nakład 1000 szt.,  wymiary ulotki 10,5×14,8. gramatura 135g, druk 4+4.  W cenę wliczony projekt.
-4. Balony z nadrukiem. Nakład 500 sztuk, wielkość balonów standard, jeden kolor balonów, jeden kolor nadruku, balony z  patyczkami i zatyczkami.  W cenę wliczony projekt.
-5. Długopisy z nadrukiem. Nakład 500 sztuk, jeden kolor nadruku. W cenę wliczony projekt.
-6. Smycze reklamowe. Nakład 500 sztuk, smycze z nadrukiem jednostronnym 1 + 0, 15 mm + karabińczyk.  W cenę wliczony projekt.
-7. Brelok. Nakład 300 sztuk, brelok plastikowy z nadrukiem, nadruk 4+0.  W cenę wliczony projekt.
-8. Wizytówki. Nakład 1000 sztuk, bez uszlachetniania, format 85×55 mm, kolor 4+4 full kolor, rodzaj papieru 350 g – kreda mat, kształt narożników prostokątne.  W cenę wliczony projekt.
-9. Roll-up z wydrukiem. Nakład 1 szt., wymiary 100×200 cm, nadruk z blockout.  W cenę wliczony projekt.
-10. \    Szyld reklamowy. Stowarzyszenia Lokalna Grupa Działania Chełmno. Wymiary ok. 120 cmx60 cm, proporcje wynikające z projektu. Szyld reklamowy na materiale PCV.  W cenę wliczony projekt.
+Sala szkoleniowa i miejsce podania cateringu musi być dostosowana dla osób niepełnosprawnych oraz znajdować się w mieście Chełmno, kujawsko-pomorskie. Z uwagi na grupę docelową szkolenia preferowana jest lokalizacja centrum miasta.
 
 <br>
 
-Termin realizacji maj 2016 roku
+Termin realizacji pierwszego spotkania:  03.11.2016 r. w godzinach od 8:45-15:15. Kolejne terminy szkoleń będą ustalane z wykonawcą  5 dni przed wykonaniem usług. Menu uzgodnione z wykonawcą po wyborze najkorzystniejszej oferty.
 
 <br>
 
-Sposób wyłonienia wykonawcy: 100% cena
+Sposób wyłonienia wykonawcy: 90% cena, lokalizacja 10%
 
 <br>
 
 Forma płatności:
 
-przelew bankowy na podstawie faktury, płatność 7 dni
+przelew bankowy na podstawie faktury , płatność 7 dni
 
 <br>
 
 Informacje dodatkowe:
 
-1. Wykonawca składa oferę na formularzy stanowiącym wzór do niniejszego zaproszenia w terminie do dnia 19.05.2016
-2. Wypełnioną i podpisaną ofertę należy złożyć osobiście, pocztą tradycyjną lub e-mail na adres: lgdchelmno@wp.pl. O terminowości złożenia oferty decyduje data wpływu do biura LGD Chełmno.
+1. Wykonawca z składa  ofertę na formularzu stanowiącym wzór do niniejszego zaproszenia w terminie  do dnia 17.10.2016r. do godziny 13.00
+2. Wypełnioną i podpisaną ofertę należy złożyć osobiście, pocztą tradycyjną lub e-mail na adres: lgdchelmno@wp.pl
+   O terminowości złożenia oferty decyduje data wpływu do biura LGD Chełmno.
 3. Osobą uprawnioną do kontaktowania się z oferentami  z ramienia Zamawiającego jest: Agnieszka Góral lgdchelmno@wp.pl , tel. 501 388 474. Informacje można uzyskać w dni robocze od godz. 7.15 – 15.15
 
 <br>
 
 Informujemy, że Zamawiający skontaktuje się z wybranym Wykonawcą.
+
+<br>
+
+<br>
+
+<br>
+
+Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt „Wsparcie na rzecz kosztów bieżących i animacji” współfinansowanego w ramach Europejskiego Funduszu Społecznego, w ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego.
+
+* Całkowita wartość projektu 284 545,49 zł,
+* Całkowita wartość dofinansowania 270 318,19 zł,
+* Wkład własny 14 227,30 zł.
