@@ -4,7 +4,7 @@ description: >-
   Oś priorytetowa 11 ma przyczyniać się do ułatwienia społecznościom lokalnym
   inicjowania i realizacji działań rozwojowych w formule partycypacyjnej przy
   współudziale mieszkańców, lokalnych [...]
-date: 2023-12-18T09:36:02.629Z
+date: 2016-12-27T10:36:02+01:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
