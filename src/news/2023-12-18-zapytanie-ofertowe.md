@@ -1,55 +1,62 @@
 ---
 title: Zapytanie ofertowe
 description: >-
-  Chełmno, dn. 30.11.2016 STOWARZYSZENIE LOKALNA GRUPA DZIAŁANIA CHEŁMNO
-  ZAPRASZA DO SKŁADANIA OFERT NA ŚWIADCZENIE USŁUGI POPROWADZENIA SZKOLENIA Z
-  REALIZACJI LOKALNEJ STRATEGII ROZWOJU OPIS [...]
-date: 2016-11-30T09:11:16+01:00
+  Chełmno, dn. 30.12.2016r STOWARZYSZENIE LOKALNA GRUPA DZIAŁANIA CHEŁMNO
+  ZAPRASZA DO SKŁADANIA OFERT NA ŚWIADCZENIE USŁUGI CATERINGOWEJ  ORAZ WYNAJMU
+  SALI SZKOLENIOWEJ   OPIS PRZEDMIOTÓW [...]
+date: 2016-11-30T09:20:36+01:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
-imageAlt: zdjecie tytułowe
+imageAlt: zdjęcie tytułowe
 ---
 ## STOWARZYSZENIE LOKALNA GRUPA DZIAŁANIA CHEŁMNO
 
-## ZAPRASZA DO SKŁADANIA OFERT NA ŚWIADCZENIE USŁUGI POPROWADZENIA SZKOLENIA Z REALIZACJI LOKALNEJ STRATEGII ROZWOJU
+## ZAPRASZA DO SKŁADANIA OFERT NA ŚWIADCZENIE USŁUGI CATERINGOWEJ  ORAZ WYNAJMU SALI SZKOLENIOWEJ
 
 <br>
 
-**OPIS PRZEDMIOTÓW ZAMÓWIENIA:**
-
-<br>
+**Opis przedmiotów zamówienia:**
 
 Przedmiotem zamówienia jest:
 
-1. Poprowadzenie szkolenia z realizacji Lokalnej Strategii Rozwoju, jej celach i przedsięwzięciach, zasadach przyznawania dofinansowania, procedurach, typach operacji mających szanse na dofinansowanie w ramach LSR, zobowiązaniach wynikających z Umowy ramowej dotyczącej RLKS, wdrażanie LSR. Poprowadzenie spotkania dla ok. 20 osób, 5 godzin zegarowych. Wykonawca dostarczy Zamawiającemu materiały min. 3 dni przed planowanym spotkaniem w celu powielenia ich dla uczestników spotkania. Spotkanie zorganizowane będzie na obszarze LSR Chełmno lub poza obszarem LSR do 10 km.
+1. Usługa cateringowa dla 20 uczestników: dwudaniowy obiad + napoje oraz zapewnienie serwisu kawowego składającego się z: kawy, herbaty, cytryny, mleka, ciastek itp.
+2. Wynajem sali szkoleniowej wyposażonej w ekran projekcyjny lub np. jasną ścianę, na której można wyświetlać informacje.
 
 <br>
 
-Termin realizacji usługi: 13.12.2016 r. godziny 9:00-14:00
+Sala szkoleniowa i miejsce podania cateringu musi znajdować się w tym samym budynku, lokalizacja: miasto Chełmno lub w odległości do 10km od granic administracyjnych miasta Chełmna, kujawsko-pomorskie.
 
 <br>
 
-Sposób wyłonienia wykonawcy: 70% cena, 30% doświadczenie związane z prowadzeniem szkoleń oraz  znajomość tematyki RLKS, Lokalnej Strategii Rozwoju, LGD
+Termin realizacji usługi: 13.12.2016 r. w godzinach od 8:30-16:30
+
+<br>
+
+Menu uzgodnione z wykonawcą po wyborze najkorzystniejszej oferty.
+
+<br>
+
+Sposób wyłonienia wykonawcy: 90% cena, 10% zapewnienie sali szkoleniowej wyposażonej w rzutnik oraz kompatybilny z nim laptop na potrzeby realizacji szkolenia
 
 <br>
 
 Forma płatności:
 
-przelew bankowy na podstawie rachunku/faktury, płatnośc 14 dni
+przelew banowy na podstawie rachunku/faktury, płatność 7 dni
 
 <br>
 
-Infromacje dodatkowe:
+Informacje dodatkowe:
 
 1. Wykonawca z składa  ofertę na formularzu stanowiącym wzór do niniejszego zaproszenia w terminie  do dnia 07.12.2016r. do godziny 15:15
 2. Wypełnioną i podpisaną ofertę należy złożyć osobiście, pocztą tradycyjną lub e-mail na adres: lgdchelmno@wp.pl
    O terminowości złożenia oferty decyduje data wpływu do biura LGD Chełmno.
-3. Osobą uprawnioną do kontaktowania się z oferentami  z ramienia Zamawiającego jest: Agnieszka Góral, adres e-mail: lgdchelmno@wp.pl , tel. 501 388 474. Informacje można uzyskać w dni robocze od godz. 7.15 – 15.15
+3. Osobą uprawnioną do kontaktowania się z oferentami  z ramienia Zamawiającego jest: Agnieszka Góral lgdchelmno@wp.pl , tel. 501 388 474. Informacje można uzyskać w dni robocze od godz. 7.15 – 15.15
 
 <br>
 
-Informujemy, że Zamawiający skontakuje się z wybranym Wykonoawcą.
+Informujemy, że Zamawuający skontaktuje się z wybranym Wykonawcą.
 
 <br>
 
