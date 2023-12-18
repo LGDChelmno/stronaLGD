@@ -1,8 +1,6 @@
 ---
 title: >-
-  Fundacja Stabilo zaprasza do Partnerstwa na rzecz wypracowania rekomendacji w
-  projekcie „Efektywnie dla młodzieży – nowe standardy na rynku pracy w
-  województwie kujawsko-pomorskim”
+  Fundacja Stabilo zaprasza do Partnerstwa
 description: >-
   Chełmno, dn. 1.08.2016 Fundacja Stabilo we współpracy z partnerami:
   Uniwersytetem Kazimierza Wielkiego w Bydgoszczy, Powiatowym Urzędem Pracy w

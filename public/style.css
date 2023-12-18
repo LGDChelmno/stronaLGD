@@ -47,9 +47,33 @@ a[href$=".docx"]::before {
     border: 0;
 }
 
+a[href$=".docx"]::before {
+    content: "Rozpocznie pobieranie pliku doc";
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
 
 a[href$=".xls"]::before {
     content: "Rozpocznie pobieranie pliku xls";
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+a[href$=".pptx"]::before {
+    content: "Rozpocznie pobieranie pliku pttx";
     position: absolute;
     width: 1px;
     height: 1px;
@@ -64,12 +88,20 @@ a[href$=".pdf"]::after {
     content: " (.pdf)"
 }
 
-a[href$=".docx"] {
+a[href$=".docx"]::after {
     content: " (.docx)"
 }
 
-a[href$=".xls"] {
+a[href$=".doc"]::after {
+    content: " (.doc)"
+}
+
+a[href$=".xls"]::after {
     content: " (.xls)"
+}
+
+a[href$=".pptx"] {
+    content: " (.pttx)"
 }
 
 h2 {

@@ -9,9 +9,10 @@ layout: 'base.njk'
             <div class="tabs-container">
                 {%- for lsr in collections.lsr| reverse -%}
                 <button class="tab" onclick="showTab('{{ lsr.data.id }}')">{{ lsr.data.title }}</button>
+                {%- endfor -%}
             </div>
 
-            
+            {%- for lsr in collections.lsr -%}
             <div id="{{ lsr.data.id }}" class="tab-content">
                 <h1>{{ lsr.data.title }}</h1>
                 {{ lsr.content | safe }}
