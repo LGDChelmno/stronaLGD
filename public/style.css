@@ -438,8 +438,13 @@ main a {
     text-align: left;
 }
 
+.test-photo {
+    display: flex;
+    justify-content: center;
+}
+
 .aktualnosc-img {
-    width: 100%;
+    width: 70%;
     height: auto;
 }
 
