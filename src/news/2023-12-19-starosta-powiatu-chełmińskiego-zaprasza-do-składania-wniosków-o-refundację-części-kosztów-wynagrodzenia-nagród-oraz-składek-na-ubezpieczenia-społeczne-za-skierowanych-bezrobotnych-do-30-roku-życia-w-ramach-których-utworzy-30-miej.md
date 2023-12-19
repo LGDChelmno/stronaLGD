@@ -1,9 +1,6 @@
 ---
 title: >-
   Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o refundację
-  części kosztów wynagrodzenia, nagród oraz składek na ubezpieczenia społeczne
-  za skierowanych bezrobotnych do 30 roku życia, w ramach których utworzy 30
-  miejsc pracy dla skierowanych bezrobotnych
 description: >-
   INFORMACJA DLA PRZEDSIĘBIORCÓW/PRACODAWCÓW O MOŻLIWOŚCI REFUNDACJI CZĘŚCI
   KOSZTÓW PONIESIONYCH NA WYNAGRODZENIA, NAGRODY ORAZ SKŁADKI NA UBEZPIECZENIA
