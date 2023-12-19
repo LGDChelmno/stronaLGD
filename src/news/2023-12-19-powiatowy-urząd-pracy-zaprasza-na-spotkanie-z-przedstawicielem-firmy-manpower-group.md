@@ -6,7 +6,7 @@ description: >-
   INFORMACJA Uprzejmie informujemy, że dnia 06.06.2017 r. o godz. 10:00 w
   Urzędzie Pracy w Chełmnie (pokój nr 15) odbędzie się spotkanie z
   przedstawicielami firmy MANPOWER GROUP, która [...]
-date: 2023-12-19T10:25:31.497Z
+date: 2017-05-30T11:25:31+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
