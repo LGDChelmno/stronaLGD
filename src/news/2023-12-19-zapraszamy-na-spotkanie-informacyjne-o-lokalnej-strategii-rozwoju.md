@@ -4,7 +4,7 @@ description: >-
   Stowarzyszenie Lokalna Grupa Działania Chełmno zaprasza 12.04.2017 roku
   (środa), godz: 12:30 – 18:30 na bezpłatne spotkanie informacyjne o Lokalnej
   Strategii Rozwoju. Miejsce spotkania: [...]
-date: 2017-04-06T08:52:02+02:00
+date: 2017-04-07T09:06:06+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
@@ -38,7 +38,7 @@ ul. Dominikańska 40, 86-200 Chełmno
 
 <br>
 
-Zapewniamy materiały szkoleniowe, poczęstunek oraz gadżet promocyjny.
+**Zapewniamy materiały szkoleniowe, poczęstunek oraz gadżet promocyjny.**
 
 <br>
 
