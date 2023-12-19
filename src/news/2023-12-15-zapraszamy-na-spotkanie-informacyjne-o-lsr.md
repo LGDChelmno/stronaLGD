@@ -4,7 +4,7 @@ description: >-
   SPOTKANIE INFORMACYJNE O LSR – ZAPRASZAMY!                    Stowarzyszenie
   Lokalna Grupa Działania Chełmno   Zaprasza 3 listopada 2016 roku, godz.:
   9:00-16:00 na bezpłatne spotkanie [...]
-date: 2023-12-15T12:40:21.925Z
+date: 2016-10-20T13:40:21+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
