@@ -4,7 +4,7 @@ description: >-
   Chełmno, dn. 25.08.2017 STOWARZYSZENIE LOKALNA GRUPA DZIAŁANIA CHEŁMNO
   zaprasza DO SKŁADANIA OFERT na przeprowadzenie warsztatów aktywizujących pn.
   pozytywny wizerunek, aktywne poszukiwanie pracy [...]
-date: 2023-12-20T11:07:51.907Z
+date: 2017-08-25T12:07:51+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
