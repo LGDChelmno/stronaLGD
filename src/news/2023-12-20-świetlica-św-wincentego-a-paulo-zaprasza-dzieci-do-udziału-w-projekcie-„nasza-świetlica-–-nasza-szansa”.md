@@ -6,7 +6,7 @@ description: >-
   Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt „Wsparcie na
   rzecz kosztów bieżących i animacji” współfinansowanego w ramach Europejskiego
   Funduszu [...]
-date: 2023-12-20T08:22:02.776Z
+date: 2017-07-27T09:22:02+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
