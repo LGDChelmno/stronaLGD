@@ -3,10 +3,10 @@ title: >-
   Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o organizację
   staży
 description: >-
-  INFORMACJA O MOŻLIWOŚCI ORGANIZACJI STAŻY DLA OSÓB BEZROBOTNYCH Starosta
-  Powiatu Chełmińskiego zaprasza do składania wniosków o organizację staży w
-  łącznej liczbie 100 miejsc Celem jest [...]
-date: 2018-01-15T08:12:31+01:00
+  Chełmno, 12.02.2018 r. INFORMACJA O MOŻLIWOŚCI ORGANIZACJI STAŻY DLA OSÓB
+  BEZROBOTNYCH Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o
+  organizację staży w łącznej liczbie 50 [...]
+date: 2018-02-12T09:48:03+01:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
@@ -14,15 +14,13 @@ imageAlt: zdjęcie tytułowe
 ---
 **INFORMACJA O MOŻLIWOŚCI ORGANIZACJI STAŻY DLA OSÓB BEZROBOTNYCH**
 
-**<br>**
 
-**Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o organizację staży w łącznej liczbie 100 miejsc**
 
-**<br>**
-
-Celem jest pozyskanie podmiotów do zorganizowania staży określonej grupie bezrobotnych, które umożliwią im nabycie umiejętności praktycznych i zdobycie doświadczenia zawodowego w rzeczywistych warunkach pracy.
+**Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o organizację staży w łącznej liczbie 50 miejsc**
 
 <br>
+
+Celem jest pozyskanie podmiotów do zorganizowania staży określonej grupie bezrobotnych, które umożliwią im nabycie umiejętności praktycznych i zdobycie doświadczenia zawodowego w rzeczywistych warunkach pracy.
 
 1. Beneficjentami są bezrobotni, zarejestrowani w Powiatowym Urzędzie Pracy w Chełmnie, dla których został określony II profil pomocy, powyżej 29 roku życia znajdujący się w trudnej sytuacji na rynku pracy, spełniający dodatkowo minimum jedno z poniższych kryteriów według następującej kolejności:
 
@@ -36,34 +34,26 @@ Celem jest pozyskanie podmiotów do zorganizowania staży określonej grupie bez
 
 Staż jest realizowany w ramach projektu „Wsparcie aktywności zawodowej osób bezrobotnych w powiecie chełmińskim (III)”, w związku z tym, w stażu mogą brać udział jedynie te osoby, które do tej pory nie uczestniczyły w w/w projekcie w 2017 roku.
 
-<br>
-
-2. Staże, trwające do 6 miesięcy (bez nawiązania stosunku pracy), organizowane będą począwszy od dnia 01.02.2018r., nie później niż od 01.04.2018r., na podstawie umów cywilnoprawnych zawieranych z organizatorem stażu.
-
-<br>
+2. Staże, trwające do 6 miesięcy (bez nawiązania stosunku pracy), organizowane będą począwszy od dnia 01.03.2018r., nie później niż od 01.04.2018r., na podstawie umów cywilnoprawnych zawieranych z organizatorem stażu.
 
 3. Akceptację uzyskają wnioski podmiotów zobowiązujących się do zatrudnienia każdego stażysty bezpośrednio po zakończeniu odbywania stażu na okres co najmniej 3 miesięcy, w ramach:
 
 * umowy o pracę co najmniej w połowie wymiaru czasu pracy lub
 * umowy cywilno-prawnej, gdzie wartość umowy zlecenia/o dzieło nie może być niższa niż wielokrotność minimalnego wynagrodzenia za pracę obowiązującego w dniu podjęcia pracy zarobkowej.
 
-<br>
-
 4. Wniosek wraz z wymaganymi załącznikami należy złożyć w Powiatowym Urzędzie Pracy w Chełmnie przy ul. Świętojerskiej 1, pok. 8 (sekretariat).
 
-<br>
+5. Druk wniosku oraz wszelkie informacje w sprawie organizacji staży, w tym określone w „Szczegółowych informacjach dla organizatorów staży”, można uzyskać w Powiatowym Urzędzie Pracy w Chełmnie przy ul. Świętojerskiej 1, pokój nr 2 (parter), w godzinach 7301515 (od poniedziałku do piątku), tel. nr 056 686 00 41, witryna: Przejdź do: www.chelmno.praca.gov.pl
 
-5. Druk wniosku oraz wszelkie informacje w sprawie organizacji staży, w tym określone w „Szczegółowych informacjach dla organizatorów staży”, można uzyskać w Powiatowym Urzędzie Pracy w Chełmnie przy ul. Świętojerskiej 1, pokój nr 2 (parter), w godzinach 7:30-15:15 (od poniedziałku do piątku), tel. nr 056 686 00 41, witryna: Przejdź do: www.chelmno.praca.gov.pl
+6. Wnioski należy składać w terminie:
 
-<br>
-
-6. Wnioski należy składać w terminie
-
-od dnia 15.01.2018 r. do dnia 19.01.2018r,do godz.15:15.
-
-<br>
+od dnia 19.02.2018 r. do dnia 23.02.2018r,do godz.15:15.
 
 7. O sposobie rozpatrzenia wniosku podmioty zostaną powiadomione w terminie do 30 dni, od daty jego złożenia wraz z kompletem dokumentów.
+
+<br>
+
+ZAPRASZAMY DO WSPÓŁPRACY
 
 <br>
 
