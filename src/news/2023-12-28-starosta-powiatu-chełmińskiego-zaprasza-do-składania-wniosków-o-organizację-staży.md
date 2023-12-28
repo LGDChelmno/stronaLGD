@@ -3,20 +3,20 @@ title: >-
   Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o organizację
   staży
 description: >-
-  Chełmno, 12.02.2018 r. INFORMACJA O MOŻLIWOŚCI ORGANIZACJI STAŻY DLA OSÓB
-  BEZROBOTNYCH Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o
-  organizację staży w łącznej liczbie 50 [...]
-date: 2018-02-12T09:48:03+01:00
+  INFORMACJA O MOŻLIWOŚCI ORGANIZACJI STAŻY DLA OSÓB BEZROBOTNYCH Starosta
+  Powiatu Chełmińskiego zaprasza do składania wniosków o organizację staży w
+  łącznej liczbie 30 miejsc   Celem jest [...]
+date: 2018-04-06T10:22:49+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
-imageAlt: zdjęcie tytułowe
+imageAlt: Zdjęcie tytułowe
 ---
 **INFORMACJA O MOŻLIWOŚCI ORGANIZACJI STAŻY DLA OSÓB BEZROBOTNYCH**
 
 
 
-**Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o organizację staży w łącznej liczbie 50 miejsc**
+**Starosta Powiatu Chełmińskiego zaprasza do składania wniosków o organizację staży w łącznej liczbie 30 miejsc**
 
 <br>
 
@@ -34,7 +34,7 @@ Celem jest pozyskanie podmiotów do zorganizowania staży określonej grupie bez
 
 Staż jest realizowany w ramach projektu „Wsparcie aktywności zawodowej osób bezrobotnych w powiecie chełmińskim (III)”, w związku z tym, w stażu mogą brać udział jedynie te osoby, które do tej pory nie uczestniczyły w w/w projekcie w 2017 roku.
 
-2. Staże, trwające do 6 miesięcy (bez nawiązania stosunku pracy), organizowane będą począwszy od dnia 01.03.2018r., nie później niż od 01.04.2018r., na podstawie umów cywilnoprawnych zawieranych z organizatorem stażu.
+2. Staże, trwające do 6 miesięcy (bez nawiązania stosunku pracy), organizowane będą od dnia 01.05.2018r., na podstawie umów cywilnoprawnych zawieranych z organizatorem stażu.
 
 3. Akceptację uzyskają wnioski podmiotów zobowiązujących się do zatrudnienia każdego stażysty bezpośrednio po zakończeniu odbywania stażu na okres co najmniej 3 miesięcy, w ramach:
 
@@ -43,11 +43,11 @@ Staż jest realizowany w ramach projektu „Wsparcie aktywności zawodowej osób
 
 4. Wniosek wraz z wymaganymi załącznikami należy złożyć w Powiatowym Urzędzie Pracy w Chełmnie przy ul. Świętojerskiej 1, pok. 8 (sekretariat).
 
-5. Druk wniosku oraz wszelkie informacje w sprawie organizacji staży, w tym określone w „Szczegółowych informacjach dla organizatorów staży”, można uzyskać w Powiatowym Urzędzie Pracy w Chełmnie przy ul. Świętojerskiej 1, pokój nr 2 (parter), w godzinach 7301515 (od poniedziałku do piątku), tel. nr 056 686 00 41, witryna: Przejdź do: www.chelmno.praca.gov.pl
+5. Druk wniosku oraz wszelkie informacje w sprawie organizacji staży, w tym określone w „Szczegółowych informacjach dla organizatorów staży”, można uzyskać w Powiatowym Urzędzie Pracy w Chełmnie przy ul. Świętojerskiej 1, pokój nr 2 (parter), w godzinach 7:30-15:15 (od poniedziałku do piątku), tel. nr 056 686 00 41, witryna: Przejdź do: www.chelmno.praca.gov.pl
 
 6. Wnioski należy składać w terminie:
 
-od dnia 19.02.2018 r. do dnia 23.02.2018r,do godz.15:15.
+od dnia 09.04.2018 r. do dnia 13.04.2018r,do godz.15:15 .
 
 7. O sposobie rozpatrzenia wniosku podmioty zostaną powiadomione w terminie do 30 dni, od daty jego złożenia wraz z kompletem dokumentów.
 
