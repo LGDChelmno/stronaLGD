@@ -1,26 +1,20 @@
 ---
-title: Posiedzenie Rady LGD Chełmno
+title: POSIEDZENIE RADY LGD CHEŁMNO
 description: >-
-  Zawiadomienie o posiedzeniu Rady Stowarzyszenia Lokalna Grupa Działania
-  Chełmno Chełmno, 23.10.2018r. Zarząd Stowarzyszenia Lokalna Grupa Działania
-  Chełmno zaprasza Państwa na spotkanie Rady. [...]
-date: 2018-10-23T08:51:36+02:00
+  Zawiadomienie o terminie, miejscu oraz porządku posiedzenia Rady
+  Stowarzyszenia Lokalna Grupa Działania Chełmno 04.02.2019 r. Zarząd
+  Stowarzyszenia Lokalna Grupa Działania Chełmno zaprasza [...]
+date: 2019-02-05T09:30:44+01:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
 imageAlt: Zdjęcie tytułowe
-files:
-  - file: /assets/uploads/zaproszenie-dla-członków-rady-lgd.pdf
 ---
-## Zawiadomienie o posiedzeniu Rady
-
-## 
-
-## Stowarzyszenia Lokalna Grupa Działania Chełmno
+## Zawiadomienie o terminie, miejscu oraz porządku posiedzenia Rady Stowarzyszenia Lokalna Grupa Działania Chełmno
 
 <br>
 
-Zarząd Stowarzyszenia Lokalna Grupa Działania Chełmno zaprasza Państwa na spotkanie Rady. Posiedzenie odbędzie się w dniu 29.10.2018 r. (poniedziałek) w Zespole Szkół Ogólnokształcących nr 1 w Chełmnie, sala nr 6, ul. Dominikańska 35, o godzinie 13:00.
+Zarząd Stowarzyszenia Lokalna Grupa Działania Chełmno zaprasza Państwa na spotkanie Rady. Posiedzenie odbędzie się w dniu 12.02.2019 r. (wtorek) w Zespole Szkół Ogólnokształcących nr 1 w Chełmnie w sali nr 6,  ul. Dominikańska 35, o godzinie 15:00. Posiedzenie będzie dotyczyć oceny i wyboru projektów złożonych na ogłoszony nabór 2018/G/1.
 
 <br>
 
@@ -32,15 +26,39 @@ Joanna Rajtar-Pilarska
 
 <br>
 
-Proponowany porządek zebrania:
+Proponowany porządek posiedzenia:
 
-1. Przywitanie wszystkich członków przez Prezes Stowarzyszenia.
-2. Stwierdzenie prawomocności zebrania.
-3. Przyjęcie porządku obrad.
-4. Wybranie Przewodniczącego Rady Stowarzyszenia Lokalna Grupa Działania Chełmno.
-5. Podjęcie Uchwały w sprawie wybrania Przewodniczącego Rady Stowarzyszenia Lokalna Grupa Działania Chełmno.
-6. Pytania i wolne wnioski.
-7. Zakończenie posiedzenia.
+1. Otwarcie posiedzenia.
+2. Powołanie protokolanta.
+3. Przedstawienie porządku obrad.
+4. Sprawdzenie quorum obrad.
+5. Powołanie Komisji Skrutacyjnej.
+6. Stwierdzenie prawomocności obrad.
+7. Ocena pod względem:
+
+ A. zgodności projektu z LSR zgodnie z art. 21 ust. 2 ustawy RLKS, tj.:
+
+– zakłada realizację celów głównych i szczegółowych LSR, przez osiąganie zaplanowanych w LSR wskaźników,
+
+
+
+– jest zgodny z RPO WK-P na lata 2014-2020,
+
+
+
+– jest zgodny z zakresem tematycznym projektu,
+
+
+
+– jest objęty wnioskiem, który został złożony w miejscu i terminie wskazanym w Ogłoszeniu o naborze wniosków;
+
+<br>   
+
+B. Zgodności projektu z lokalnymi kryteriami wyboru.
+
+8. Ustalenie kwot dofinansowania.
+
+9. Zamknięcie posiedzenia.
 
 <br>
 
@@ -52,12 +70,12 @@ Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt „Wsparcie n
 
 
 
-• Całkowita wartość projektu 284 545,49 zł,
+• Całkowita wartość projektu 332 489,45 zł,
 
 
 
-• Całkowita wartość dofinansowania 270 318,19 zł,
+• Całkowita wartość dofinansowania 315 864,97 zł,
 
 
 
-• Wkład własny 14 227,30 zł.
+• Wkład własny 16 624,48 zł.
