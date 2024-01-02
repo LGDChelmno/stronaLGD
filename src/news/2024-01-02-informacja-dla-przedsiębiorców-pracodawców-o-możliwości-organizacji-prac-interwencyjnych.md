@@ -1,26 +1,28 @@
 ---
 title: >-
   INFORMACJA DLA  PRZEDSIĘBIORCÓW/PRACODAWCÓW O MOŻLIWOŚCI ORGANIZACJI PRAC
-  INTERWENCYJNYCH
+  INTERWENCYJNYCH  
 description: >-
   INFORMACJA DLA  PRZEDSIĘBIORCÓW/PRACODAWCÓW O MOŻLIWOŚCI ORGANIZACJI PRAC
-  INTERWENCYJNYCH Starosta Powiatu Chełmińskiego zaprasza do składania wniosków
-  o organizację prac interwencyjnych, w [...]
-date: 2019-04-26T10:51:58+02:00
+  INTERWENCYJNYCH   Starosta Powiatu Chełmińskiego zaprasza do składania
+  wniosków o organizację prac interwencyjnych, [...]
+date: 2024-01-02T09:55:08.122Z
 tags:
   - news
 image: /assets/uploads/lgd.jpg
-imageAlt: zdjęcie tytułowe
+imageAlt: Zdjęcie tytułowe
 ---
 **INFORMACJA DLA  PRZEDSIĘBIORCÓW/PRACODAWCÓW**
 
 **O MOŻLIWOŚCI ORGANIZACJI PRAC INTERWENCYJNYCH**
 
+**<br>**
+
 **Starosta Powiatu Chełmińskiego zaprasza do składania wniosków**
 
 **o organizację prac interwencyjnych, w ramach których utworzy**
 
-**16 miejsc pracy dla skierowanych bezrobotnych **
+**19 miejsc pracy dla skierowanych bezrobotnych**
 
 **lub skierowanych bezrobotnych opiekunów osoby niepełnosprawnej**
 
@@ -28,15 +30,31 @@ imageAlt: zdjęcie tytułowe
 
 **ZASADY ORGANIZACJI PRAC INTERWENCYJNYCH:**
 
-1.W ramach niniejszego ogłoszenia Starosta może utworzyć 16 miejsc pracy dla określonej grupy bezrobotnych  lub  bezrobotnych opiekunów osoby niepełnosprawnej, w ramach projektu„Aktywizacja osób młodych pozostających bez pracy w powiecie chełmińskim (IV)” Program Operacyjny Wiedza Edukacja Rozwój, do zatrudnienia w ramach prac interwencyjnych kierowane będą   osoby bezrobotne lub osoby  bezrobotne – opiekunowie osoby niepełnosprawnej, zarejestrowane w Powiatowym Urzędzie Pracy w Chełmnie, do 30 roku życia, a w przypadku osób do 25 roku życia zarejestrowane nie dłużej niż 4 miesiące, zamieszkujące teren powiatu chełmińskiego, dla których został określony II profil pomocy, które do tej pory nie uczestniczyły w formach aktywizacji zawodowej (szkolenia, staże) realizowanych w ramach w/w projektu,
+<br>
 
-zaliczone do kategorii NEET, spełniające łącznie trzy warunki:
 
-– nie pracuje,
 
-– nie uczestniczy w kształceniu formalnym w trybie stacjonarnym,
 
-– nie szkoliła się ze środków publicznych w ostatnich 4 tygodniach,
+
+ 1.W ramach niniejszego ogłoszenia Starosta może utworzyć 19 miejsc pracy dla określonej grupy   bezrobotnych  lub  bezrobotnych opiekunów osoby niepełnosprawnej  – w ramach  prac interwencyjnych.
+
+
+
+Prace interwencyjne są organizowane w ramach projektu pn. „Wsparcie aktywności zawodowej osób bezrobotnych w powiecie chełmińskim (IV)”, Działanie 8.1 Podniesienie aktywności zawodowej osób bezrobotnych poprzez działania powiatowych urzędów pracy, Regionalny Program Operacyjny Województwa Kujawsko  – Pomorskiego na lata 2014-2020. Projekt w 85% współfinansowany jest z budżetu środków europejskich w ramach Europejskiego Fundusz Społecznego (EFS) oraz w 15% z wkładu krajowego.
+
+
+
+–  w ramach projektu „Wsparcie aktywności zawodowej osób bezrobotnych w powiecie chełmińskim (IV)”, do zatrudnienia w ramach prac interwencyjnych kierowane będą  osoby bezrobotne lub osoby bezrobotne opiekunowie osoby niepełnosprawnej, zarejestrowane w Powiatowym Urzędzie Pracy w Chełmnie, powyżej 29 roku życia, znajdujące się w trudnej sytuacji na rynku pracy, dla których został określony II profil pomocy, które do tej pory nie uczestniczyły w formach aktywizacji zawodowej (szkolenia, staże) realizowanych w ramach w/w projektu, spełniające dodatkowo minimum jedno z poniższych kryteriów :
+
+– osoby powyżej 50 roku życia,
+
+– kobiety,
+
+– osoby niepełnosprawne,
+
+– osoby długotrwale bezrobotne,
+
+– osoby o niskich kwalifikacjach (bez wykształcenia, podstawowe, gimnazjalne, ponadgimnazjalne).
 
 
 
@@ -56,7 +74,7 @@ W ramach niniejszego ogłoszenia Starosta może dokonywać zwrotu poniesionych p
 
 
 
-3. Niewywiązanie się z warunku, o którym mowa w pkt.2, lub naruszenie innych warunków umowy powoduje obowiązek zwrotu uzyskanej pomocy wraz z odsetkami ustawowymi naliczonymi od całości uzyskanej pomocy od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty.
+3. Niewywiązanie się z warunku, o którym mowa w pkt.2, lub naruszenie innych warunków umowy powoduje obowiązek zwrotu uzyskanej pomocy wraz z odsetkami ustawowymi naliczonymi od całości uzyskanej pomocy   od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty.
 
 
 
@@ -64,11 +82,11 @@ W ramach niniejszego ogłoszenia Starosta może dokonywać zwrotu poniesionych p
 
 
 
-5. W przypadku odmowy przyjęcia skierowanego bezrobotnego lub skierowanego bezrobotnego opiekuna osoby niepełnosprawnej na zwolnione stanowisko pracy, pracodawca zwraca uzyskaną pomoc w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty. W przypadku braku możliwości skierowania odpowiednio bezrobotnego lub bezrobotnego opiekuna osoby niepełnosprawnej przez urząd  pracy na zwolnione stanowisko pracy, pracodawca nie zwraca uzyskanej pomocy za okres, w którym uprzednio skierowany bezrobotny lub skierowany bezrobotny opiekun osoby niepełnosprawnej pozostawał w zatrudnieniu.
+5. W przypadku odmowy przyjęcia skierowanego bezrobotnego lub skierowanego bezrobotnego opiekuna osoby niepełnosprawnej na zwolnione stanowisko pracy, pracodawca zwraca uzyskaną pomoc w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty. W przypadku braku możliwości skierowania odpowiednio bezrobotnego lub bezrobotnego opiekuna osoby niepełnosprawnej przez urząd  pracy na zwolnione stanowisko pracy, pracodawca nie zwraca uzyskanej pomocy   za okres, w którym uprzednio skierowany bezrobotny lub skierowany bezrobotny opiekun osoby niepełnosprawnej pozostawał w zatrudnieniu.
 
 
 
-6.Refundacja części kosztów poniesionych na  wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne dokonywana  w ramach prac interwencyjnych w związku z zatrudnieniem skierowanego bezrobotnego lub zatrudnieniem skierowanego bezrobotnego opiekuna osoby niepełnosprawnej  stanowi pomoc    de minimis spełniającą warunki określone w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L352 z 24.12.2013, str. 1), rozporządzeniu Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352z 24.12.2013,  str. 9)  lub rozporządzeniu Komisji  (UE) NR 717/2014 z dnia 27 czerwca 2014 r.w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis   w sektorze rybołówstwa i akwakultury (Dz.U.UE.L.2014.190.45).
+6.Refundacja części kosztów poniesionych na  wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne dokonywana  w ramach prac interwencyjnych w związku z zatrudnieniem skierowanego bezrobotnego lub zatrudnieniem skierowanego bezrobotnego opiekuna osoby niepełnosprawnej  stanowi pomoc de minimis spełniającą warunki określone w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L352 z 24.12.2013, str. 1), rozporządzeniu Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352z 24.12.2013,  str. 9)  lub rozporządzeniu Komisji  (UE) NR 717/2014 z dnia 27 czerwca 2014 r.w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis   w sektorze rybołówstwa i akwakultury (Dz.U.UE.L.2014.190.45).
 
 
 
@@ -79,8 +97,6 @@ Niespełnianie warunków przez pracodawcę – beneficjenta pomocy w zakresie w/
 
 
 DO SKŁADANIA WNIOSKÓW ZAPRASZAMY PRZEDSIĘBIORCÓW/PRACODAWCÓW:
-
-
 
 1.W stosunku do których nie toczy się postępowanie upadłościowe i nie został zgłoszony wniosek
 
@@ -98,7 +114,7 @@ DO WNIOSKU NALEŻY DOŁĄCZYĆ:
 
 1)Dokumenty potwierdzające formę prawną prowadzonej działalności odpowiednio:
 
-–  kserokopię zaświadczenia o wpisie do ewidencji działalności gospodarczej lub wydruk informacji o rejestracji z  Centralnej Ewidencji i  Informacji o Działalności Gospodarczej,  a w przypadku spółki cywilnej dodatkowo  umowę spółki.
+–  kserokopię zaświadczenia o wpisie do ewidencji działalności gospodarczej lub wydruk informacji o rejestracji                     z  Centralnej Ewidencji i  Informacji o Działalności Gospodarczej,  a w przypadku spółki cywilnej dodatkowo  umowę spółki.
 
 – wypis z  Krajowego Rejestru Sądowego w przypadku osób prawnych
 
@@ -147,5 +163,7 @@ Zatrudnienie w ramach prac interwencyjnych może nastąpić najwcześniej  od 01
 
 
 W przypadku gdy wnioski, są nieprawidłowo wypełnione lub niekompletne, starosta wyznacza wnioskodawcy co najmniej 7-dniowy termin na ich uzupełnienie. Wnioski nieuzupełnione we wskazanym terminie pozostawia się bez rozpatrzenia.
+
+
 
 Bliższych informacji na temat zasad organizacji prac interwencyjnych udziela Kierownik Centrum Aktywizacji Zawodowej mgr Violetta Chojnicka, pok. nr 7, nr tel. 56 686 00 41 wew. 171 .
