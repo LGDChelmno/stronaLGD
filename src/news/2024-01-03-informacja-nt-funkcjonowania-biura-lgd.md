@@ -1,33 +1,17 @@
 ---
-title: Informacja nt. funkcjonowania Biura LGD
+title: Informacja nt. funkcjonowania biura LGD
 description: >-
-  Szanowni Państwo, W związku ze zwiększonym ryzykiem zachorowania na
-  koronawirusa, informujemy, że:  1. od 16 marca do 25 marca nie będzie
-  możliwości bezpośrednich wizyt w biurze w LGD przy ul. [...]
-date: 2020-03-13T09:12:21+01:00
+  Stowarzyszenie Lokalna Grupa Działania Chełmno informuje, iż od 11.05.2020 r.
+  biuro LGD funkcjonuje od godz. 7:15 do 15:15. W przypadku konieczności wizyty
+  osobistej w biurze prosimy o [...]
+date: 2020-05-10T12:52:21+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
 imageAlt: zdjęcie tytułowe
 ---
-## Szanowni Państwo,
-
-## W związku ze zwiększonym ryzykiem zachorowania na koronawirusa, informujemy, że: 
+Stowarzyszenie Lokalna Grupa Działania Chełmno informuje, iż od 11.05.2020 r. biuro LGD funkcjonuje od godz. 7:15 do 15:15.
 
 <br>
 
-1. od 16 marca do 25 marca nie będzie możliwości bezpośrednich wizyt w biurze w LGD
-
-przy ul. Dominikańskiej 35;
-
-2. Kanały komunikacji: za pośrednictwem poczty e-mail Przejdź do: lgdchelmno@wp.pl lub Przejdź do: lgdchelmno@gmail.com bądź poprzez kontakt telefoniczny
-
-501 388 474, 517 398 043, 56 676 28 87 w godzinach 7.15-15.15.
-
-<br>
-
-**Dbajcie o siebie i swoich bliskich, jeśli to możliwe zostańcie w domach.**
-
-**Życzymy dużo zdrowia.**
-
-**Zarząd i Biuro LGD Chełmno.**
+W przypadku konieczności wizyty osobistej w biurze prosimy o wcześniejsze umówienie się telefonicznie lub mailowo. Wszelkie sprawy związane z działalnością Stowarzyszenia LGD Chełmno prosimy załatwiać drogą telefoniczną pod nr 501 388 474 lub nr 517 398 043 bądź mailowo pod adresem: lgdchelmno@wp.pl.
