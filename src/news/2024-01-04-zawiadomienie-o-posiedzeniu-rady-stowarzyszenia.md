@@ -4,7 +4,7 @@ description: >-
   Posiedzenie odbędzie się w dniu 22.07.2020 r. (środa) się w Zespole Szkół
   Ogólnokształcących nr 1 w Chełmnie, sala nr 6, ul. Dominikańska 35, o godzinie
   14:00. Proponowany porządek posiedzenia: [...]
-date: 2024-01-04T07:28:56.041Z
+date: 2020-07-17T08:28:56+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
