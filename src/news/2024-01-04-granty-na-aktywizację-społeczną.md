@@ -1,10 +1,10 @@
 ---
 title: Granty na aktywizację społeczną
 description: >-
-  Chełmno,  04.09.2020 r. Ogłoszenie o naborze wniosków Numer naboru: 2020/G/1
+  Chełmno,  17.03.2021 r. Ogłoszenie o naborze wniosków Numer naboru: 2021/G/1
   Lokalna Grupa Działania Chełmno informuje o możliwości składania wniosków o
   powierzenie grantu w ramach Lokalnej [...]
-date: 2020-09-04T09:54:57+02:00
+date: 2021-03-17T11:38:15+01:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
@@ -14,7 +14,7 @@ Ogłoszenie o naborze wniosków
 
 
 
-Numer naboru: 2020/G/1
+Numer naboru: 2021/G/1
 
 
 
@@ -28,8 +28,6 @@ informuje o możliwości składania wniosków o powierzenie grantu w ramach Loka
 
 ZAKRES TEMATYCZNY:
 
-
-
 Przedsięwzięcie 2.1.1 Dobrze zorganizowana animacja społeczeństwa Chełmna
 
 
@@ -38,7 +36,7 @@ Cel szczegółowy LSR 2.1 Zwiększenie liczby działań z zakresu animacji życi
 
 
 
-Cel ogólny LSR 2 Wsparcie w zakresie organizowania społeczności lokalnej i animacji społecznej      oraz poprawa jakości kapitału społecznego do roku 2023
+Cel ogólny LSR 2 Wsparcie w zakresie organizowania społeczności lokalnej i animacji społecznej oraz poprawa jakości kapitału społecznego do roku 2023
 
 
 
@@ -52,7 +50,7 @@ Wzrost aktywizacji społeczno-zawodowej mieszkańców objętych Lokalnymi Strate
 
 Europejskiego Funduszu Społecznego
 
-
+<br>
 
 Typ projektu:
 
