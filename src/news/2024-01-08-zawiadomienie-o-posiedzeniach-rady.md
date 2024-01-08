@@ -2,9 +2,9 @@
 title: Zawiadomienie o posiedzeniach Rady
 description: >-
   Zawiadomienie o posiedzeniach Rady Stowarzyszenia Lokalna Grupa Działania
-  Chełmno   Stowarzyszenia Lokalna Grupa Działania Chełmno zaprasza Państwa na
-  spotkania Rady. Posiedzenie odbędą się w [...]
-date: 2021-06-16T07:38:26+02:00
+  Chełmno 22.06.2021 r. Stowarzyszenia Lokalna Grupa Działania Chełmno informuje
+  o posiedzeniach. Posiedzenia odbędą [...]
+date: 2021-06-22T08:08:38+02:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
@@ -16,9 +16,11 @@ imageAlt: zdjęcie tytułowe
 
 <br>
 
-Stowarzyszenia Lokalna Grupa Działania Chełmno zaprasza Państwa na spotkania Rady. Posiedzenie odbędą się w dniu 21.06.2021 r. (poniedziałek). Posiedzenia odbędą się w Zespole Szkół Ogólnokształcących nr 1 w Chełmnie, sala nr 6, ul. Dominikańska 35.
+Stowarzyszenia Lokalna Grupa Działania Chełmno informuje o posiedzeniach. Posiedzenia odbędą się w dniu 28.06.2021 r. (poniedziałek), godz. od 15.30. Posiedzenia odbędą się w Zespole Szkół Ogólnokształcących nr 1 w Chełmnie, sala nr 6, ul. Dominikańska 35.
 
-Pierwsze posiedzenie będzie dotyczyć oceny i wyboru projektów złożonych na ogłoszony nabór 2021/G/1.
+<br>
+
+Od 15.30 – Pierwsze posiedzenie będzie dotyczyć oceny i wyboru projektów złożonych na ogłoszony nabór 2021/G/1.
 
 <br>
 
@@ -56,9 +58,11 @@ Proponowany porządek posiedzenia:
 
 <br>
 
-Drugie posiedzenie odbędzie się również 21.06.2021 r. niezwłocznie po zakończonym posiedzeniu dotyczącym naboru 2021/G/1. Posiedzenie będzie dotyczyło zmian we wniosku o dofinansowanie w projekcie „WspółpracujeMy…” Gminy Miasto Chełmno, który został wybrany w ramach naboru konkursowego 1/K/2020 w ubiegłym roku, w ramach aktywizacji społeczno-zawodowej.
 
-<br>
+
+
+
+Drugie posiedzenie odbędzie się również 28.06.2021 r. niezwłocznie po zakończonym posiedzeniu dotyczącym naboru 2021/G/1 (planowane od 16.30). Posiedzenie będzie dotyczyło zmian we wniosku o dofinansowanie w projekcie „WspółpracujeMy…” Gminy Miasto Chełmno, który został wybrany w ramach naboru konkursowego 1/K/2020 w ubiegłym roku, w ramach aktywizacji społeczno-zawodowej.
 
 Proponowany porządek posiedzenia:
 
