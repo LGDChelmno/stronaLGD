@@ -5,7 +5,7 @@ description: >-
   rzecz kosztów bieżących i animacji” współfinansowanego w ramach Europejskiego
   Funduszu Społecznego, w ramach Regionalnego Programu Operacyjnego Województwa
   Kujawsko-Pomorskiego.
-date: 2024-01-09T06:32:43.639Z
+date: 2022-04-14T07:32:43+02:00
 tags:
   - news
 image: /assets/uploads/zyczenia-wielkanocne.jpg
