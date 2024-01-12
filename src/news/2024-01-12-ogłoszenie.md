@@ -3,13 +3,17 @@ title: Ogłoszenie
 description: >-
   Starosta Powiatu Chełmińskiego  informuje, o możliwości przyznania Pracodawcom
   środków  z Krajowego Funduszu Szkoleniowego  na finansowanie działań
-  obejmujących kształcenie [...]
-date: 2022-08-03T12:08:42+02:00
+  obejmujących kształcenie ustawiczne pracowników [...]
+date: 2022-09-14T12:19:50+02:00
 tags:
   - news
 image: /assets/uploads/ogloszenie.jpg
 imageAlt: zdjęcie tytułowe
 ---
+
+
+
+
 Starosta Powiatu Chełmińskiego
 
 
@@ -34,11 +38,7 @@ Starosta Powiatu Chełmińskiego
 
 
 
- 
-
-
-
-Kształcenie ustawiczne pracowników i pracodawcy oznacza, że środki Krajowego Funduszu Szkoleniowego zwane dalej środkami KFS, można przeznaczyć na:                                                                                        
+ Kształcenie ustawiczne pracowników i pracodawcy oznacza, że środki Krajowego Funduszu Szkoleniowego zwane dalej środkami KFS, można przeznaczyć na:                                                                                        
 
 
 
@@ -74,10 +74,6 @@ ukończonym kształceniu,
 
 
 
- 
-
-
-
 W 2022 roku środki Krajowego Funduszu Szkoleniowego będą przyznawane zgodnie z ustalonymi przez Ministra Rodziny, Pracy i Polityki Społecznej priorytetami wydatkowania środków KFS i  mogą być przeznaczone na:
 
 
@@ -110,15 +106,11 @@ W 2022 roku środki Krajowego Funduszu Szkoleniowego będą przyznawane zgodnie 
 
 
 
- 
-
-
-
 W ramach Krajowego Funduszu Szkoleniowego, na wniosek Pracodawcy, na podstawie umowy Starosta może przyznać  środki na sfinansowanie kosztów kształcenia ustawicznego pracowników   i pracodawcy w  wysokości:
 
 
 
-\    a) 80% wysokości kosztów kształcenia ustawicznego pracowników i pracodawców, nie więcej jednak niż 300% przeciętnego wynagrodzenia w danym roku na jednego uczestnika.
+a) 80% wysokości kosztów kształcenia ustawicznego pracowników i pracodawców, nie więcej jednak niż 300% przeciętnego wynagrodzenia w danym roku na jednego uczestnika.
 
 
 
@@ -126,7 +118,7 @@ Wkład własny wnoszony przez Pracodawcę wynosi 20% wysokości kosztów kształ
 
 
 
-\    b) 100% wysokości kosztów kształcenia ustawicznego pracowników i pracodawców,  nie więcej jednak niż 300% przeciętnego wynagrodzenia w danym roku na jednego uczestnika – w odniesieniu do mikroprzedsiębiorców.
+b) 100% wysokości kosztów kształcenia ustawicznego pracowników i pracodawców,  nie więcej jednak niż 300% przeciętnego wynagrodzenia w danym roku na jednego uczestnika – w odniesieniu do mikroprzedsiębiorców.
 
 
 
@@ -134,7 +126,7 @@ Wkład własny wnoszony przez Pracodawcę wynosi 20% wysokości kosztów kształ
 
 
 
-\    c) Przy wyliczaniu wkładu, o którym mowa w pkt 2 a uwzględnia się wyłączne koszty samego kształcenia ustawicznego. Nie uwzględnia się pozostałych kosztów, jakie ponosi pracodawca w związku z udziałem pracowników w kształceniu ustawicznym np. wynagrodzenie za godziny nieobecności w pracy w związku z uczestnictwem w zajęciach, kosztów delegacji w przypadku konieczności dojazdu na zajęcia itp.
+c) Przy wyliczaniu wkładu, o którym mowa w pkt 2 a uwzględnia się wyłączne koszty samego kształcenia ustawicznego. Nie uwzględnia się pozostałych kosztów, jakie ponosi pracodawca w związku z udziałem pracowników w kształceniu ustawicznym np. wynagrodzenie za godziny nieobecności w pracy w związku z uczestnictwem w zajęciach, kosztów delegacji w przypadku konieczności dojazdu na zajęcia itp.
 
 
 
@@ -142,11 +134,11 @@ Wkład własny wnoszony przez Pracodawcę wynosi 20% wysokości kosztów kształ
 
 
 
+Termin składania wniosków od dnia 20.09.2022r. do 30.09.2022r.
+
+
+
  
-
-
-
-Termin składania wniosków od dnia 08.08.2022r. do 17.08.2022r.
 
 
 
@@ -154,11 +146,7 @@ W razie potrzeby nabór wniosków może zostać powtórzony do wyczerpania ustal
 
 
 
- 
-
-
-
-Wniosek wraz z załącznikami należy złożyć w skrzynce podawczej Urzędu (skrzynka znajduje się przy wejściu głównym do urzędu)
+ Wniosek wraz z załącznikami należy złożyć w skrzynce podawczej Urzędu (skrzynka znajduje się przy wejściu głównym do urzędu)
 
 
 
@@ -182,15 +170,7 @@ Wniosek złożony w formie elektronicznej musi posiadać:
 
 
 
- 
-
-
-
 W związku z ograniczoną ilością środków w pierwszej kolejności rozpatrywane będą wnioski pracodawców, z którymi w br. nie podpisano umów o dofinansowanie kosztów kształcenia ustawicznego ze środków KFS.
-
-
-
- 
 
 
 
