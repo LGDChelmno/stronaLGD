@@ -1,177 +1,135 @@
 ---
 title: Ogłoszenie
 description: >-
-  Starosta Powiatu Chełmińskiego  informuje, o możliwości przyznania Pracodawcom
-  środków  z Krajowego Funduszu Szkoleniowego  na finansowanie działań
-  obejmujących kształcenie ustawiczne pracowników [...]
-date: 2022-09-14T12:19:50+02:00
+  INFORMACJA  DLA  PODMIOTÓW PROWADZĄCYCH DZIAŁALNOŚĆ GOSPODARCZĄ,
+  NIEPUBLICZNYCH SZKÓŁ, PRZEDSZKOLI, PRODUCENTÓW ROLNYCH, ŻŁOBKÓW,  KLUBÓW
+  DZIECIĘCYCH, PODMIOTÓW ŚWIADCZĄCYCH USŁUGI [...]
+date: 2022-09-16T12:22:53+02:00
 tags:
   - news
 image: /assets/uploads/ogloszenie.jpg
 imageAlt: zdjęcie tytułowe
 ---
+INFORMACJA  DLA  PODMIOTÓW PROWADZĄCYCH DZIAŁALNOŚĆ GOSPODARCZĄ, NIEPUBLICZNYCH SZKÓŁ, PRZEDSZKOLI, PRODUCENTÓW ROLNYCH, ŻŁOBKÓW,  KLUBÓW DZIECIĘCYCH, PODMIOTÓW ŚWIADCZĄCYCH USŁUGI REHABILITACYJNE
 
 
 
+Starosta Powiatu Chełmińskiego informuje o możliwości zrefundowania
 
-Starosta Powiatu Chełmińskiego
 
 
+kosztów wyposażenia lub doposażenia  stanowisk pracy
 
- informuje, o możliwości przyznania Pracodawcom środków
 
 
+dla skierowanych bezrobotnych, skierowanych opiekunów osób niepełnosprawnych lub skierowanych poszukujących pracy absolwentów
 
- z Krajowego Funduszu Szkoleniowego
 
 
+w wysokości do 30.000,00 zł brutto na 1 stanowisko pracy
 
- na finansowanie działań obejmujących kształcenie ustawiczne pracowników i pracodawcy
+<Br>
 
+Do zatrudnienia w ramach wyposażenia lub doposażenia stanowiska pracy, kierowane w pierwszej kolejności będą osoby bezrobotne do 30 roku życia zarejestrowane w Powiatowym Urzędzie Pracy w Chełmnie, zamieszkujące teren powiatu chełmińskiego, zaliczone do kategorii NEET, spełniające łącznie trzy warunki:
 
 
- 
 
+– nie pracuje,
 
 
-Środki Krajowego Funduszu Szkoleniowego są adresowane do pracodawców i pracowników. Celem jest pomoc w przekwalifikowaniu, uzyskaniu umiejętności, kwalifikacji lub uprawnień zawodowych pracodawców oraz osób pracujących i zapobieganie utracie zatrudnienia.
 
+– nie uczestniczy w kształceniu formalnym w trybie stacjonarnym,
 
 
- Kształcenie ustawiczne pracowników i pracodawcy oznacza, że środki Krajowego Funduszu Szkoleniowego zwane dalej środkami KFS, można przeznaczyć na:                                                                                        
 
+– nie szkoliła się ze środków publicznych w ostatnich 4 tygodniach,
 
 
-– określenie potrzeb pracodawcy w zakresie kształcenia ustawicznego w związku z ubieganiem się
 
+oraz osoby bezrobotne, powyżej 29 roku życia znajdujące się w trudnej sytuacji na rynku pracy, spełniające dodatkowo minimum jedno z poniższych kryteriów :
 
 
-o sfinansowanie tego kształcenia ze środków KFS,
 
+– osoby powyżej 50 roku życia,
 
 
-– kursy i studia podyplomowe realizowane z inicjatywy pracodawcy lub za jego zgodą,
 
+– kobiety,
 
 
-– egzaminy umożliwiające uzyskanie dyplomów potwierdzających nabycie umiejętności,
 
+– osoby z niepełnosprawnościami,
 
 
-kwalifikacji lub uprawnień zawodowych,
 
+– długotrwale bezrobotne,
 
 
-– badania lekarskie i psychologiczne wymagane do podjęcia kształcenia lub pracy zawodowej po
 
+– osoby o niskich kwalifikacjach (bez wykształcenia, podstawowe, gimnazjalne, ponadgimnazjalne).
 
 
-ukończonym kształceniu,
 
+Do zatrudnienia w ramach wyposażenia lub doposażenia stanowiska pracy, kierowane będą osoby bezrobotne, które do tej pory nie uczestniczyły w formach aktywizacji zawodowej w ramach projektu „Wsparcie Aktywności Zawodowej osób bezrobotnych w powiecie chełmińskim (V)” oraz  ,,Aktywizacja osób młodych bez pracy w powiecie chełmińskim (V)”.
 
+<br>
 
-– ubezpieczenie od następstw nieszczęśliwych wypadków w związku z podjętym kształceniem.
+DO SKŁADANIA WNIOSKÓW ZAPRASZAMY:
 
+1. Podmioty prowadzące działalność gospodarczą, przedszkola, szkoły, producentów rolnych zamierzających wyposażyć lub doposażyć stanowisko pracy dla skierowanych bezrobotnych lub skierowanych poszukujących pracy opiekunów osoby niepełnosprawnej;
+2. Podmioty prowadzące działalność gospodarczą polegającą na świadczeniu usług rehabilitacyjnych zamierzających wyposażyć lub doposażyć stanowisko pracy, związane bezpośrednio ze świadczeniem usług rehabilitacyjnych dla dzieci niepełnosprawnych w miejscu zamieszkania, w tym usług mobilnych dla  skierowanych bezrobotnych, skierowanych poszukujących pracy opiekunów osoby niepełnosprawnej lub skierowanych poszukujących pracy absolwentów;
+3. Żłobki lub kluby dziecięce zamierzających wyposażyć lub doposażyć stanowisko prac związane bezpośrednio ze sprawowaniem opieki nad dziećmi niepełnosprawnymi lub prowadzeniem dla nich zajęć dla skierowanych  bezrobotnych,   skierowanych poszukujących pracy opiekunów osoby niepełnosprawnej lub skierowanych poszukujących pracy absolwentów.
 
+<br>
 
-W 2022 roku środki Krajowego Funduszu Szkoleniowego będą przyznawane zgodnie z ustalonymi przez Ministra Rodziny, Pracy i Polityki Społecznej priorytetami wydatkowania środków KFS i  mogą być przeznaczone na:
+W przypadku refundowania podmiotom, szkołom, przedszkolom lub producentom rolnym:
 
 
 
-1) Wsparcie kształcenia ustawicznego osób zatrudnionych w firmach, które na skutek pandemii COVID-19, musiały podjąć działania w celu dostosowania się do zmienionej sytuacji rynkowej.
+– stanowiska pracy dla skierowanego bezrobotnego – zatrudnienie musi być w pełnym wymiarze czasu pracy, przez okres co najmniej 24 miesięcy;
 
 
 
-2) Wsparcie kształcenia ustawicznego osób powracających na rynek pracy po przerwie związanej ze sprawowaniem opieki nad dzieckiem.
+– stanowiska pracy dla skierowanego opiekuna osoby niepełnosprawnej – zatrudnienie musi stanowić co najmniej połowę jego pełnego wymiaru, przez okres co najmniej 24 miesięcy.
 
 
 
-3)  Wsparcie zawodowego kształcenia ustawicznego w zidentyfikowanych w danym powiecie lub województwie zawodach deficytowych – Pobierz plik o nazwie: barometr zawodów 2022 powiat chełmiński ( w formacie .pdf).
+Kwota  refundacji stanowiska pracy jest proporcjonalna do wymiaru czasu pracy.
 
 
 
-4) Wsparcie kształcenia ustawicznego osób pracujących będących członkami rodzin wielodzietnych.
+ W przypadku refundowania podmiotom świadczącym usługi rehabilitacyjne, żłobkom, klubom dziecięcym stanowiska pracy dla skierowanego bezrobotnego, skierowanego opiekuna osoby niepełnosprawnej lub skierowanego poszukującego pracy absolwenta , osoby skierowane na refundowane stanowiska pracy muszą być zatrudnione co najmniej w połowie wymiaru czasu pracy, przez okres co najmniej 24 miesięcy.
 
 
 
-5) Wsparcie kształcenia ustawicznego pracowników Centrów Integracji Społecznej, Klubów Integracji Społecznej, Warsztatów Terapii Zajęciowej, Zakładów Aktywności Zawodowej, członków lub pracowników spółdzielni socjalnych oraz pracowników zatrudnionych w podmiotach posiadających status przedsiębiorstwa społecznego wskazanych na liście/rejestrze przedsiębiorstw społecznych prowadzonych przez MRiPS.
+Kwota refundacji uzależniona jest  od wymiaru czasu pracy osoby zatrudnianej na refundowanym stanowisku pracy  i jest proporcjonalna do oferowanego wymiaru czasu pracy.
 
 
 
-6)  Wsparcie kształcenia ustawicznego w związku z zastosowaniem w firmach nowych technologii  i narzędzi pracy, w tym także technologii i narzędzi cyfrowych oraz podnoszenie kompetencji cyfrowych.
+SKŁADANIE WNIOSKÓW:
 
 
 
-7)  Wsparcie kształcenia ustawicznego osób pracujących w branży motoryzacyjnej.
+Wniosek należy złożyć w sekretariacie (pokój nr 8) lub przesłać pocztą tradycyjną do Powiatowego Urzędu Pracy w Chełmnie przy ul. Świętojerskiej 1 (decyduje data doręczenia) w terminie od dnia 19.09.2022r. – do dnia 30.09.2022 r. do godz. 1515.
 
 
 
-W ramach Krajowego Funduszu Szkoleniowego, na wniosek Pracodawcy, na podstawie umowy Starosta może przyznać  środki na sfinansowanie kosztów kształcenia ustawicznego pracowników   i pracodawcy w  wysokości:
+Zawieranie umów cywilnoprawnych z Wnioskodawcami następować będzie w terminie do 31.10.2022 r. Ogłaszający nie zawrze umowy z Wnioskodawcą, jeżeli Wnioskodawca nie zobowiąże się do wyposażenia lub doposażenia miejsca pracy oraz do złożenia rozliczenia najpóźniej do dnia 18.11.2022r. i zatrudnienia skierowanego bezrobotnego, skierowanego opiekuna osoby niepełnosprawnej lub skierowanego poszukującego pracy absolwenta najpóźniej do dnia 28.11.2022r.
 
 
 
-a) 80% wysokości kosztów kształcenia ustawicznego pracowników i pracodawców, nie więcej jednak niż 300% przeciętnego wynagrodzenia w danym roku na jednego uczestnika.
+O sposobie rozpatrzenia wniosku podmioty zostaną powiadomione w terminie 30 dni od daty jego złożenia wraz
 
+z kompletem wymaganych dokumentów.
 
 
-Wkład własny wnoszony przez Pracodawcę wynosi 20% wysokości kosztów kształcenia ustawicznego pracowników i pracodawców.
 
+Wnioski niekompletne, bez wymaganych załączników lub błędnie wypełnione nie będą rozpatrywane.
 
 
-b) 100% wysokości kosztów kształcenia ustawicznego pracowników i pracodawców,  nie więcej jednak niż 300% przeciętnego wynagrodzenia w danym roku na jednego uczestnika – w odniesieniu do mikroprzedsiębiorców.
 
+Szczegółowe informacje na temat zasad konkursu można uzyskać pod nr tel. 056 686 00 41/056 686 00 42
 
 
-(mikroprzedsiębiorca oznacza to przedsiębiorcę, który zatrudnia mniej niż 10 pracowników i którego roczny obrót lub całkowity bilans roczny nie przekracza 2 mln. euro).
 
-
-
-c) Przy wyliczaniu wkładu, o którym mowa w pkt 2 a uwzględnia się wyłączne koszty samego kształcenia ustawicznego. Nie uwzględnia się pozostałych kosztów, jakie ponosi pracodawca w związku z udziałem pracowników w kształceniu ustawicznym np. wynagrodzenie za godziny nieobecności w pracy w związku z uczestnictwem w zajęciach, kosztów delegacji w przypadku konieczności dojazdu na zajęcia itp.
-
-
-
- 
-
-
-
-Termin składania wniosków od dnia 20.09.2022r. do 30.09.2022r.
-
-
-
- 
-
-
-
-W razie potrzeby nabór wniosków może zostać powtórzony do wyczerpania ustalonego limitu środków ustalonych przez ministra właściwego do spraw pracy.
-
-
-
- Wniosek wraz z załącznikami należy złożyć w skrzynce podawczej Urzędu (skrzynka znajduje się przy wejściu głównym do urzędu)
-
-
-
-– w formie papierowej, drogą pocztową lub za pośrednictwem kuriera
-
-
-
-– w formie elektronicznej (przez ePUAP).
-
-
-
-Wniosek złożony w formie elektronicznej musi posiadać:
-
-
-
-– bezpieczny podpis elektroniczny weryfikowany za pomocą ważnego kwalifikowanego certyfikatu z zachowaniem zasad przewidzianych w przepisach o podpisie elektronicznym,
-
-
-
-– podpis potwierdzony profilem zaufania elektronicznej platformy usług administracji publicznej.
-
-
-
-W związku z ograniczoną ilością środków w pierwszej kolejności rozpatrywane będą wnioski pracodawców, z którymi w br. nie podpisano umów o dofinansowanie kosztów kształcenia ustawicznego ze środków KFS.
-
-
-
-Druk Wniosku o przyznanie środków z KFS na sfinansowanie kosztów kształcenia ustawicznego pracowników i pracodawców można uzyskać w Powiatowym Urzędzie Pracy w Chełmnie przy ul. Świętojerskiej 1, pok. nr 1 (parter) od poniedziałku do piątku, a także na stronie internetowej Przejdź do: www.chelmno.praca.gov.pl, szczegółowe informacje telefonicznie pod numerem: (056) 686-00-41 wew. 151.
+Druki wniosków można pobrać na stronie internetowej – www.chelmno.praca.gov.pl
