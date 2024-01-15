@@ -4,7 +4,7 @@ description: >-
   Polskie Towarzystwo Ekonomiczne - Oddział w Bydgoszczy rozpoczyna realizację
   projektu "Własny biznes Twoją szansą!" GRUPA DOCELOWA PROJEKTU Projekt "Własny
   biznes Twoją Szansą!" realizowany [...]
-date: 2024-01-15T06:36:45.472Z
+date: 2022-10-05T07:36:45+02:00
 tags:
   - news
 image: /assets/uploads/biznes-szansa.jpg
