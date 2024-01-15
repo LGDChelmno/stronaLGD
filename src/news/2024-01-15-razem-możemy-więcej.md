@@ -4,7 +4,7 @@ description: >-
   „Razem możemy więcej” było to wydarzenie, które powstało we współpracy Gminy
   Miasto Chełmno wraz ze Stowarzyszeniem Lokalna Grupa Działania Chełmno, aby
   uczcić Światowy Dzień [...]
-date: 2024-01-15T10:27:20.540Z
+date: 2023-03-06T11:27:20+01:00
 tags:
   - news
 image: /assets/uploads/razem-mozemy-wiecej.jpg
