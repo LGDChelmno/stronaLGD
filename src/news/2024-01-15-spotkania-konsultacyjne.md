@@ -1,21 +1,27 @@
 ---
 title: Spotkania konsultacyjne
 description: >-
-  Początek tygodnia był dla nas pracowity! Odbyły się trzy spotkania
-  konsultacyjne w ramach nowej strategii rozwoju na lata 2023-2027, ale to nie
-  koniec ‼️ Mamy zaplanowane kolejne [...]
-date: 2023-06-01T12:24:13+02:00
+  Szanowni Państwo, serdecznie zapraszamy na kolejne 5 spotkań w ramach projektu
+  „Pilotujemy rozwój lokalny w Chełmnie II”! Poniżej znajduje się harmonogram.
+  Porozmawiajmy razem o [...]
+date: 2023-06-16T12:29:17+02:00
 tags:
   - news
 image: /assets/uploads/spotkania-konsultacyjne.jpg
 imageAlt: zdjęcie tytułowe
 ---
-Początek tygodnia był dla nas pracowity! Odbyły się trzy spotkania konsultacyjne w ramach nowej strategii rozwoju na lata 2023-2027, ale to nie koniec ‼️ Mamy zaplanowane kolejne spotkania. Poniżej znajduje się harmonogram, serdecznie zapraszamy!
+Szanowni Państwo, serdecznie zapraszamy na kolejne 5 spotkań w ramach projektu „Pilotujemy rozwój lokalny w Chełmnie II”! Poniżej znajduje się harmonogram. Porozmawiajmy razem o Chełmnie.
 
+<br>
 
+Spotkania odbędą się w następujących terminach:
 
-– 01.06.2023 r. – godz. 11.00 – zapraszamy wszystkich chętnych – spotkanie odbędzie się w Biurze Stowarzyszenia Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, sala nr 6
+* 19 czerwca (poniedziałek) godz. 10.00
+* 20 czerwca (wtorek) godz. 10.00
+* 21 czerwca (środa) godz. 10.00
+* 22 czerwca (czwartek) godz. 10.00
+* 23 czerwca (piątek) godz. 10.00
 
+<br>
 
-
-– 02.06.2023 r. – godz. 10.00 – zapraszamy głównie osoby z sektora gospodarczego – spotkanie odbędzie się w Biurze Stowarzyszenia Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, sala nr 6
+Wszystkie spotkania odbędą się w biurze Stowarzyszenia LGD Chełmno (ul. Dominikańska 35), w sali nr 6. Jeszcze raz serdecznie zapraszamy!
