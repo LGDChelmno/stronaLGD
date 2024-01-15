@@ -1,34 +1,45 @@
 ---
 title: Ogłoszenie
 description: >-
-  Starosta Powiatu Chełmińskiego informuje, o możliwości przyznania 2 osobom
-  bezrobotnym powyżej 29 roku życia dofinansowania na podjęcie działalności
-  gospodarczej na terenie województwa kujawsko [...]
-date: 2022-09-21T07:34:33+02:00
+  Lokalny Punkt Informacyjny Funduszy Europejskich w Bydgoszczy serdecznie
+  zaprasza do wzięcia udziału w bezpłatnym webinarium, które będzie poświęcone
+  projektowi unijnemu pt. ” Systemic Age [...]
+date: 2022-10-06T08:02:37+02:00
 tags:
   - news
 image: /assets/uploads/ogloszenie.jpg
 imageAlt: zdjęcie tytułowe
 ---
-**Starosta Powiatu Chełmińskiego**
-
-
-
-**informuje, o możliwości przyznania 2 osobom bezrobotnym powyżej 29 roku życia dofinansowania na podjęcie działalności gospodarczej na terenie województwa kujawsko – pomorskiego**
+Lokalny Punkt Informacyjny Funduszy Europejskich w Bydgoszczy serdecznie zaprasza do wzięcia udziału w bezpłatnym webinarium, które będzie poświęcone projektowi unijnemu pt. ” Systemic Age Management”. SAM to innowacyjny, kompleksowy program przygotowujący kadrę zarządzającą przedsiębiorstwami z sektora MŚP do zarządzania wiekiem i różnorodnością w firmie.
 
 <br>
 
-Celem jest zwiększenie zatrudnienia osób powyżej 29 roku życia, znajdujących się w trudnej sytuacji na rynku pracy, w tym osób powyżej 50 roku życia, kobiet, osób z niepełnosprawnościami, długotrwale bezrobotnych oraz osób o niskich kwalifikacjach.
-
-1. Wysokość dofinansowania  na podjęcie działalności gospodarczej może być przyznana do wysokości 30.000,00 zł.
-2. Beneficjentami są bezrobotni zarejestrowani w Powiatowym Urzędzie Pracy w Chełmnie powyżej 29 roku życia znajdujące się w trudnej sytuacji na rynku pracy, spełniające dodatkowo minimum jedno z poniższych kryteriów:
-   osoby powyżej 50 roku życia, kobiety, osoby z niepełnosprawnościami, osoby długotrwale bezrobotne lub osoby o niskich kwalifikacjach.
-3. Dofinansowanie jest przyznawane w ramach projektu „ Wsparcie aktywności zawodowej osób bezrobotnych w powiecie chełmińskim V”, w związku z tym, o dofinansowanie mogą ubiegać się jedynie osoby bezrobotne, które do tej pory nie uczestniczyły w formach aktywizacji zawodowej (szkolenia, staże, prace interwencyjne) realizowanych w ramach w/w projektu oraz zobowiążą się do podjęcia działalności gospodarczej do dnia 01.12.2022r. i do złożenia rozliczenia –  zestawienia kwot wydatkowanych w ramach otrzymanego dofinansowania na podjęcie działalności gospodarczej oraz informacji wnioskodawcy do dnia 15.12.2022r.
-4. Druk Wniosku o dofinansowanie wraz z drukami załączników oraz „Szczegółowe informacje dla bezrobotnych powyżej 29 roku życia ubiegających się o dofinansowanie podjęcia działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności” i „Kryteria przyznawania bezrobotnemu powyżej 29 roku życia dofinansowania, współfinansowanego z Europejskiego Funduszu Społecznego na podjęcie działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności” można uzyskać ze strony internetowej tut. Urzędu: Przejdź do: www.chelmno.praca.gov.pl
-5. Wniosek wraz z załącznikami należy złożyć w skrzynce podawczej Powiatowego Urzędu Pracy w Chełmnie, udostępnionej  przy wejściu głównym do urzędu – wewnątrz budynku, dostępnej tylko w godzinach pracy urzędu lub przesłanie pocztą tradycyjną do Powiatowego Urzędu Pracy w Chełmnie, przy ul. Świętojerskiej 1 (decyduje data doręczenia).
-6. Termin składania wniosków od dnia 28.09.2022r. do dnia 05.10.2022r., do godz. 15:15. 
-7. O wynikach rozpatrzenia wniosku bezrobotni zostaną powiadomieni w terminie do 30 dni  od daty jego złożenia wraz z kompletem wymaganych dokumentów.
+Projekt wdraża strategiczne rozwiązania na rzecz utrzymania aktywności zawodowej pracowników w wieku przedemerytalnym i emerytalnym w Mikro, Małych i Średnich Przedsiębiorstwach (MMŚP)
 
 <br>
 
-Zawieranie umów cywilnoprawnych z Wnioskodawcami następować będzie w terminie do dnia 18.11.2022r.
+Wydarzenie odbędzie się 13 października 2022r. w godzinach 10.00 – 11.00
+
+<br>
+
+
+
+
+
+Osoby zainteresowane udziałem w spotkaniu prosimy o kontakt mailowy pod adresem  Wyslij e-mail na adres:ue.bydgoszcz@kujawsko-pomorskie.pl lub telefonicznie pod numerem telefonu 797 304 123.
+
+
+
+Więcej informacji na stronach:
+
+
+
+Przejdź do: Webinarium dotyczące projektu „Systemic Age Management” · Regionalny Program Operacyjny (mojregion.eu)
+
+
+
+Przejdź do: Webinarium w Bydgoszczy dotyczące projektu „Systemic Age Management” – Ministerstwo Funduszy i Polityki Regionalnej (funduszeeuropejskie.gov.pl)
+
+
+
+Zachęcamy do zapoznania się z ogłoszeniem.
