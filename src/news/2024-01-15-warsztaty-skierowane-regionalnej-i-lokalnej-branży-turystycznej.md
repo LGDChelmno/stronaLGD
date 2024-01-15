@@ -4,7 +4,7 @@ description: >-
   Zaproszenie na warsztaty produktowe „Produkt turystyczny Chełmno – miasto
   zakochanych® w kontekście założeń strategii rozwoju marki Dolina Dolnej
   Wisły”   Szanowni Państwo, Stowarzyszenie [...]
-date: 2024-01-15T09:50:27.959Z
+date: 2022-11-10T10:50:27+01:00
 tags:
   - news
 image: /assets/uploads/warsztaty-zaproszenie.jpg
