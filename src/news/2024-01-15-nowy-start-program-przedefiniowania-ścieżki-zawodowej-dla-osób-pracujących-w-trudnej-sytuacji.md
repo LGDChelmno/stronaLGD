@@ -6,7 +6,7 @@ description: >-
   Polskie Towarzystwo Ekonomiczne – Oddział w Bydgoszczy realizuje projekt „NOWY
   START – program przedefiniowania ścieżki zawodowej dla osób pracujących w
   trudnej sytuacji”. TERMIN NABORU [...]
-date: 2024-01-15T07:09:10.469Z
+date: 2022-11-10T08:09:10+01:00
 tags:
   - news
 image: /assets/uploads/nowy-start.jpg
