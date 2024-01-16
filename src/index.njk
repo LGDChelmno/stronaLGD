@@ -28,7 +28,7 @@ pagination:
         <div class="aktualnosci">
             <a href="/aktualnosci/"><h1>Aktualności</h1></a>
             <div class="aktualnosci-container">
-                {%- for news in collections.glowna -%}
+                {%- for news in glowna -%}
                     {% include 'news-snippet.njk' %}
                 {%- endfor -%}
             </div>
