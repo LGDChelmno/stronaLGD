@@ -4,9 +4,10 @@ description: >-
   13.11.2023 o godz. 16.00 w Kinoteatrze Rondo odbyło się wydarzenie pod nazwą
   „Rozbudzeni – Rozmarzeni” zorganizowane przez LGD Chełmno wraz z Partnerami.
   Nadszedł czas na [...]
-date: 2023-11-28T08:34:10+01:00
+date: 2023-11-28T07:34:10.000Z
 tags:
   - news
+  - glowna
 image: /assets/uploads/podsumowanie-wydarzenia.jpg
 imageAlt: zdjęcie tytułowe
 ---
