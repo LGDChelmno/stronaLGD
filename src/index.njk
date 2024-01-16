@@ -1,6 +1,11 @@
 ---
 title: LGD Chełmno - Lokalna Grupa Działania
 layout: 'base.njk'
+pagination:
+    data: collections.glowna
+    size: 6
+    alias: glowna
+    reverse: true
 ---
     <main id="content">
         <div class="lane-1">
@@ -23,7 +28,7 @@ layout: 'base.njk'
         <div class="aktualnosci">
             <a href="/aktualnosci/"><h1>Aktualności</h1></a>
             <div class="aktualnosci-container">
-                {%- for news in collections.glowna | reverse -%}
+                {%- for news in collections.glowna -%}
                     {% include 'news-snippet.njk' %}
                 {%- endfor -%}
             </div>
