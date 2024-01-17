@@ -948,6 +948,9 @@ ol {
 
 /* Strona: nasze działania */
 .nasze-dzialania .tab-content {
+    display: none;
+}
+.nasze-dzialania .tab-content.active {
     display: flex;
 }
 
