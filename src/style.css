@@ -953,7 +953,7 @@ ol {
     padding-top: 2rem;
 }
 
-.kontakt h1 {
+.kontakt, .nasze-dzialania h1 {
     text-align: center;
 }
 
