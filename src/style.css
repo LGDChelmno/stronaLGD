@@ -946,6 +946,11 @@ ol {
     color: #A0170D;
 }
 
+/* Strona: nasze działania */
+.nasze-dzialania .tab-content {
+    display: flex;
+}
+
 /* Strona: kontakt */
 .container-kontakt {
     width: 60%;
