@@ -413,6 +413,12 @@ main a {
     height: auto;
 }
 
+.nasze-dzialania img {
+    width: 100%;
+    height: auto;
+}
+
+
 .polecamy {
     width: 80%;
     margin: 1rem auto;
