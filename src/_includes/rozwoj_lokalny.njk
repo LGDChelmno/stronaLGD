@@ -1,0 +1,13 @@
+<div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="{{ rozwoj_lokalny.url}}">{{ rozwoj_lokalny.data.title }}</a></h3>
+        <h6>{{ rozwoj_lokalny.data.date | postDate }}</h6>
+        <p> {{ rozwoj_lokalny.data.description }} </p>
+        <a href="{{ rozwoj_lokalny.url }}">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="{{ rozwoj_lokalny.data.image }}" alt="{{ imageAlt }}">
+    </div>
+</div>

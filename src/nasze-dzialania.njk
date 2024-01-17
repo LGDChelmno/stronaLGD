@@ -12,18 +12,18 @@ layout: 'base.njk'
                 <button class="tab" onclick="showTab('dzialania-statutowe')">Działania statutowe</button>
             </div>
             <div id="rozwoj-lokalny" class="tab-content">
-                {%- for rozwoj_lokalny in rozwoj_lokalny -%}
-                    {% include 'news-snippet.njk' %}
+                {%- for rozwoj_lokalny in collections.rozwoj_lokalny -%}
+                    {% include 'rozwoj_lokalny-snippet.njk' %}
                 {%- endfor -%}
             </div>
             <div id="projekty-grantowe" class="tab-content">
-                {%- for projekty_grantowe in projekty_grantowe -%}
-                    {% include 'news-snippet.njk' %}
+                {%- for projekty_grantowe in collections.projekty_grantowe -%}
+                    {% include 'projekty_grantowe-snippet.njk' %}
                 {%- endfor -%}
             </div>
             <div id="projekty-inne" class="tab-content">
-                {%- for projekty_inne in projekty_inne -%}
-                    {% include 'news-snippet.njk' %}
+                {%- for projekty_inne in collections.projekty_inne -%}
+                    {% include 'projekty_inne-snippet.njk' %}
                 {%- endfor -%}
             </div>
             <div id="dzialania-statutowe" role="list" class="tab-content">

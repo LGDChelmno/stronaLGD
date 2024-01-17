@@ -1,0 +1,13 @@
+<div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="{{ projekty_inne.url}}">{{ projekty_inne.data.title }}</a></h3>
+        <h6>{{ projekty_inne.data.date | postDate }}</h6>
+        <p> {{ projekty_inne.data.description }} </p>
+        <a href="{{ projekty_inne.url }}">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="{{ projekty_inne.data.image }}" alt="{{ imageAlt }}">
+    </div>
+</div>
