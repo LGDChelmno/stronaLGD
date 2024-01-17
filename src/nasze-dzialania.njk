@@ -20,25 +20,16 @@ layout: 'base.njk'
                 {%- for projekty_grantowe in projekty_grantowe -%}
                     {% include 'news-snippet.njk' %}
                 {%- endfor -%}
-                {%- for news in news -%}
-                {% include 'news-snippet.njk' %}
-            {%- endfor -%}
             </div>
             <div id="projekty-inne" class="tab-content">
                 {%- for projekty_inne in projekty_inne -%}
                     {% include 'news-snippet.njk' %}
                 {%- endfor -%}
-                {%- for news in news -%}
-                {% include 'news-snippet.njk' %}
-            {%- endfor -%}
             </div>
-            <div role="list" id="dzialania-statutowe" class="tab-content">
+            <div id="dzialania-statutowe" role="list" class="tab-content">
                 {%- for dzialania_statutowe in dzialania_statutowe -%}
                     {% include 'dzialania_statutowe-snippet.njk' %}
                 {%- endfor -%}
-                {%- for news in news -%}
-                {% include 'news-snippet.njk' %}
-            {%- endfor -%}
             </div>
         </div>
     </main>
