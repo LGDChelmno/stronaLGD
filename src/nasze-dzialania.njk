@@ -29,8 +29,10 @@ layout: 'base.njk'
             <div role="list" id="dzialania-statutowe" class="tab-content">
                 {%- for dzialania_statutowe in dzialania_statutowe -%}
                     {% include 'dzialania_statutowe-snippet.njk' %}
-                    {{ console.log("Looping through dzialania_statutowe:", dzialanie_statutowe) }}
                 {%- endfor -%}
+                {%- for news in news -%}
+                {% include 'news-snippet.njk' %}
+            {%- endfor -%}
             </div>
         </div>
     </main>
