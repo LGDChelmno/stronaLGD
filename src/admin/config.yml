@@ -82,16 +82,16 @@ collections:
             { label: 'File Name', name: 'fileName', widget: 'string', required: true }  
         ]
       }
-  - name: "dzialania-statutowe"
+  - name: "dzialania_statutowe"
     label: "Działania statutowe"
-    folder: "src/dzialania-statutowe"
+    folder: "src/dzialania_statutowe"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Opis", name: "description", widget: "string" }
       - { label: "Data", name: "date", widget: "datetime" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["dzialania-statutowe"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["dzialania_statutowe"] }
       - { label: "Obraz Postu", name: "image", widget: "image" }
       - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
       - { label: "Treść", name: "body", widget: "markdown" }
