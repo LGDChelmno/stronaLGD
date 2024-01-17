@@ -3,6 +3,18 @@ title: LGD Chełmno - Nasze Działania
 layout: 'base.njk'
 ---
     <main class="nasze-dzialania">
-
+        <div class="container-lsr-2016">
+            <h1>Nasze Działania</h1>
+            <div class="tabs-container">
+                <button class="tab" onclick="showTab('rozwoj-lokalny')">Pilotujemy rozwój lokalny w Chełmnie</button>
+                <button class="tab" onclick="showTab('projekty-grantowe')">Projekty Grantowe</button>
+                <button class="tab" onclick="showTab('projekty-inne')">Projekty Inne</button>
+                <button class="tab" onclick="showTab('dzialania-statutowe')">Działania statutowe</button>
+            </div>
+            <div id="rozwoj-lokalny" class="tab-content"></div>
+            <div id="projekty-grantowe" class="tab-content"></div>
+            <div id="projekty-inne" class="tab-content"></div>
+            <div id="dzialania-statutowe" class="tab-content"></div>
+        </div>
     </main>
     
