@@ -27,9 +27,9 @@ layout: 'base.njk'
                 {%- endfor -%}
             </div>
             <div id="dzialania-statutowe" class="tab-content">
-                a dodanie tutaj tekstu
                 {%- for dzialania_statutowe in dzialania_statutowe -%}
                     {% include 'dzialania_statutowe-snippet.njk' %}
+                    {{ console.log("Looping through dzialania_statutowe:", dzialanie_statutowe) }}
                 {%- endfor -%}
             </div>
         </div>
