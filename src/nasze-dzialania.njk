@@ -27,7 +27,7 @@ layout: 'base.njk'
                 {%- endfor -%}
             </div>
             <div id="dzialania-statutowe" role="list" class="tab-content">
-                {%- for item in dzialania_statutowe -%}
+                {%- for dzialania_statutowe in collections.dzialania_statutowe -%}
                     {% include 'dzialania_statutowe-snippet.njk' %}
                 {%- endfor -%}
             </div>
