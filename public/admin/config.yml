@@ -82,3 +82,100 @@ collections:
             { label: 'File Name', name: 'fileName', widget: 'string', required: true }  
         ]
       }
+  - name: "dzialania_statutowe"
+    label: "Działania statutowe"
+    folder: "src/dzialania_statutowe"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Opis", name: "description", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["dzialania_statutowe"] }
+      - { label: "Obraz Postu", name: "image", widget: "image" }
+      - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+      - { label: 'Files', name: 'files', widget: 'list', required: false, fields: [
+          { label: 'File', name: 'file', widget: 'file', multiple: true, required: true },
+          { label: 'File Type', name: 'fileType', widget: 'select', options: ['pdf', 'docx', 'xlsx'], required: true },
+          { label: 'File Name', name: 'fileName', widget: 'string', required: true }  
+        ]
+      }
+      - { label: 'Galeria', name: 'gallery', widget: 'list', multiple: true, required: false, fields: [
+          { label: 'Zdjęcie', name: 'image', widget: 'image' },
+          { label: 'Podpis', name: 'caption', widget: 'string' },
+        ]
+      }
+  - name: "projekty_inne"
+    label: "Projekty Inne"
+    folder: "src/projekty_inne"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Opis", name: "description", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["projekty_inne"] }
+      - { label: "Obraz Postu", name: "image", widget: "image" }
+      - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+      - { label: 'Files', name: 'files', widget: 'list', required: false, fields: [
+          { label: 'File', name: 'file', widget: 'file', multiple: true, required: true },
+          { label: 'File Type', name: 'fileType', widget: 'select', options: ['pdf', 'docx', 'xlsx'], required: true },
+          { label: 'File Name', name: 'fileName', widget: 'string', required: true }  
+        ]
+      }
+      - { label: 'Galeria', name: 'gallery', widget: 'list', multiple: true, required: false, fields: [
+          { label: 'Zdjęcie', name: 'image', widget: 'image' },
+          { label: 'Podpis', name: 'caption', widget: 'string' },
+        ]
+      }
+  - name: "projekty_grantowe"
+    label: "Projekty Grantowe"
+    folder: "src/projekty_grantowe"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Opis", name: "description", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["projekty_grantowe"] }
+      - { label: "Obraz Postu", name: "image", widget: "image" }
+      - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+      - { label: 'Files', name: 'files', widget: 'list', required: false, fields: [
+          { label: 'File', name: 'file', widget: 'file', multiple: true, required: true },
+          { label: 'File Type', name: 'fileType', widget: 'select', options: ['pdf', 'docx', 'xlsx'], required: true },
+          { label: 'File Name', name: 'fileName', widget: 'string', required: true }  
+        ]
+      }
+      - { label: 'Galeria', name: 'gallery', widget: 'list', multiple: true, required: false, fields: [
+          { label: 'Zdjęcie', name: 'image', widget: 'image' },
+          { label: 'Podpis', name: 'caption', widget: 'string' },
+        ]
+      }
+  - name: "rozwoj_lokalny"
+    label: "Rozwój Lokalny"
+    folder: "src/rozwoj_lokalny"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Opis", name: "description", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["rozwoj_lokalny"] }
+      - { label: "Obraz Postu", name: "image", widget: "image" }
+      - { label: "Alt zdjęcia", name: "imageAlt", widget: "string" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+      - { label: 'Files', name: 'files', widget: 'list', required: false, fields: [
+          { label: 'File', name: 'file', widget: 'file', multiple: true, required: true },
+          { label: 'File Type', name: 'fileType', widget: 'select', options: ['pdf', 'docx', 'xlsx'], required: true },
+          { label: 'File Name', name: 'fileName', widget: 'string', required: true }  
+        ]
+      }
+      - { label: 'Galeria', name: 'gallery', widget: 'list', multiple: true, required: false, fields: [
+          { label: 'Zdjęcie', name: 'image', widget: 'image' },
+          { label: 'Podpis', name: 'caption', widget: 'string' },
+        ]
+      }
+      
