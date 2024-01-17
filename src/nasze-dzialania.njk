@@ -11,10 +11,26 @@ layout: 'base.njk'
                 <button class="tab" onclick="showTab('projekty-inne')">Projekty Inne</button>
                 <button class="tab" onclick="showTab('dzialania-statutowe')">Działania statutowe</button>
             </div>
-            <div id="rozwoj-lokalny" class="tab-content"></div>
-            <div id="projekty-grantowe" class="tab-content"></div>
-            <div id="projekty-inne" class="tab-content"></div>
-            <div id="dzialania-statutowe" class="tab-content"></div>
+            <div id="rozwoj-lokalny" class="tab-content">
+                {%- for rozwoj-lokalny in rozwoj-lokalny -%}
+                    {% include 'news-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+            <div id="projekty-grantowe" class="tab-content">
+                {%- for projekty-grantowe in projekty-grantowe -%}
+                    {% include 'news-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+            <div id="projekty-inne" class="tab-content">
+                {%- for projekty-inne in projekty-inne -%}
+                    {% include 'news-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+            <div id="dzialania-statutowe" class="tab-content">
+                {%- for dzialania-statutowe in dzialania-statutowe -%}
+                    {% include 'news-snippet.njk' %}
+                {%- endfor -%}
+            </div>
         </div>
     </main>
     
