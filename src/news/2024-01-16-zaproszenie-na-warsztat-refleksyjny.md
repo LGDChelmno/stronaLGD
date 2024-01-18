@@ -4,10 +4,11 @@ description: >-
   Zaproszenie na warsztat refleksyjny Stowarzyszenie Lokalna Grupa Działania
   Chełmno ma przyjemność zaprosić Państwa do udziału w warsztacie refleksyjnym,
   który odbędzie się 9.01.2024 r. o godzinie [...]
-date: 2023-12-19T10:09:15+01:00
+date: 2023-12-19T09:09:15.000Z
 tags:
   - news
   - glowna
+  - aktualny
 image: /assets/uploads/ogloszenie.jpg
 imageAlt: zdjęcie tytułowe
 ---
