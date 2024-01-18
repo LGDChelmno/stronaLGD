@@ -8,7 +8,6 @@ date: 2023-12-19T09:09:15.000Z
 tags:
   - news
   - glowna
-  - aktualny
 image: /assets/uploads/ogloszenie.jpg
 imageAlt: zdjęcie tytułowe
 ---
