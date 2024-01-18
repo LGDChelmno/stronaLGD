@@ -8,7 +8,6 @@ date: 2023-12-01T08:15:20.000Z
 tags:
   - news
   - glowna
-  - aktualny
 image: /assets/uploads/walne-zebranie-czlonkow.jpg
 imageAlt: zdjęcie tytułowe
 ---
