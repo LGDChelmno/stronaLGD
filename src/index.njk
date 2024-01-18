@@ -35,7 +35,7 @@ pagination:
         </div>
         <div class="aktualny-grant">
             <h1>Aktualny Nabór Na Granty</h1>
-                {%- for aktualny in news -%}
+                {%- for news in aktualny -%}
                     {% include 'news-snippet.njk' %}
                 {%- endfor -%}  
         </div>
