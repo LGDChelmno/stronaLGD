@@ -4,10 +4,11 @@ description: >-
   Chełmno, 01.12.2023 r. Zarząd Stowarzyszenia Lokalna Grupa Działania Chełmno
   zaprasza Państwa na Walne Zebranie Członków Stowarzyszenia. Zebranie odbędzie
   się w dniu 11.12.2023r. (poniedziałek) w [...]
-date: 2023-12-01T09:15:20+01:00
+date: 2023-12-01T08:15:20.000Z
 tags:
   - news
   - glowna
+  - aktualny
 image: /assets/uploads/walne-zebranie-czlonkow.jpg
 imageAlt: zdjęcie tytułowe
 ---
