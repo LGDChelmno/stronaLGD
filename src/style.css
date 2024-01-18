@@ -363,6 +363,12 @@ main a {
     flex-wrap: wrap;
 }
 
+.aktualny-grant {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .aklualnosc-wpis {
     display: flex;
     flex-wrap: wrap-reverse; 
