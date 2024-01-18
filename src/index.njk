@@ -36,7 +36,7 @@ pagination:
         <div class="aktualny-grant">
             <h1>Aktualny Nabór Na Granty</h1>
             <div class="aktualnosci-container">
-                {%- for news in aktualny -%}
+                {%- for news in collections.aktualny -%}
                     {% include 'news-snippet.njk' %}
                 {%- endfor -%}
             </div>  
