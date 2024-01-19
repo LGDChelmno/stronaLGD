@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Życzenia świąteczne</title>
+    <meta name="description" content="LGD Chełmno to stowarzyszenie, które tworzą organizacje pozarządowe, przedsiębiorcy, Gmina Miasto Chełmno i mieszkańcy Chełmna - to realne, międzysektorowe ...">
+    <meta name="keywords" content="lgd, chełmno, LGD, lgdchelmno, granty, projekty, lsr, grudziądzka, grudziądzka36, stowarzyszenie">
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" href="/style.css">
     <script src="https://kit.fontawesome.com/8a6ff19da0.js" crossorigin="anonymous"></script>
     <link rel="icon" href="/assets/favicon.png" type="image/png">
@@ -13,34 +16,40 @@
 </head>
 <body>
 
-     <header class="topnav" id="myTopnav content">
-        <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
-        <nav class="topnav" id="myTopnav">
-            <div id="myLinks">
-                <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
+    <header class="topnav" id="myTopnav content">
+    <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
+    <nav class="topnav" id="myTopnav">
+        <div id="myLinks">
+            <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
 
-                <button class="dropbtn nav-button" onclick="toggleServices()">Stowarzyszenie</button>
-                <div class="dropdown-content-sto" id="servicesDropdown">
-                    <a href="/stowarzyszenie/">O nas</a>
-                    <a href="/statutlgd/">Statut LGD</a>
-                    <a href="/radalgd/">Rada LGD</a>
-                    <a href="/zarzadlgd/">Zarząd LGD</a>
-                    <a href="/komisja-rewizyjnalgd/">Komisja Rewizyjna LGD</a>
-                    <a href="/czlonkostwolgd/">Członkostwo w LGD</a>
-                    <a href="/rodo/">RODO</a>
-                </div>
-
-                <button class="nav-button"><a href="/lsr-2016/">LSR</a></button>
-                <button class="nav-button"><a href="/konkursy/">Konkursy</a></button>
-                <button class="nav-button"><a href="/projekty/">Projekty</a></button>
-                <button class="nav-button"><a href="/nasze-dzialania/">Nasze działania</a></button>
-                <button class="nav-button"><a href="/kontakt/">Kontakt</a></button>
+            <button class="dropbtn nav-button" onclick="toggleServices()">Stowarzyszenie</button>
+            <div class="dropdown-content-sto" id="servicesDropdown">
+                <a href="/stowarzyszenie/">O nas</a>
+                <a href="/statutlgd/">Statut LGD</a>
+                <a href="/radalgd/">Rada LGD</a>
+                <a href="/zarzadlgd/">Zarząd LGD</a>
+                <a href="/komisja-rewizyjnalgd/">Komisja Rewizyjna LGD</a>
+                <a href="/czlonkostwolgd/">Członkostwo w LGD</a>
+                <a href="/rodo/">RODO</a>
             </div>
-            <a class="icon" onclick="myFunction()">
-                <i class="fa fa-bars"></i>
-            </a>
-        </nav>
-    </header>
+
+            <button class="nav-button"><a href="/lsr-2016/">LSR</a></button>
+            <button class="nav-button"><a href="/konkursy/">Konkursy</a></button>
+            <button class="nav-button"><a href="/projekty/">Projekty</a></button>
+            <button class="nav-button"><a href="/nasze-dzialania/">Nasze działania</a></button>
+            <button class="nav-button"><a href="/kontakt/">Kontakt</a></button>
+        </div>
+        <a class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </nav>
+    <div id="accessibility-panel">
+        <button onclick="underlineLinks()">Uwidocznij linki</button>
+        <button id="contrast-btn" onclick="toggleContrast()">Wersja kontrastowa</button>
+    </div>
+
+    <div id="toggle-btn" onclick="togglePanel()">♿</div>
+</header>
 
     
 <main class="aktualnosc-main">
@@ -98,8 +107,9 @@
                 <ul>
                     <li><a href="https://chelmno.pl/pl/" target="blank">Chełmno Nassze Miasto</a></li>
                     <li><a href="https://www.ngo.pl/" target="blank">ngo.pl Portal Organizacji Pozarządowych</a></li>
-                    <li><a href="https://www.kujawsko-pomorskie.pl/" target="blank">Województwo Kujawsko-Pomorskie</a>
-                    </li>
+                    <li><a href="https://www.kujawsko-pomorskie.pl/" target="blank">Województwo Kujawsko-Pomorskie</a></li>
+                    <li><a href="https://mojregion.eu/rpo/dowiedz-sie/rlks/" target="_blank">RLKS Regionalny Program Operacyjny</a></li>
+                    <li><a href="https://mojregion.eu/rpo/fundusze-2021-2027/" target="_blank">Fundusze 2021-2027</a></li>
                 </ul>
             </div>
             <div class="footer-kontakt">

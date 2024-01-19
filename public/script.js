@@ -109,3 +109,21 @@ function showFullImage(imageUrl) {
         document.body.removeChild(overlay);
     });
 }
+
+
+//wcag
+function togglePanel() {
+    const panel = document.getElementById('accessibility-panel');
+    const isOpen = panel.style.left === '0px';
+    panel.style.left = isOpen ? '-300px' : '0px';
+}
+
+function underlineLinks() {
+    document.body.classList.toggle('underline-links');
+    document.header.classList.toggle('underline-links');
+}
+
+function toggleContrast() {
+    document.body.classList.toggle('high-contrast');
+    document.header.classList.toggle('high-contrast');
+  }

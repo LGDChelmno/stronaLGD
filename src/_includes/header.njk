@@ -1,28 +1,34 @@
- <header class="topnav" id="myTopnav content">
-        <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
-        <nav class="topnav" id="myTopnav">
-            <div id="myLinks">
-                <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
+<header class="topnav" id="myTopnav content">
+    <a href="/index.html" class="active"><img src="/assets/lgd_logo.png" alt="Lokalna Grupa Działania Chełmno"></a>
+    <nav class="topnav" id="myTopnav">
+        <div id="myLinks">
+            <button class="nav-button"><a href="/aktualnosci/">Aktualności</a></button>
 
-                <button class="dropbtn nav-button" onclick="toggleServices()">Stowarzyszenie</button>
-                <div class="dropdown-content-sto" id="servicesDropdown">
-                    <a href="/stowarzyszenie/">O nas</a>
-                    <a href="/statutlgd/">Statut LGD</a>
-                    <a href="/radalgd/">Rada LGD</a>
-                    <a href="/zarzadlgd/">Zarząd LGD</a>
-                    <a href="/komisja-rewizyjnalgd/">Komisja Rewizyjna LGD</a>
-                    <a href="/czlonkostwolgd/">Członkostwo w LGD</a>
-                    <a href="/rodo/">RODO</a>
-                </div>
-
-                <button class="nav-button"><a href="/lsr-2016/">LSR</a></button>
-                <button class="nav-button"><a href="/konkursy/">Konkursy</a></button>
-                <button class="nav-button"><a href="/projekty/">Projekty</a></button>
-                <button class="nav-button"><a href="/nasze-dzialania/">Nasze działania</a></button>
-                <button class="nav-button"><a href="/kontakt/">Kontakt</a></button>
+            <button class="dropbtn nav-button" onclick="toggleServices()">Stowarzyszenie</button>
+            <div class="dropdown-content-sto" id="servicesDropdown">
+                <a href="/stowarzyszenie/">O nas</a>
+                <a href="/statutlgd/">Statut LGD</a>
+                <a href="/radalgd/">Rada LGD</a>
+                <a href="/zarzadlgd/">Zarząd LGD</a>
+                <a href="/komisja-rewizyjnalgd/">Komisja Rewizyjna LGD</a>
+                <a href="/czlonkostwolgd/">Członkostwo w LGD</a>
+                <a href="/rodo/">RODO</a>
             </div>
-            <a class="icon" onclick="myFunction()">
-                <i class="fa fa-bars"></i>
-            </a>
-        </nav>
-    </header>
+
+            <button class="nav-button"><a href="/lsr-2016/">LSR</a></button>
+            <button class="nav-button"><a href="/konkursy/">Konkursy</a></button>
+            <button class="nav-button"><a href="/projekty/">Projekty</a></button>
+            <button class="nav-button"><a href="/nasze-dzialania/">Nasze działania</a></button>
+            <button class="nav-button"><a href="/kontakt/">Kontakt</a></button>
+        </div>
+        <a class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </nav>
+    <div id="accessibility-panel">
+        <button onclick="underlineLinks()">Uwidocznij linki</button>
+        <button id="contrast-btn" onclick="toggleContrast()">Wersja kontrastowa</button>
+    </div>
+
+    <div id="toggle-btn" onclick="togglePanel()">♿</div>
+</header>
