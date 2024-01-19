@@ -1,5 +1,6 @@
 const fs = require('fs');
-const Sitemap = require('sitemap');
+const { SitemapStream, streamToPromise } = require('sitemap');
+const { Readable } = require('stream');
 
 const urls = [
     { url:'/src/', changefreq: 'weekly', priority: 1.0 },
@@ -16,15 +17,25 @@ const urls = [
     { url:'/src/statutlgd', changefreq: 'never', priority: 0.4 },
     { url:'/src/stowarzyszenie', changefreq: 'never', priority: 0.5 },
     { url:'/src/zarzadlgd.njk', changefreq: 'yearly', priority: 0.5 },
-
 ];
 
-const sitemap = Sitemap.createSitemap({
-    hostname: 'http://www.lgdchelmno.pl/',
-    cacheTime: 600000,
-    urls: urls,
+const sitemapStream = new SitemapStream({ hostname: 'http://www.lgdchelmno.pl/' });
+
+urls.forEach((url) => {
+    sitemapStream.write(url);
 });
 
-fs.writeFileSync('sitemap.xml', sitemap.toString());
+// Zakończ strumień mapy witryny
+sitemapStream.end();
+
+// Konwertuj strumień do ciągu znaków
+streamToPromise(Readable.from(sitemapStream))
+  .then((data) => {
+    // Zapisz mapę witryny do pliku
+    fs.writeFileSync('sitemap.xml', data.toString());
+  })
+  .catch((error) => {
+    console.error(error);
+  });
 
 console.log('Sitemap generated successfully');
