@@ -259,6 +259,12 @@ h6 {
     color: #000 !important;
 }
 
+.high-contrast .nav-button {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+
 
 /* opcje dla header */
 
