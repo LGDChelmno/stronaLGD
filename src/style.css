@@ -1453,7 +1453,7 @@ footer a:hover {
 
     #myLinks {
         color: rgb(44, 44, 44);
-        display: flex;
+        display: none;
         position: absolute;
         top: 100%;
         right: 50%;
