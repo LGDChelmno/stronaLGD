@@ -16,7 +16,7 @@ gallery:
   - caption: zdjęcie projektu
     image: /assets/uploads/grupa samopomocowa.png
 ---
-## Stowarzyszenie ludzie - ludziom
+## Stowarzyszenie Ludzie - Ludziom
 
 <br>
 
