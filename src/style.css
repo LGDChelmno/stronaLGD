@@ -1120,10 +1120,12 @@ ol {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .kontakt p {
     padding-top: 2rem;
+    text-align: center;
 }
 
 .kontakt, .nasze-dzialania h1 {
