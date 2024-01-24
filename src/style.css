@@ -1134,11 +1134,15 @@ ol {
 
 .kontakt ul {
     list-style: none;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .kontakt li {
     padding-top: 1rem;
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .dane-kontaktowe {
