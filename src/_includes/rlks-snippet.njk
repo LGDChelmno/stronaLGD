@@ -1,0 +1,13 @@
+<div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="{{ rlks.url}}">{{ rlks.data.title }}</a></h3>
+        <h6>{{ rlks.data.date | postDate }}</h6>
+        <p> {{rlks.data.description }} </p>
+        <a href="{{ rlks.url }}">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="{{ rlks.data.image }}" alt="{{ imageAlt }}">
+    </div>
+</div>
