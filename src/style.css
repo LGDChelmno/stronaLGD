@@ -1148,6 +1148,14 @@ ol {
 
 .dane-kontaktowe {
     margin-bottom: 20rem;
+    display: flex;
+}
+
+.ml-embedded {
+    height: 250px;
+    width: 350px;
+    margin-left: 100px;
+    margin-bottom: 30px;
 }
 
 .icon-kontakt {
@@ -1300,6 +1308,14 @@ footer a:hover {
     }
     .projekty-wpis {
         width: 100%;
+    }
+
+    .dane-kontaktowe {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .ml-embedded {
+        width: 300px;
     }
 }
 
