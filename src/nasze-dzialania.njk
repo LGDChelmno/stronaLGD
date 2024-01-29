@@ -11,6 +11,7 @@ layout: 'base.njk'
                 <button class="tab" onclick="showTab('projekty-inne')">Projekty Inne</button>
                 <button class="tab" onclick="showTab('dzialania-statutowe')">Działania statutowe</button>
                 <button class="tab" onclick="showTab('rlks')">RLKS</button>
+                <button class="tab" onclick="showTab('kbia')">KBiA</button>
             </div>
             <div id="rozwoj-lokalny" class="tab-content">
                 {%- for rozwoj_lokalny in collections.rozwoj_lokalny -%}
@@ -35,6 +36,11 @@ layout: 'base.njk'
             <div id="rlks" class="tab-content">
                 {%- for rlks in collections.rlks -%}
                     {% include 'rlks-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+            <div id="kbia">
+                {%- for kbia in collections.kbia -%}
+                    {% include 'kbia-snippet.njkk' %}
                 {%- endfor -%}
             </div>
         </div>

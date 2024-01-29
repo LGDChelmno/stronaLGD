@@ -1,0 +1,13 @@
+<div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="{{ kbia.url}}">{{ kbia.data.title }}</a></h3>
+        <h6>{{ kbia.data.date | postDate }}</h6>
+        <p> {{ kbia.data.description }} </p>
+        <a href="{{ kbia.url }}">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="{{ kbia.data.image }}" alt="{{ imageAlt }}">
+    </div>
+</div>
