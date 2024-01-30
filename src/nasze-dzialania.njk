@@ -24,7 +24,7 @@ layout: 'base.njk'
                 {%- endfor -%}
             </div>
             <div id="projekty-inne" class="tab-content">
-                {%- for projekty_inne in collections.projekty_inne -%}
+                {%- for projekty_inne in collections.projekty_inne | reverse -%}
                     {% include 'projekty_inne-snippet.njk' %}
                 {%- endfor -%}
             </div>
@@ -34,12 +34,12 @@ layout: 'base.njk'
                 {%- endfor -%}
             </div>
             <div id="rlks" class="tab-content">
-                {%- for rlks in collections.rlks -%}
+                {%- for rlks in collections.rlks | reverse -%}
                     {% include 'rlks-snippet.njk' %}
                 {%- endfor -%}
             </div>
             <div id="kbia" class="tab-content">
-                {%- for kbia in collections.kbia -%}
+                {%- for kbia in collections.kbia | reverse -%}
                     {% include 'kbia-snippet.njk' %}
                 {%- endfor -%}
             </div>
