@@ -21,9 +21,7 @@ window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
 
 // Pobierz identyfikator Google Analytics z pliku cookies lub użyj wartości domyślnej
-const analyticsId = getAnalyticsIdFromCookies() || 'default_id';
-
-gtag('js', new Date());
+const analyticsId = getAnalyticsIdFromCookies() || window.GOOGLE_ANALYTICS_ID || 'default_id';
 
 // Dodaj dynamicznie skrypt do strony z identyfikatorem Google Analytics
 const scriptElement = document.createElement('script');
