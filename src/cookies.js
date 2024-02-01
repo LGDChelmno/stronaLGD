@@ -57,6 +57,3 @@ function closeCookieContainer() {
     document.getElementById('cookie-container').style.display = 'none';
 }
 
-if (isCookieInfoShown()) {
-    document.getElementById('cookie-container').style.display = 'none';
-}
