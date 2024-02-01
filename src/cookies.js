@@ -34,6 +34,19 @@ function acceptCookies() {
         gtag('js', new Date());
         gtag('config', analyticsId);
     }
+    // Ukryj okno informacyjne po zaakceptowaniu plików cookies
+    document.getElementById('cookie-container').style.display = 'none';
+}
+
+// Funkcja do odmowy plików cookies
+function declineCookies() {
+    localStorage.setItem('cookiesAccepted', 'false');
+    // Sprawdź stan po odmowie plików cookies
+    checkCookiesAccepted();
+    // Wyłącz Google Analytics po odmowie plików cookies
+    disableAnalytics();
+    // Ukryj okno informacyjne po odmowie plików cookies
+    document.getElementById('cookie-container').style.display = 'none';
 }
 
 // Funkcja do wyłączania Google Analytics
