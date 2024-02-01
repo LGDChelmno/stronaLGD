@@ -50,8 +50,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
-
-  const analyticsId = getAnalyticsIdFromCookies() || process.env.GOOGLE_ANALYTICS_ID || 'default_id';
   
   gtag('config', analyticsId);
 </script>
