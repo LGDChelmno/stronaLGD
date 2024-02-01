@@ -29,36 +29,28 @@ function isAnalyticsDisabled() {
     return localStorage.getItem('analyticsDisabled') === 'true';
 }
 
-// Sprawdź stan plików cookies przy załadowaniu strony
-if (checkCookiesAccepted() && !isAnalyticsDisabled()) {
-    // Uruchom Google Analytics tylko jeśli użytkownik zaakceptował pliki cookie i nie wyłączył śledzenia
-    gtag('js', new Date());
-    gtag('config', analyticsId);
+// Funkcja do ukrywania okna informacyjnego po zaakceptowaniu cookies
+function acceptCookiesAndHide() {
+    document.getElementById('cookie-container').style.display = 'none';
 }
 
 // Funkcja do akceptowania plików cookies
 function acceptCookies() {
     localStorage.setItem('cookiesAccepted', 'true');
     checkCookiesAccepted(); // Sprawdź stan po zaakceptowaniu cookies
+    acceptCookiesAndHide(); // Ukryj okno informacyjne po akceptacji
 }
 
 // Funkcja do wyłączania Google Analytics
 function disableAnalytics() {
     gtag('config', analyticsId, { 'send_page_view': false });
     localStorage.setItem('analyticsDisabled', 'true');
-    document.getElementById('cookie-container').style.display = 'none'; // Ukryj okno informacyjne po wyłączeniu cookies
-    checkCookiesAccepted(); // Sprawdź stan po wyłączeniu cookies
+    acceptCookiesAndHide(); // Ukryj okno informacyjne po wyłączeniu cookies
 }
 
-// Funkcja do ukrywania okna informacyjnego po zaakceptowaniu cookies
-function acceptCookiesAndHide() {
-    acceptCookies();
-    document.getElementById('cookie-container').style.display = 'none';
-}
-
-// Funkcja do odrzucania plików cookies
-function rejectCookies() {
-    localStorage.setItem('cookiesAccepted', 'false');
-    disableAnalytics();
-    document.getElementById('cookie-container').style.display = 'none';
+// Sprawdź stan plików cookies przy załadowaniu strony
+if (checkCookiesAccepted() && !isAnalyticsDisabled()) {
+    // Uruchom Google Analytics tylko jeśli użytkownik zaakceptował pliki cookie i nie wyłączył śledzenia
+    gtag('js', new Date());
+    gtag('config', analyticsId);
 }
