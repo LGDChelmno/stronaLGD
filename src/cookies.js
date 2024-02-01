@@ -7,7 +7,7 @@ const analyticsId = 'G-9FZN7890RP';
 
 // Dodaj dynamicznie skrypt do strony z identyfikatorem Google Analytics
 const scriptElement = document.createElement('script');
-scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=${analyticsId}`;
+scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=G-9FZN7890RP`;
 scriptElement.async = true;
 
 // Obsługa zdarzenia załadowania skryptu
@@ -29,28 +29,23 @@ function isAnalyticsDisabled() {
     return localStorage.getItem('analyticsDisabled') === 'true';
 }
 
-// Funkcja do ukrywania okna informacyjnego po zaakceptowaniu cookies
-function acceptCookiesAndHide() {
-    document.getElementById('cookie-container').style.display = 'none';
-}
-
-// Funkcja do akceptowania plików cookies
-function acceptCookies() {
-    localStorage.setItem('cookiesAccepted', 'true');
-    checkCookiesAccepted(); // Sprawdź stan po zaakceptowaniu cookies
-    acceptCookiesAndHide(); // Ukryj okno informacyjne po akceptacji
-}
-
-// Funkcja do wyłączania Google Analytics
-function disableAnalytics() {
-    gtag('config', analyticsId, { 'send_page_view': false });
-    localStorage.setItem('analyticsDisabled', 'true');
-    acceptCookiesAndHide(); // Ukryj okno informacyjne po wyłączeniu cookies
-}
-
 // Sprawdź stan plików cookies przy załadowaniu strony
 if (checkCookiesAccepted() && !isAnalyticsDisabled()) {
     // Uruchom Google Analytics tylko jeśli użytkownik zaakceptował pliki cookie i nie wyłączył śledzenia
     gtag('js', new Date());
     gtag('config', analyticsId);
+}
+
+// Funkcja do akceptowania plików cookies
+function acceptCookies() {
+    localStorage.setItem('cookiesAccepted', 'true');
+    localStorage.setItem('analyticsDisabled', 'false');
+    checkCookiesAccepted(); // Sprawdź stan po zaakceptowaniu cookies
+}
+
+// Funkcja do wyłączania Google Analytics
+function disableAnalytics() {
+    localStorage.setItem('analyticsDisabled', 'true');
+    localStorage.setItem('cookiesAccepted', 'false');
+    checkCookiesAccepted(); // Sprawdź stan po wyłączeniu cookies
 }
