@@ -21,7 +21,7 @@ window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
 
 // Pobierz identyfikator Google Analytics z pliku cookies lub użyj wartości domyślnej
-const analyticsId = getAnalyticsIdFromCookies() || process.env.GOOGLE_ANALYTICS_ID || 'default_id';
+const analyticsId = getAnalyticsIdFromCookies() || 'default_id';
 
 gtag('js', new Date());
 
