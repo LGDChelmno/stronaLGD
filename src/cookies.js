@@ -16,13 +16,14 @@ function getAnalyticsIdFromCookies() {
     return null;
 }
 
-// Pobierz identyfikator Google Analytics z pliku cookies lub użyj wartości domyślnej
-const analyticsId = getAnalyticsIdFromCookies() || 'default_id';
-window.GOOGLE_ANALYTICS_ID = analyticsId; // Przypisz identyfikator do zmiennej globalnej
-
 // Inicjalizacja Google Analytics
 window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
+
+// Pobierz identyfikator Google Analytics z pliku cookies lub użyj wartości domyślnej
+const analyticsId = getAnalyticsIdFromCookies() || 'default_id';
+
+gtag('js', new Date());
 
 // Dodaj dynamicznie skrypt do strony z identyfikatorem Google Analytics
 const scriptElement = document.createElement('script');
