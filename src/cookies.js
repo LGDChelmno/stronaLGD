@@ -1,3 +1,6 @@
+// cookies.js
+
+// Funkcja do pobierania identyfikatora Google Analytics z pliku cookies
 function getAnalyticsIdFromCookies() {
     const cookieString = document.cookie;
     const cookiesArray = cookieString.split(';');
@@ -18,7 +21,7 @@ window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
 
 // Pobierz identyfikator Google Analytics z pliku cookies lub użyj wartości domyślnej
-const analyticsId = getAnalyticsIdFromCookies() || window.GOOGLE_ANALYTICS_ID || 'default_id'; // Domyślne ID, jeśli nie ma w plikach cookies
+const analyticsId = getAnalyticsIdFromCookies() || process.env.GOOGLE_ANALYTICS_ID || 'default_id';
 
 gtag('js', new Date());
 
