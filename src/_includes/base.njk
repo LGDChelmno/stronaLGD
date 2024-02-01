@@ -49,8 +49,9 @@
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
   
-  gtag('config', getAnalyticsIdFromCookies() || process.env.GOOGLE_ANALYTICS_ID || 'default_id');
+  gtag('config', getAnalyticsIdFromCookies() || window.GOOGLE_ANALYTICS_ID || 'default_id');
 </script>
+
 
 
 
