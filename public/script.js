@@ -127,3 +127,6 @@ function toggleContrast() {
     document.body.classList.toggle('high-contrast');
     document.header.classList.toggle('high-contrast');
   }
+
+
+  

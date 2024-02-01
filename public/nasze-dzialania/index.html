@@ -13,6 +13,9 @@
     <link rel="icon" href="/assets/favicon.png" type="image/png">
     <script src="/script.js"></script>
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js"></script>
+    <script src="/config.js"></script>
+    <script src="/cookies.js"></script>
 </head>
 <body>
 
@@ -43,6 +46,14 @@
             <i class="fa fa-bars"></i>
         </a>
     </nav>
+
+    <div id="cookie-container">
+        <p>W ramach naszej witryny stosujemy pliki cookies w celu świadczenia Państwu usług na najwyższym poziomie, w tym w sposób dostosowany do indywidualnych potrzeb. Korzystanie z witryny bez zmiany ustawień dotyczących cookies oznacza, że będą one zamieszczane w Państwa urządzeniu końcowym. Możecie Państwo dokonać w każdym czasie zmiany ustawień dotyczących cookies.</p>
+        <button onclick="acceptCookies()">Rozumiem</button>
+        <button onclick="disableAnalytics()">Wyłącz cookies</button>
+    </div>
+
+
     <div id="accessibility-panel">
         <button onclick="underlineLinks()">Uwidocznij linki</button>
         <button id="contrast-btn" onclick="toggleContrast()">Wersja kontrastowa</button>
@@ -64,32 +75,212 @@
             </div>
             <div id="rozwoj-lokalny" class="tab-content"></div>
             <div id="projekty-grantowe" class="tab-content"></div>
-            <div id="projekty-inne" class="tab-content"></div>
-            <div id="dzialania-statutowe" class="tab-content"></div>
-            <div id="rlks" class="tab-content"></div>
-            <div id="kbia" class="tab-content"><div class="projekty-wpis">
+            <div id="projekty-inne" class="tab-content"><div class="projekty-wpis">
     <div class="projekty-tekst">
-        <h3><a href="/kbia/2024-01-29-choinka/">Choinka</a></h3>
-        <h6>29 sty 2024</h6>
-        <p> 18.12.2020 Choinka </p>
-        <a href="/kbia/2024-01-29-choinka/">
+        <h3><a href="/projekty_inne/2024-01-31-produkt-turystyczny-chełmno/">Produkt turystyczny Chełmno</a></h3>
+        <h6>31 sty 2024</h6>
+        <p> Produkt turystyczny Chełmno - Miasto Zakochanych w kontekście [...] </p>
+        <a href="/projekty_inne/2024-01-31-produkt-turystyczny-chełmno/">
             <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
         </a>
     </div>
     <div class="aktualnosc-zdjecie">
-        <img src="/assets/uploads/tutulowe-choinka.jpg" alt="">
+        <img src="/assets/uploads/produkt-turystyczny-chelmno.jpg" alt="">
     </div>
 </div><div class="projekty-wpis">
     <div class="projekty-tekst">
-        <h3><a href="/kbia/2024-01-29-ławki/">Ławki</a></h3>
-        <h6>29 sty 2024</h6>
-        <p> Ławki pozytywnych relacji </p>
-        <a href="/kbia/2024-01-29-ławki/">
+        <h3><a href="/projekty_inne/2024-01-31-pajacyk/">Pajacyk</a></h3>
+        <h6>31 sty 2024</h6>
+        <p> Pajacykowa Sieć Pomocowa Edycje:1. Rok szkolny 2019/2020 - 78 dzieci, kwota wsparcia: 50 000,00 zł  2. Rok szkolny 2020/2021 - 88 dzieci, [...] </p>
+        <a href="/projekty_inne/2024-01-31-pajacyk/">
             <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
         </a>
     </div>
     <div class="aktualnosc-zdjecie">
-        <img src="/assets/uploads/tutulowe-lawki.jpg" alt="">
+        <img src="/assets/uploads/pajacyk.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/projekty_inne/2024-01-31-jedź-z-blogiem/">Jedź z blogiem</a></h3>
+        <h6>31 sty 2024</h6>
+        <p> WSPÓŁPRACA W KAMPANIACH PROMUJĄCYCH CHEŁMNO [...] </p>
+        <a href="/projekty_inne/2024-01-31-jedź-z-blogiem/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/jedź-z-blogiem.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/projekty_inne/2024-01-31-akcja-pajacykowa-w-trakcie-pandemii/">Akcja pajacykowa w trakcie Pandemii</a></h3>
+        <h6>31 sty 2024</h6>
+        <p>  W RAMACH AKCJI DWUKROTNIE DOSTARCZYLIŚMY ŻYWNOŚĆ DLA RODZIN POTRZEBUJĄCYCH, GŁÓWNIE [...] </p>
+        <a href="/projekty_inne/2024-01-31-akcja-pajacykowa-w-trakcie-pandemii/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/tytul-pajacyk-w-pandemii.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/projekty_inne/2024-01-31-poznawaj-i-twórz-z-blogiem/">Poznawaj i Twórz z blogiem</a></h3>
+        <h6>31 sty 2024</h6>
+        <p> Jedź, poznawaj i twórz z blogiem [...] </p>
+        <a href="/projekty_inne/2024-01-31-poznawaj-i-twórz-z-blogiem/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/jedż-poznawaj-i-twórz-z-blogiem.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/projekty_inne/2024-01-31-chełmno-kamera-akcja/">Chełmno - kamera akcja</a></h3>
+        <h6>31 sty 2024</h6>
+        <p> Chełmno - Kamera - Akcja [...] </p>
+        <a href="/projekty_inne/2024-01-31-chełmno-kamera-akcja/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/tytul-chełmno-kamera-akcja.jpg" alt="">
+    </div>
+</div></div>
+            <div id="dzialania-statutowe" class="tab-content"><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-31-inicjatywy/">Inicjatywy</a></h3>
+        <h6>31 sty 2024</h6>
+        <p> LGD CHEŁMNO WŁĄCZAŁO SIĘ ŚREDNIO RAZ W MIESIĄCU W INICJATYWY NA TERENIE MIASTA CHEŁMNA: [...] </p>
+        <a href="/dzialania_statutowe/2024-01-31-inicjatywy/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/inicjatywy.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-dzień-otwarty/">Dzień otwarty</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> Dzień Otwarty z LGD Chełmno 19.10.2023 </p>
+        <a href="/dzialania_statutowe/2024-01-30-dzień-otwarty/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/dzien-otwarty-tytul.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-kolędowanie/">Kolędowanie</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> Współpraca z pratnerem z Norwegii przy nagraniu klipu kolędowanie [...] </p>
+        <a href="/dzialania_statutowe/2024-01-30-kolędowanie/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/kolędowanie-tytul.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-przekazanie-karmników/">Przekazanie karmników</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> Działania ekologiczne wśród dzieci - przekazanie karmników [...] </p>
+        <a href="/dzialania_statutowe/2024-01-30-przekazanie-karmników/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/przekazanie-karminkow-tytul.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-lodówka-covid/">Lodówka covid</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> Lodówka covid-19, codzienne dostarczanie podczas pandemii kanapek do [...] </p>
+        <a href="/dzialania_statutowe/2024-01-30-lodówka-covid/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/lodowka-tytul.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-nasze-piątki/">Nasze piątki</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> Warsztaty &quot;Nasze piątki&quot; </p>
+        <a href="/dzialania_statutowe/2024-01-30-nasze-piątki/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/nasze-piątki-tytulowe.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-loga/">Loga</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> W ramach wspierania organizacji pozarządowych z Chełmna w promocji ich działalności [...] </p>
+        <a href="/dzialania_statutowe/2024-01-30-loga/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/loga.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-dom-strachu/">Dom Strachu</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> &quot;Dom strachu&quot; - 2 edycje, zrealizowane z nieformaną Grupą Feniks [...] </p>
+        <a href="/dzialania_statutowe/2024-01-30-dom-strachu/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/dom-strachu-tytul.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-kabaret-dla-seniorów/">Kabaret dla Seniorów</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> Kabaret dla Seniorów z Nieformalną Grupą Feniks [...] </p>
+        <a href="/dzialania_statutowe/2024-01-30-kabaret-dla-seniorów/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/kabaret-seriorzy-tytul.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/dzialania_statutowe/2024-01-30-casting/">Casting</a></h3>
+        <h6>30 sty 2024</h6>
+        <p> Casting oraz realizacja klipu promującego LSR i LGD Chełmno [...] </p>
+        <a href="/dzialania_statutowe/2024-01-30-casting/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/casting.jpg" alt="">
+    </div>
+</div></div>
+            <div id="rlks" class="tab-content"></div>
+            <div id="kbia" class="tab-content"><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/kbia/2024-01-29-wesoła-farma/">Wesoła Farma</a></h3>
+        <h6>29 sty 2024</h6>
+        <p> 27.07.2019 r. &quot;Wesoła Farma&quot; </p>
+        <a href="/kbia/2024-01-29-wesoła-farma/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/tutulowe-farma.jpg" alt="">
     </div>
 </div><div class="projekty-wpis">
     <div class="projekty-tekst">
@@ -105,15 +296,27 @@
     </div>
 </div><div class="projekty-wpis">
     <div class="projekty-tekst">
-        <h3><a href="/kbia/2024-01-29-wesoła-farma/">Wesoła Farma</a></h3>
+        <h3><a href="/kbia/2024-01-29-ławki/">Ławki</a></h3>
         <h6>29 sty 2024</h6>
-        <p> 27.07.2019 r. &quot;Wesoła Farma&quot; </p>
-        <a href="/kbia/2024-01-29-wesoła-farma/">
+        <p> Ławki pozytywnych relacji </p>
+        <a href="/kbia/2024-01-29-ławki/">
             <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
         </a>
     </div>
     <div class="aktualnosc-zdjecie">
-        <img src="/assets/uploads/tutulowe-farma.jpg" alt="">
+        <img src="/assets/uploads/tutulowe-lawki.jpg" alt="">
+    </div>
+</div><div class="projekty-wpis">
+    <div class="projekty-tekst">
+        <h3><a href="/kbia/2024-01-29-choinka/">Choinka</a></h3>
+        <h6>29 sty 2024</h6>
+        <p> 18.12.2020 Choinka </p>
+        <a href="/kbia/2024-01-29-choinka/">
+            <div class="czytaj-btn">Czytaj dalej &rightarrow;</div>
+        </a>
+    </div>
+    <div class="aktualnosc-zdjecie">
+        <img src="/assets/uploads/tutulowe-choinka.jpg" alt="">
     </div>
 </div></div>
         </div>
@@ -196,6 +399,18 @@
     ml('account', '797878');
 </script>
 <!-- End MailerLite Universal -->
+<script async src="https://www.googletagmanager.com/gtag/js"></script>
+<script src="/config.js"></script>
+<script src="/cookies.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  
+  gtag('config', getAnalyticsIdFromCookies() || 'default_id');
+</script>
+
+
 
 </body>
 </html>

@@ -128,5 +128,5 @@ function toggleContrast() {
     document.header.classList.toggle('high-contrast');
   }
 
-  //cookies
+
   

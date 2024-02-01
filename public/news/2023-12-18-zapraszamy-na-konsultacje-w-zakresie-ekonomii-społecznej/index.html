@@ -13,6 +13,9 @@
     <link rel="icon" href="/assets/favicon.png" type="image/png">
     <script src="/script.js"></script>
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js"></script>
+    <script src="/config.js"></script>
+    <script src="/cookies.js"></script>
 </head>
 <body>
 
@@ -43,6 +46,14 @@
             <i class="fa fa-bars"></i>
         </a>
     </nav>
+
+    <div id="cookie-container">
+        <p>W ramach naszej witryny stosujemy pliki cookies w celu świadczenia Państwu usług na najwyższym poziomie, w tym w sposób dostosowany do indywidualnych potrzeb. Korzystanie z witryny bez zmiany ustawień dotyczących cookies oznacza, że będą one zamieszczane w Państwa urządzeniu końcowym. Możecie Państwo dokonać w każdym czasie zmiany ustawień dotyczących cookies.</p>
+        <button onclick="acceptCookies()">Rozumiem</button>
+        <button onclick="disableAnalytics()">Wyłącz cookies</button>
+    </div>
+
+
     <div id="accessibility-panel">
         <button onclick="underlineLinks()">Uwidocznij linki</button>
         <button id="contrast-btn" onclick="toggleContrast()">Wersja kontrastowa</button>
@@ -164,6 +175,18 @@
     ml('account', '797878');
 </script>
 <!-- End MailerLite Universal -->
+<script async src="https://www.googletagmanager.com/gtag/js"></script>
+<script src="/config.js"></script>
+<script src="/cookies.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  
+  gtag('config', getAnalyticsIdFromCookies() || 'default_id');
+</script>
+
+
 
 </body>
 </html>
