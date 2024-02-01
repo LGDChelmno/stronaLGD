@@ -7,7 +7,7 @@ const analyticsId = 'G-9FZN7890RP';
 
 // Dodaj dynamicznie skrypt do strony z identyfikatorem Google Analytics
 const scriptElement = document.createElement('script');
-scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=G-9FZN7890RP`;
+scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=${analyticsId}`;
 scriptElement.async = true;
 
 // Obsługa zdarzenia załadowania skryptu
@@ -41,6 +41,7 @@ function acceptCookies() {
     localStorage.setItem('cookiesAccepted', 'true');
     localStorage.setItem('analyticsDisabled', 'false');
     checkCookiesAccepted(); // Sprawdź stan po zaakceptowaniu cookies
+    closeCookieContainer(); // Zamknij okno informacyjne po zaakceptowaniu cookies
 }
 
 // Funkcja do wyłączania Google Analytics
@@ -48,4 +49,10 @@ function disableAnalytics() {
     localStorage.setItem('analyticsDisabled', 'true');
     localStorage.setItem('cookiesAccepted', 'false');
     checkCookiesAccepted(); // Sprawdź stan po wyłączeniu cookies
+    closeCookieContainer(); // Zamknij okno informacyjne po wyłączeniu cookies
+}
+
+// Funkcja do zamykania okna informacyjnego
+function closeCookieContainer() {
+    document.getElementById('cookie-container').style.display = 'none';
 }
