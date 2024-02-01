@@ -7,7 +7,6 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/script.js');
     eleventyConfig.addPassthroughCopy('./src/admin');
     eleventyConfig.addPassthroughCopy('./src/cookies.js');
-    eleventyConfig.addPassthroughCopy('./src/config.js');
 
     eleventyConfig.addFilter("postDate", (dateObj) => {
         const options = { day: 'numeric', month: 'short', year: 'numeric' };
