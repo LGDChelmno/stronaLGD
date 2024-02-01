@@ -903,6 +903,11 @@ li {
     text-decoration: none;
 }
 
+.rodo a:hover {
+    text-decoration: underline;
+    color: #A0170D;
+}
+
 .rodo ul,
 ol {
     margin-top: 2rem;
