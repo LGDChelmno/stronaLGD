@@ -1,72 +1,76 @@
-window.dataLayer = window.dataLayer || [];
-function gtag() { dataLayer.push(arguments); }
-
-// Pobierz identyfikator Google Analytics z pliku cookies lub użyj wartości domyślnej
-
-
-// Funkcja do pobierania identyfikatora Google Analytics z pliku cookies
-function getAnalyticsIdFromCookies() {
-    const cookieString = document.cookie;
-    const cookiesArray = cookieString.split(';');
-
-    for (const cookie of cookiesArray) {
-        const [name, value] = cookie.split('=').map(item => item.trim());
-
-        if (name === 'analyticsId') {
-            return value;
-        }
-    }
-
-    return null;
-}
-
-const analyticsId = getAnalyticsIdFromCookies() || window.GOOGLE_ANALYTICS_ID || 'default_id';
-
 // Inicjalizacja Google Analytics
 window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
 
-
+// Pobierz identyfikator Google Analytics lub użyj wartości domyślnej
+const analyticsId = 'G-9FZN7890RP';
 
 // Dodaj dynamicznie skrypt do strony z identyfikatorem Google Analytics
 const scriptElement = document.createElement('script');
-scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=${analyticsId}`;
+scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=G-9FZN7890RP`;
 scriptElement.async = true;
 
 // Obsługa zdarzenia załadowania skryptu
 scriptElement.onload = function () {
     // Inicjalizacja Google Analytics po załadowaniu skryptu
+    gtag('js', new Date());
     gtag('config', analyticsId);
 };
 
 document.head.appendChild(scriptElement);
 
-// Funkcja do sprawdzania stanu plików cookies
-function checkCookiesAccepted() {
-    if (localStorage.getItem('cookiesAccepted') !== 'true') {
-        document.getElementById('cookie-container').style.display = 'block';
-    } else {
-        document.getElementById('cookie-container').style.display = 'none';
-    }
+// Funkcja sprawdzająca, czy użytkownik podjął decyzję
+function isUserDecisionMade() {
+    return localStorage.getItem('userDecisionMade') === 'true';
 }
 
-// Funkcja do ukrywania okna informacyjnego po zaakceptowaniu cookies
+function isCookieInfoShown() {
+    return localStorage.getItem('cookieInfoShown') === 'true';
+}
+
+// Funkcja do sprawdzania stanu plików cookies
+function checkCookiesAccepted() {
+    return localStorage.getItem('cookiesAccepted') === 'true';
+}
+
+// Sprawdzanie, czy Google Analytics zostało wyłączone przez użytkownika
+function isAnalyticsDisabled() {
+    return localStorage.getItem('analyticsDisabled') === 'true';
+}
+
+// Sprawdź stan plików cookies przy załadowaniu strony
+if (checkCookiesAccepted() && !isAnalyticsDisabled() && isUserDecisionMade()) {
+    // Uruchom Google Analytics tylko jeśli użytkownik zaakceptował pliki cookie, nie wyłączył śledzenia i podjął decyzję
+    gtag('js', new Date());
+    gtag('config', analyticsId);
+}
+
+// Funkcja do akceptowania plików cookies
 function acceptCookies() {
     localStorage.setItem('cookiesAccepted', 'true');
+    localStorage.setItem('analyticsDisabled', 'false');
+    localStorage.setItem('cookieInfoShown', 'true');
+    localStorage.setItem('userDecisionMade', 'true');
     checkCookiesAccepted(); // Sprawdź stan po zaakceptowaniu cookies
+    closeCookieContainer(); // Zamknij okno informacyjne po zaakceptowaniu cookies
 }
 
 // Funkcja do wyłączania Google Analytics
 function disableAnalytics() {
-    gtag('config', analyticsId, { 'send_page_view': false });
     localStorage.setItem('analyticsDisabled', 'true');
-    document.getElementById('cookie-container').style.display = 'none'; // Ukryj okno informacyjne po wyłączeniu cookies
+    localStorage.setItem('cookiesAccepted', 'false');
+    localStorage.setItem('cookieInfoShown', 'true');
+    localStorage.setItem('userDecisionMade', 'true');
+    checkCookiesAccepted(); // Sprawdź stan po wyłączeniu cookies
+    closeCookieContainer(); // Zamknij okno informacyjne po wyłączeniu cookies
 }
 
-// Sprawdź stan plików cookies przy załadowaniu strony
-checkCookiesAccepted();
+if (!isCookieInfoShown()) {
+    // Kod do pokazania okna informacyjnego o ciasteczkach
+    document.getElementById('cookie-container').style.display = 'block';
+}
 
-// Sprawdzanie, czy Google Analytics zostało wyłączone przez użytkownika
-if (localStorage.getItem('analyticsDisabled') === 'true') {
-    disableAnalytics();
+// Funkcja do zamykania okna informacyjnego
+function closeCookieContainer() {
+    document.getElementById('cookie-container').style.display = 'none';
 }

@@ -19,6 +19,15 @@ scriptElement.onload = function () {
 
 document.head.appendChild(scriptElement);
 
+// Funkcja sprawdzająca, czy użytkownik podjął decyzję
+function isUserDecisionMade() {
+    return localStorage.getItem('userDecisionMade') === 'true';
+}
+
+function isCookieInfoShown() {
+    return localStorage.getItem('cookieInfoShown') === 'true';
+}
+
 // Funkcja do sprawdzania stanu plików cookies
 function checkCookiesAccepted() {
     return localStorage.getItem('cookiesAccepted') === 'true';
@@ -30,8 +39,8 @@ function isAnalyticsDisabled() {
 }
 
 // Sprawdź stan plików cookies przy załadowaniu strony
-if (checkCookiesAccepted() && !isAnalyticsDisabled()) {
-    // Uruchom Google Analytics tylko jeśli użytkownik zaakceptował pliki cookie i nie wyłączył śledzenia
+if (checkCookiesAccepted() && !isAnalyticsDisabled() && isUserDecisionMade()) {
+    // Uruchom Google Analytics tylko jeśli użytkownik zaakceptował pliki cookie, nie wyłączył śledzenia i podjął decyzję
     gtag('js', new Date());
     gtag('config', analyticsId);
 }
@@ -40,6 +49,8 @@ if (checkCookiesAccepted() && !isAnalyticsDisabled()) {
 function acceptCookies() {
     localStorage.setItem('cookiesAccepted', 'true');
     localStorage.setItem('analyticsDisabled', 'false');
+    localStorage.setItem('cookieInfoShown', 'true');
+    localStorage.setItem('userDecisionMade', 'true');
     checkCookiesAccepted(); // Sprawdź stan po zaakceptowaniu cookies
     closeCookieContainer(); // Zamknij okno informacyjne po zaakceptowaniu cookies
 }
@@ -48,12 +59,18 @@ function acceptCookies() {
 function disableAnalytics() {
     localStorage.setItem('analyticsDisabled', 'true');
     localStorage.setItem('cookiesAccepted', 'false');
+    localStorage.setItem('cookieInfoShown', 'true');
+    localStorage.setItem('userDecisionMade', 'true');
     checkCookiesAccepted(); // Sprawdź stan po wyłączeniu cookies
     closeCookieContainer(); // Zamknij okno informacyjne po wyłączeniu cookies
+}
+
+if (!isCookieInfoShown()) {
+    // Kod do pokazania okna informacyjnego o ciasteczkach
+    document.getElementById('cookie-container').style.display = 'block';
 }
 
 // Funkcja do zamykania okna informacyjnego
 function closeCookieContainer() {
     document.getElementById('cookie-container').style.display = 'none';
 }
-
