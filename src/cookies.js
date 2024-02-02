@@ -21,7 +21,7 @@ document.head.appendChild(scriptElement);
 
 // Funkcja sprawdzająca, czy użytkownik podjął decyzję
 function isUserDecisionMade() {
-    return localStorage.getItem('userDecisionMade') === 'true';
+    return localStorage.getItem('userDecisionMade') === 'false';
 }
 
 function isCookieInfoShown() {
@@ -65,9 +65,14 @@ function disableAnalytics() {
     closeCookieContainer(); // Zamknij okno informacyjne po wyłączeniu cookies
 }
 
-if (!isCookieInfoShown()) {
-    // Kod do pokazania okna informacyjnego o ciasteczkach
+if (!isCookieInfoShown() && !isUserDecisionMade()) {
     document.getElementById('cookie-container').style.display = 'block';
+}
+
+
+if (isCookieInfoShown()) {
+    // Kod do pokazania okna informacyjnego o ciasteczkach
+    document.getElementById('cookie-container').style.display = 'none';
 }
 
 // Funkcja do zamykania okna informacyjnego
