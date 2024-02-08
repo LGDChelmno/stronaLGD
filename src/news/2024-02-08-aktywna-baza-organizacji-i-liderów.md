@@ -1,13 +1,11 @@
 ---
 title: Aktywna Baza Organizacji i Liderów
 description: >-
-  Tworzymy Aktywną Bazę Organizacji i Liderów (Baza Partnerów LGD Chełmno)! 
-  <br>  Baza służy zebraniu danych organizacji w celu przekazywania na bieżąco
-  informacji o naborach, konsultacjach społecznych, konkursach czy wydarzeniach
+  Tworzymy Aktywną Bazę Organizacji i Liderów (Baza Partnerów LGD Chełmno)!Baza
+  służy zebraniu danych organizacji w celu przekazywania na bieżąco informacji o
+  naborach, konsultacjach społecznych, konkursach czy wydarzeniach
   organizowanych przezTworzymy Aktywną Bazę Organizacji i Liderów (Baza
-  Partnerów LGD Chełmno)! Baza służy zebraniu danych organizacji w celu
-  przekazywania na bieżąco informacji o naborach, konsultacjach społecznych,
-  konkursach czy wydarzeniach organizowanych przez [...]
+  Partnerów LGD Chełmno)! Baza służy zebraniu [...]
 date: 2024-02-08T09:08:09.704Z
 tags:
   - news
