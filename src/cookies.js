@@ -3,11 +3,11 @@ window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
 
 // Pobierz identyfikator Google Analytics lub użyj wartości domyślnej
-const analyticsId = 'G-2568NDYVRP';
+const analyticsId = 'G-R9TFXGFNMR';
 
 // Dodaj dynamicznie skrypt do strony z identyfikatorem Google Analytics
 const scriptElement = document.createElement('script');
-scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=G-2568NDYVRP`;
+scriptElement.src = `https://www.googletagmanager.com/gtag/js?id=G-R9TFXGFNMR`;
 scriptElement.async = true;
 
 // Obsługa zdarzenia załadowania skryptu
