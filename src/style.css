@@ -23,7 +23,7 @@ body {
 }
 
 .center {
-    justify-content: center;
+    text-align: center;
 }
 
 a[href$=".pdf"]::before {
