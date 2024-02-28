@@ -13,6 +13,8 @@ tags:
 image: /assets/uploads/baza.jpg
 imageAlt: zdjęcie tytułowe
 ---
+<p class="center">center</p>
+
 Tworzymy Aktywną Bazę Organizacji i Liderów (Baza Partnerów LGD Chełmno)!
 
  <br>
@@ -44,13 +46,8 @@ https://www.youtube.com/watch?v=QJYCGiXF7v0
 Baza kierowana jest do:
 
 1. Lokalni liderzy m.in. rady osiedli/okręgów (o ile zostały utworzone), radni rady miejskiej, województwa;
-
 2. instytucje kulturalne i/lub edukacyjne mające siedzibę na obszarze LSR m.in. biblioteki, domy kultury, teatry, szkoły, uniwersytety trzeciego wieku itp.;
-
 3. organizacje pozarządowe mające siedzibę na terenie objętym LSR (w szczególności skupiającymi młodzież i seniorów) m.in. kluby osiedlowe, spółdzielnie mieszkaniowe, kluby sportowe;
-
 4. instytucje działające na rzecz osób w niekorzystnej sytuacji społecznej m.in. ośrodki pomocy społecznej, parafie, warsztaty terapii zajęciowej itp.;
-
 5. mieszkańcy obszaru LSR;
-
 6. przedsiębiorcy mający siedzibę lub oddział na obszarze objętym LSR.
