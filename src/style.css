@@ -22,6 +22,10 @@ body {
     background-size: cover;
 }
 
+.center {
+    justify-content: center;
+}
+
 a[href$=".pdf"]::before {
     content: "otwiera plik pdf w nowym oknie przeglądarki";
     position: absolute;
