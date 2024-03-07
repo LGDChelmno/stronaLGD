@@ -7,6 +7,7 @@ description: >-
 date: 2024-03-07T13:06:21.891Z
 tags:
   - news
+  - glowna
 image: /assets/uploads/baza.jpg
 imageAlt: zdjęcie tytułowe
 gallery:
