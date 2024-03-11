@@ -8,6 +8,7 @@ date: 2024-03-11T12:15:54.381Z
 tags:
   - news
   - glowna
+  - aktualny
 image: /assets/uploads/harmonogran_naboru.jpg
 imageAlt: zdjęcie tytułowe
 files:
