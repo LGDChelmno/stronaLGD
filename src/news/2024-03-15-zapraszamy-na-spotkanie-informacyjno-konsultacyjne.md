@@ -15,8 +15,12 @@ gallery:
 ---
 <p class="center">Zapraszamy na Spotkanie Informacyjno-Konsultacyjne!</p> 
 
+<br>
+
 Spotkanie odbędzie się w czwartek, 28 marca o godz.: 14:00, ul. Grudziądzka 36, sala konferencyjna duża (I piętro).
 
 Na tym spotkaniu przedstawimy istotne informacje dotyczące możliwości uzyskania wsparcia finansowego ze środków Europejskiego Funduszu Społecznego Plus (EFS+). Przedstawimy także praktyczne wskazówki dotyczące identyfikacji pomysłów projektów, które mogą zostać zrealizowane w ramach konkursów ogłaszanych przez LGD Chełmno, a także o sposobach premiowania projektów w ramach konkursów oraz o harmonogramie planowanych konkursów na rok 2024. To doskonała okazja, aby zgłębić szczegóły i uzyskać odpowiedzi na pytania dotyczące procesu aplikacyjnego oraz kryteriów oceny projektów. Liczymy również na Państwa pomysły i sugestie. Ze względu na ograniczoną ilość miejsc prosimy o wcześniejsze potwierdzenie przybycia.
+
+<br>
 
 Zapraszamy wszystkich, którzy chcą otrzymać profesjonalne wsparcie oraz inspirację do realizacji pomysłów!
