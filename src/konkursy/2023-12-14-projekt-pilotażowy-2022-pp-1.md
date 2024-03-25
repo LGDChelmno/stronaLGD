@@ -48,7 +48,7 @@ Numer naboru: 2022/PP/1
 
 <br>
 
-ogłasza nabór wniosków o dfinansowanie na projekty pilotażowe w ramach realizacji
+ogłasza nabór wniosków o dofinansowanie na projekty pilotażowe w ramach realizacji
 
 <br>
 
@@ -64,7 +64,7 @@ Numer naboru LGD: 2022/PP/1
 
 <br>
 
-**Oś Priorytetowa 11 Rozwój lokalny kierowany przez społecznośc**
+**Oś Priorytetowa 11 Rozwój lokalny kierowany przez społeczność**
 
 <br>
 
@@ -77,7 +77,7 @@ Numer naboru LGD: 2022/PP/1
 <br>
 
 * Termin, od którego można składać wnioski - 01.11.2022 r.
-* Termin, do któego można składać wnioski - 13.11.2022 r.
+* Termin, do którego można składać wnioski - 13.11.2022 r.
 * Termin rozstrzygnięcia naboru - IV kwartał 2022 r.
 
 <br>
@@ -94,15 +94,11 @@ Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, 86-200 Chełmno, w godz
 
 <br>
 
-1. Wniosek o dofinansowanie projektu pilotażowego w jednej wersji papierowej oraz pomocniczo w wersji elektronicznej (na osobnym elektronicznym wnośniku danych) wraz z załącznikami należy złożyć w terminie od 01.11.2022 r. od godz. 8.00 do 13.11.2022 r. do godziny 15.15 w Biurze Stowarzyszenia Lokalna Grupa Działania Chełmno, ul. Dominikańska 35; 86-200 Chełmno
-
+1. Wniosek o dofinansowanie projektu pilotażowego w jednej wersji papierowej oraz pomocniczo w wersji elektronicznej (na osobnym elektronicznym nośniku danych) wraz z załącznikami należy złożyć w terminie od 01.11.2022 r. od godz. 8.00 do 13.11.2022 r. do godziny 15.15 w Biurze Stowarzyszenia Lokalna Grupa Działania Chełmno, ul. Dominikańska 35; 86-200 Chełmno
 2. Planowany termin rozstrzygnięcia naboru - IV kwartał 2022 roku
-
-3. Wniosek o dofinansowanie projektu pilotażowego należy wypełnić elektroniczne na wzorze formularza aplikacyjnego, znajdującego się na stronie internetowej LGD www.lgdchelmno.pl w zakładne: konkursy
-
-4. Wniosek powinien być opatrzony podpisem osoby/osób upoważnionej/upoważnionych do podejmowania decyzji wiążących oraz pieczęcią imienną wraz ze wskazaniem funkcji/stanowiska danej/ch osoby/osób. W przypadku braku imiennej pieczęci wymaganu jest czytelny podpis (czytelnie imię i nazwisko) osoby/osób upoważnionej/ych do podejmowania decyzji wiążących. Oprócz podpisu osoby/osób upoważnionej/upoważnionych do podejmowania decycji wiążących każdorazowo wymagana jest pieczęć podmiotu.
-
-5. W przypadku podpisania wniosku na podstawie pełnomocnictwa wymagane jest załączenie peł-nomocnictwa do wniosku o dofinansowanie projektu pilotażowego (pełnomocnictwo stanowi za-łącznik do wniosku o dofinansowanie: należy je załączyć w oryginale w jednym egzemplarzu do wersji papierowej wniosku o dofinansowanie).
+3. Wniosek o dofinansowanie projektu pilotażowego należy wypełnić elektroniczne na wzorze formularza aplikacyjnego, znajdującego się na stronie internetowej LGD www.lgdchelmno.pl w zakładce: konkursy
+4. Wniosek powinien być opatrzony podpisem osoby/osób upoważnionej/upoważnionych do podejmowania decyzji wiążących oraz pieczęcią imienną wraz ze wskazaniem funkcji/stanowiska danej/ch osoby/osób. W przypadku braku imiennej pieczęci wymagany jest czytelny podpis (czytelnie imię i nazwisko) osoby/osób upoważnionej/ych do podejmowania decyzji wiążących. Oprócz podpisu osoby/osób upoważnionej/upoważnionych do podejmowania decycji wiążących każdorazowo wymagana jest pieczęć podmiotu.
+5. W przypadku podpisania wniosku na podstawie pełnomocnictwa wymagane jest załączenie pełnomocnictwa do wniosku o dofinansowanie projektu pilotażowego (pełnomocnictwo stanowi za-łącznik do wniosku o dofinansowanie: należy je załączyć w oryginale w jednym egzemplarzu do wersji papierowej wniosku o dofinansowanie).
 
 <br>
 
@@ -118,7 +114,7 @@ UWAGA! Wśród podmiotów wyłonionych do realizacji projektów pilotażowych, z
 
 <br>
 
-## V. Na co można otrzymać dofinansowanie 
+## V. Na co można otrzymać dofinansowanie
 
 <br>
 
