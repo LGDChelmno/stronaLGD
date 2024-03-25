@@ -96,11 +96,11 @@ Numer naboru: 2023/PP/2
 
 <br>
 
-**Lokalna Grupa Działania Chełno**
+**Lokalna Grupa Działania Chełmno**
 
 <br>
 
-ogłasza nabór wniosków o dofinansowanie na projekty pilotażowe w ramach realizaji
+ogłasza nabór wniosków o dofinansowanie na projekty pilotażowe w ramach realizacji
 
 <br>
 
@@ -112,7 +112,7 @@ w ramach konkursu Nr RPKP.11.01.00-IZ.00-04-422/21 Regionalnego programu Operacy
 
 <br>
 
-Number naboru LGD: 2023/PP/2
+Numer naboru LGD: 2023/PP/2
 
 <be>
 
@@ -120,7 +120,7 @@ Number naboru LGD: 2023/PP/2
 
 <br>
 
-**Działanie 11. Włączenie społeczne na obszrach objętych LSR**
+**Działanie 11. Włączenie społeczne na obszarach objętych LSR**
 
 <br>
 
@@ -129,7 +129,7 @@ Number naboru LGD: 2023/PP/2
 <br>
 
 * Termin, od którego można składać wnioski - 18.07.2023 r.
-* Termin, do któego można składać wnioski - 02.08.2023 r.
+* Termin, do którego można składać wnioski - 02.08.2023 r.
 * Termin rozstrzygnięcia naboru - III kwartał 2023 r.
 
 <br>
@@ -150,7 +150,7 @@ Wniosek o dofinansowanie projektu należy w pierwszej kolejności wypełnić i w
 
 <br>
 
-Wniosek w generatorze wniosków aplikacyjnych należy wypełnić w sposób kompletny tzn. wypełnić w języku polskim wszyskie pola wskazane we wniosku o dofinansowanie.
+Wniosek w generatorze wniosków aplikacyjnych należy wypełnić w sposób kompletny tzn. wypełnić w języku polskim wszystkie pola wskazane we wniosku o dofinansowanie.
 
 <br>
 
@@ -158,7 +158,7 @@ Jeśli dane pole we wniosku o dofinansowanie nie dotyczy danego wniosku o dofina
 
 <br>
 
-Wniosek o dofinansowanie projektu należy złożyć zarówno w wesji elektronicznej (poprzez generator wniosków), jak i w wersji papierowej (jeden egzemplarz). OBie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).
+Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (poprzez generator wniosków), jak i w wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).
 
 <br>
 
@@ -172,7 +172,7 @@ Uwaga! Wniosek należy wypełnić zgodnie z wymaganiami określonymi w ogłoszen
 
 Wniosek o dofinansowanie projektu pilotażowego w wersji papierowej może być dostarczony:
 
-* osobićie lub przez posłańca ( dostarczyciel otrzyma potwierdzenie złożenia wniosku opatrzone podpisem i datą),
+* osobiście lub przez posłańca ( dostarczyciel otrzyma potwierdzenie złożenia wniosku opatrzone podpisem i datą),
 * drogą pocztową lub kurierem.
 
 <br>
@@ -221,7 +221,7 @@ Forma wsparcia: zaliczka/refundacja
 
 <br>
 
-Wysokość maksymalna dofinansowania projektu wynosi 63 150,00 zł i stanowi 100% środków Europejskiego Funduszu Społęcznego na wydatki kwalifikowalne w projekcie objętym dofinansowaniem.
+Wysokość maksymalna dofinansowania projektu wynosi 63 150,00 zł i stanowi 100% środków Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym dofinansowaniem.
 
 <br>
 
@@ -259,7 +259,7 @@ Link do generatora wniosków o dofinansowanie:
 
 <br>
 
-Uwaga! wnioski można składać do 18.07.2023 r. W generatorze można pracować już teraz, ae nie będzie można wysłać do nas wniosków cześniej niżod 18.07.2023 r.
+Uwaga! wnioski można składać do 18.07.2023 r. W generatorze można pracować już teraz, ale nie będzie można wysłać do nas wniosków wcześniej niż od 18.07.2023 r.
 
 <br>
 
