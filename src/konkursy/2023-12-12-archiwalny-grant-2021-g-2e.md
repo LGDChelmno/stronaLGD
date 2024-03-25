@@ -74,7 +74,7 @@ Stowarzyszenie Lokalna Grupa Działania Chełmno informuje, iż do dnia 30.09.20
 
 <br>
 
-Wkrótce będziemy ogłaszać kolejny nabór. Sledźcie uważnie stronę i fb LGD Chełmno.
+Wkrótce będziemy ogłaszać kolejny nabór. Śledźcie uważnie stronę i fb LGD Chełmno.
 
 <br>
 
@@ -106,7 +106,7 @@ Typ projektu:
 
 <br>
 
-Działania wspierające rozwój gospodarki społecnej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
+Działania wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
 
 <br>
 
@@ -124,7 +124,7 @@ informuje o możliwości składania wniosków o powierzenie grantu w ramach
 
 **Zakres tematyczny:**
 
-* Przedsięwzięcie 3.1.1 Wzmocnienie sketora ekonomii społecznej
+* Przedsięwzięcie 3.1.1 Wzmocnienie sektora ekonomii społecznej
 * Cel szczegółowy LSR 3.1 Wsparcie inicjatyw w zakresie rozwoju ekonomii społecznej
 * Cel ogólny LSR 3 Wsparcie rozwoju gospodarki społecznej i przedsiębiorczości społecznej na obszarze LGD Chełmno do roku 2023
 
@@ -184,7 +184,7 @@ Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, 86-200 Chełmno, sala n
 
 <br>
 
-Formularz wniosku o powierzenie grantu i załączniki (wg obowiązujących wzorów wskazanych w Ogłoszeniu o naborze) należy pobrać ze strony www.lgdchelmno.pl - zakładka KONKURSY. W pierwszej kolejności należy wypełnić i wysłać elektroniczniew w generatorze wniosków o dofinansowanie. Wersję ostateczną wygenerowaną przez GWD kompletnie wypełnionego formularza wniosku o powierzenie grantu wraz z załącznikami należy wydrukować i podpisać (pieczątka podmiotu oraz pieczątka/i imienna/e osoby/osób upoważnionej/ych). Wymaga się zachowania czytelności wszystkich formularzy składanych w odpowiedzi na Ogłoszenie o naborze wniosków.
+Formularz wniosku o powierzenie grantu i załączniki (wg obowiązujących wzorów wskazanych w Ogłoszeniu o naborze) należy pobrać ze strony www.lgdchelmno.pl - zakładka KONKURSY. W pierwszej kolejności należy wypełnić i wysłać elektronicznie w generatorze wniosków o dofinansowanie. Wersję ostateczną wygenerowaną przez GWD kompletnie wypełnionego formularza wniosku o powierzenie grantu wraz z załącznikami należy wydrukować i podpisać (pieczątka podmiotu oraz pieczątka/i imienna/e osoby/osób upoważnionej/ych). Wymaga się zachowania czytelności wszystkich formularzy składanych w odpowiedzi na Ogłoszenie o naborze wniosków.
 
 <br>
 
@@ -194,7 +194,7 @@ Wygenerowany przez GWD wniosek wraz z załącznikami należy złożyć najpóźn
 
 Podmiot ubiegający się o grant składa wniosek:
 
-* osobiście, przez pełnomocnika lub osobę uprawnioną do reprezentacji (dostarczyciel otrzyma potwierdzenie wpływu wniosku) - decyduje data wpływu do biura LGD. Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (poprzez generatora wniosków), jak i wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o teżsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).
+* osobiście, przez pełnomocnika lub osobę uprawnioną do reprezentacji (dostarczyciel otrzyma potwierdzenie wpływu wniosku) - decyduje data wpływu do biura LGD. Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (poprzez generatora wniosków), jak i wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).
 
 <br>
 
@@ -214,8 +214,8 @@ O grant mogą się ubierać:
 
 Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające poniższe kryteria:
 
-1. osoby zagrożone usóstwem lub wykluczeniem społecznym z obszaru objętego LSR, tj. miasta Chełmno;
-2. podmioty ekonomii społeczenj z obszaru LSR,
+1. osoby zagrożone ubóstwem lub wykluczeniem społecznym z obszaru objętego LSR, tj. miasta Chełmno;
+2. podmioty ekonomii społecznej z obszaru LSR,
 3. jednostki samorządu terytorialnego z obszaru LSR
 
 <br>
@@ -224,7 +224,7 @@ Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające p
 
 <br>
 
-Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami oszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią się do realizacji następujących celów LSR:
+Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami obszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią się do realizacji następujących celów LSR:
 
 * Cel ogólny LSR 3 - Wsparcie rozwoju gospodarki społecznej i przedsiębiorczości społecznej na obszarze LGD Chełmno do roku 2023;
 * Cel szczegółowy LSR 3.1 - Wsparcie inicjatyw w zakresie rozwoju ekonomii społecznej;
@@ -232,7 +232,7 @@ Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osią
 
 <br>
 
-TYP: Działania wspierające rozwój gospodarki społecznej i predsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wpierające rozwój gospodarki społecznej i predsiębiorczości społecznej.
+TYP: Działania wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wpierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
 
 <br>
 
@@ -246,11 +246,11 @@ W ramach naboru wniosków planowane jest osiągnięcie wskaźników rezultatu i 
 
 * liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym objętych wsparciem w programie (RLKS)
 
-2. wskaźniki produktu specyficzne dla PRojektu Grantowego LGD:
+2. wskaźniki produktu specyficzne dla Projektu Grantowego LGD:
 
 * liczba podmiotów ekonomii społecznej objętych wsparciem w programie;
 * liczba jednostek samorządu terytorialnego objętych wsparciem w programie;
-* liczba inicjatyw dotyczących rozwoju ekonomii społęcznej sfinansowanych ze środków EFS (def. WLWK);
+* liczba inicjatyw dotyczących rozwoju ekonomii społecznej sfinansowanych ze środków EFS (def. WLWK);
 
 3. wskaźniki rezultatu specyficzne dla Projektu Grantowego LGD:
 
@@ -259,7 +259,7 @@ W ramach naboru wniosków planowane jest osiągnięcie wskaźników rezultatu i 
 
 <br>
 
-UWAGA: Wymogi realizacyjne dotyczące wskaźników produktu i rezultatu zawaro w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS.
+UWAGA: Wymogi realizacyjne dotyczące wskaźników produktu i rezultatu zawarto w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS.
 
 <br>
 
@@ -279,7 +279,7 @@ Forma wsparcia: zaliczka/refundacja
 
 <br>
 
-Wysokość maksymalna grantu wynosi 50 000 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem. Wnioskodawca zobowiązany jest do wniesienia wkłądu własnego - 5% wydatków kwalifikowalnych porjektu objętego granem.
+Wysokość maksymalna grantu wynosi 50 000 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem. Wnioskodawca zobowiązany jest do wniesienia wkładu własnego - 5% wydatków kwalifikowalnych projektu objętego granem.
 
 <br>
 
@@ -289,7 +289,7 @@ Wysokość maksymalna grantu wynosi 50 000 zł i stanowi 95% środków z Europej
 
 Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podziale na:
 
-* koszty bezpośrenie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
+* koszty bezpośrednie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
 * koszty administracyjne - w projektach objętych grantami Grantobiorca może rozliczyć koszty administracyjne związane z obsługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
 
 <br>
@@ -320,7 +320,7 @@ Warunki uzyskania pozytywnej oceny:
 
 <br>
 
-Maksymalna suma puntków możliwych do uzyskania: 64 pkt.
+Maksymalna suma punktów możliwych do uzyskania: 64 pkt.
 
 <br>
 
