@@ -119,7 +119,7 @@ TYPY (wg SZOOP RPO WKP):
 
 * TYP 2a usługi wzajemnościowe, samopomocowe;
 * TYP 2b lider lub animator aktywności lokalnej oraz obywatelskiej;
-* TYP 2c inne rozwiązania w zakresie orgnizowania społeczności lokalnej i animacji społecznej;
+* TYP 2c inne rozwiązania w zakresie organizowania społeczności lokalnej i animacji społecznej;
 * TYP 1c kluby młodzieżowe;
 * TYP 1f i inne z obszaru aktywnej integracji o charakterze środowiskowym.
 
@@ -142,8 +142,8 @@ informuje o możliwości składania wniosków o powierzenie grantu w ramach
 <br>
 
 * Przedsięwzięcie 2.1.1 Dobrze zorganizowana animacja społeczeństwa Chełmna
-* Cel szczegółowy LSR 2.1 Zwiększenie liczby działań z zakresu animacji życia lokalnego społęczeństwa z obszaru LGD
-* Cel ogólny LSR 2 Wsparcie w zakresie organizowania społeczności lokalnej i animacji społecznej oraz poprawa jakości kapitału społęczego do roku 2023 
+* Cel szczegółowy LSR 2.1 Zwiększenie liczby działań z zakresu animacji życia lokalnego społeczeństwa z obszaru LGD
+* Cel ogólny LSR 2 Wsparcie w zakresie organizowania społeczności lokalnej i animacji społecznej oraz poprawa jakości kapitału społecznego do roku 2023 
 
 <br>
 
@@ -203,7 +203,7 @@ Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, 86-200 Chełmno, sala n
 
 <br>
 
-Formularz wniosku o powierzenie grantu i załączniki (wg obowiązujących wzorów wskazanych w Ogłoszeniu o naborze) należy pobrać ze strony www.lgdchelmno.pl - zakładka KONKURSY. W pierwszej kolejności należy wypełnić i wysłać elektronicznie w generatorze wniosków o dofinansowanie. Wersję ostateczną wygenerowaną przez GWD kompletnie wypełnionego formularza wniosku o powierzenie grantu wraz z załącznikami należy wydrukować i podpisać (pieczątka podmiotu oraz pieczątka/i imienna/e osoby/osób upowanionej/ych). Wymaga się zachowania czytelności wszystkich formularzy składanych w odpowiedzi na Ogłoszenie o naborze wniosków.
+Formularz wniosku o powierzenie grantu i załączniki (wg obowiązujących wzorów wskazanych w Ogłoszeniu o naborze) należy pobrać ze strony www.lgdchelmno.pl - zakładka KONKURSY. W pierwszej kolejności należy wypełnić i wysłać elektronicznie w generatorze wniosków o dofinansowanie. Wersję ostateczną wygenerowaną przez GWD kompletnie wypełnionego formularza wniosku o powierzenie grantu wraz z załącznikami należy wydrukować i podpisać (pieczątka podmiotu oraz pieczątka/i imienna/e osoby/osób upoważnionej/ych). Wymaga się zachowania czytelności wszystkich formularzy składanych w odpowiedzi na Ogłoszenie o naborze wniosków.
 
 <br>
 
@@ -266,7 +266,7 @@ TYPY:
 
 * usług wzajemnościowych, samopomocowych;
 * lidera lub animatora aktywności lokalnej oraz obywatelskiej;
-* inne rozwiązania w zakresie organizowania społeczności lokalnej i animacji społecznejl
+* inne rozwiązania w zakresie organizowania społeczności lokalnej i animacji społecznej
 * kluby młodzieżowe;
 * i inne z obszaru aktywnej integracji o charakterze środowiskowym.
 
@@ -274,7 +274,7 @@ TYPY:
 
 **UWAGA!**
 
-1. Wszystkie działania podejmowane w ramach pkt. typu 2 a b i c winny wspierać rozwiązania, które pozwalają na organizowanie i animacje społeczności lokalnej. Tworzenie "zakmiętych działań" skierownych tylko do jednej z grup społęczności lokalnej, nie wpisują się w ww. rozwiązania, ponieważ nie angażują, nie animują ani nie integrują osób zagróżonych wykluczeniem społęcznym ze społecznością mieszkańców. Działania takie powinny włączać osoby zagrożone wykluczeniem społecznym w działania na rzecz mieszkańców, ale także włączać mieszkańców w działania na rzecz osób zagrożonych wykluczeniem społecznym.
+1. Wszystkie działania podejmowane w ramach pkt. typu 2 a b i c winny wspierać rozwiązania, które pozwalają na organizowanie i animacje społeczności lokalnej. Tworzenie "zamkniętych działań" skierowanych tylko do jednej z grup społeczności lokalnej, nie wpisują się w ww. rozwiązania, ponieważ nie angażują, nie animują ani nie integrują osób zagrożonych wykluczeniem społecznym ze społecznością mieszkańców. Działania takie powinny włączać osoby zagrożone wykluczeniem społecznym w działania na rzecz mieszkańców, ale także włączać mieszkańców w działania na rzecz osób zagrożonych wykluczeniem społecznym.
 2. Realizowane projekty w ramach 2 c inne rozwiązania w zakresie organizowania społeczności lokalnej i animacji społecznej nie powinny być skoncentrowane na wsparciu dzieci (tym bardziej, iż grantobiorcy będą zobligowani do realizacji wskaźnika związanego z efektywnością społeczną). Uczestnictwo dzieci w tych projektach powinno być łączone ze wsparciem dorosłych dla zapewnienia kompleksowości wsparcia i realizacji zamierzonych celów. Dzieci mogą być również objęte wsparciem we wszystkich typach (pkt. a, b i c) jako otoczenie.
 
 <br>
@@ -317,7 +317,7 @@ Forma wsparcia: zaliczka/refundacja
 
 <br>
 
-Wysokość maksymalna grantu wynosci 50 000 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem.
+Wysokość maksymalna grantu wynosi 50 000 zł i stanowi 95% środków z Europejskiego Funduszu Społecznego na wydatki kwalifikowalne w projekcie objętym grantem.
 
 <br>
 
@@ -329,14 +329,14 @@ Wnioskodawca zobowiązany jest do wniesienia wkładu własnego - 5% wydatków kw
 
 <br>
 
-Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawione w budżecie w podziale na:
+Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawione w budżecie w podziale na:
 
 1. koszty bezpośrednie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
 2. koszty administracyjne - w projektach objętych grantami Grantobiorca może rozliczyć koszty administracyjne związane z obsługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
 
 <br>
 
-UWAGA: W ramach projektów objętych grantami nie przwiduje się finansowania zakupi środków trwałych i cross-financingu.
+UWAGA: W ramach projektów objętych grantami nie przewiduje się finansowania zakupi środków trwałych i cross-financingu.
 
 <br>
 
@@ -358,7 +358,7 @@ Szczegółowe nazwy kryteriów, uzasadnienie oraz źródło ich weryfikacji okre
 Warunki uzyskania pozytywnej oceny:
 
 1. Uzyskanie odpowiedzi TAK lub NIE DOTYCZY za spełnienie kryteriów zgodności z LSR Grantobiorców.
-2. Uzyskanie minimum wymaganych punktów za spełnienie lokalntych kryteriów byboru;
+2. Uzyskanie minimum wymaganych punktów za spełnienie lokalnych kryteriów wyboru;
 
 <br>
 
@@ -404,7 +404,7 @@ http://www.mojregion.eu/index.php/dowiedz-sie/rlks/pytania-i-odpowiedzi-interpre
 
 <br>
 
-Polecamy również wejść w zakładkę GRANTY na naszej stronie www, gdzie omówione są wszyskie sekcje wniosku do dofinansowanie.
+Polecamy również wejść w zakładkę GRANTY na naszej stronie www, gdzie omówione są wszystkie sekcje wniosku do dofinansowanie.
 
 <br>
 
@@ -420,7 +420,7 @@ Polecamy również wejść w zakładkę GRANTY na naszej stronie www, gdzie omó
 
 <br>
 
-Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt "Wsparcie na rzecz kosztów bieżących i animacji" współfinansowanego w ramach Europejskiego Funduszu Społecznego, w ramach Regionalnego PRogramu Operacyjnego Województwa Kujawsko-Pomorskiego.
+Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt "Wsparcie na rzecz kosztów bieżących i animacji" współfinansowanego w ramach Europejskiego Funduszu Społecznego, w ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego.
 
 * Całkowita wartość projektu: 527 383,83 zł,
 * Całkowita wartość dofinansowania: 501 014,63 zł,
