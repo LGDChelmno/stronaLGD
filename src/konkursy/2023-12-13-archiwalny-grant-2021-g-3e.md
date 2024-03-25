@@ -76,7 +76,7 @@ Numer naboru: 2021/G/3E
 
 <br>
 
-Działania wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społęcznej
+Działania wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej
 
 <br>
 
@@ -94,8 +94,8 @@ informuje o możliwości składania wniosków o powierzenie grantu w ramach
 
 **Zakres tematyczny:**
 
-* Przedsięwzięcie 3.1.1 Wzmocnienie sektora ekonimii społecznej
-* Cel szczegółowy LSR 3.1 Wsparcie inicjatyw w zakresie rozwoju ekonomii społęcznej
+* Przedsięwzięcie 3.1.1 Wzmocnienie sektora ekonomii społecznej
+* Cel szczegółowy LSR 3.1 Wsparcie inicjatyw w zakresie rozwoju ekonomii społecznej
 * Cel ogólny LSR 3 Wsparcie rozwoju gospodarki społecznej i przedsiębiorczości społecznej na obszarze LGD Chełmno do roku 2023
 
 <br>
@@ -130,9 +130,9 @@ Lokalna Grupa Działania Chełmno ogłasza nabór wniosków o powierzenie grant�
 
 ## II. Terminy składania wniosku
 
-* Termin, od któego można skłądać wnioski - 16.11.2021 r.
+* Termin, od którego można składać wnioski - 16.11.2021 r.
 * Termin, do którego można składać wnioski - 30.11.2021 r.
-* Termin roztrzygnięcia naboru - I kawrał 2022 r.
+* Termin rozstrzygnięcia naboru - I kwartał 2022 r.
 
 <br>
 
@@ -178,9 +178,9 @@ O grant mogą się ubiegać:
 
 **Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające poniższe kryteria:**
 
-1. osoby zagrożone ubóstwem lub wykluczeniem społęcznym z obszaru objętego LSR, tj. miasta Chełmno;
+1. osoby zagrożone ubóstwem lub wykluczeniem społecznym z obszaru objętego LSR, tj. miasta Chełmno;
 2. podmioty ekonomii społecznej z obszaru LSR,
-3. jednostki samorządu terytorialnego z obzsaru LSR
+3. jednostki samorządu terytorialnego z obszaru LSR
 
 <br>
 
@@ -188,13 +188,13 @@ O grant mogą się ubiegać:
 
 <br>
 
-Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osgiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami obszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią siędo realizacji następujących celów LSR:
+Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami obszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią się do realizacji następujących celów LSR:
 
-* Cel ogólny LSR 3 - Wsparcie rozwoju gospodarki społecznej i przedsiębiorczości społęcznej na obszarze LGD Chełmno do roku 2023;
+* Cel ogólny LSR 3 - Wsparcie rozwoju gospodarki społecznej i przedsiębiorczości społecznej na obszarze LGD Chełmno do roku 2023;
 * Cel szczegółowy LSR 3.1 - Wsparcie inicjatyw w zakresie rozwoju ekonomii społecznej;
 * Przedsięwzięcie 3.1.1 - Wzmocnienie sektora ekonomii społecznej
 
-TPY: Działania spierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju predsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
+TPY: Działania spierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
 
 <br>
 
@@ -202,7 +202,7 @@ TPY: Działania spierające rozwój gospodarki społecznej i przedsiębiorczośc
 
 <br>
 
-W ramach naboru wnioskó planowane jest osiągnięcie wskaźników rezultatu i produktu zgodnych z założeniami RPO WKP na lata 2014-2020, które ujęte są w Szczegółowym Opisie Osi Priorytetowych oraz wskaźniki produktu i rezultatu ujęte w LSR LGD Chemno oraz projekcie grantowym LGD Chełmno:
+W ramach naboru wniosków planowane jest osiągnięcie wskaźników rezultatu i produktu zgodnych z założeniami RPO WKP na lata 2014-2020, które ujęte są w Szczegółowym Opisie Osi Priorytetowych oraz wskaźniki produktu i rezultatu ujęte w LSR LGD Chełmno oraz projekcie grantowym LGD Chełmno:
 
 1. wskaźnik produktu wg SzOOP:
 
@@ -216,12 +216,12 @@ W ramach naboru wnioskó planowane jest osiągnięcie wskaźników rezultatu i p
 
 3. wskaźniki rezultatu specyficzne dla Projektu Grantowego LGD:
 
-* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym, które podiosły wiedzę w zakresie rozwoju przedsiębiorczości społecznej po opuszczeniu programu;
+* liczba osób zagrożonych ubóstwem lub wykluczeniem społecznym, które podniosły wiedzę w zakresie rozwoju przedsiębiorczości społecznej po opuszczeniu programu;
 * liczba utworzonych partnerstw publicznospołecznych.
 
 <bt>
 
-UWAGA: Wymogi realizayjne dotyczące wskaźników produktu i rezultatu zawarto w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS.
+UWAGA: Wymogi realizacyjne dotyczące wskaźników produktu i rezultatu zawarto w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS.
 
 <br>
 
@@ -254,7 +254,7 @@ Wnioskodawca zobowiązany jest do wniesienia wkładu własnego - 5% wydatków kw
 Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podziale na:
 
 * koszty bezpośrednie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
-* koszty administracyjne - w projektach objętych grantami Grantobiorca może roliczyć koszty administrayjne związane z obługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
+* koszty administracyjne - w projektach objętych grantami Grantobiorca może rozliczyć koszty administracyjne związane z obsługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
 
 <br>
 
@@ -266,7 +266,7 @@ UWAGA: W ramach projektów objętych grantami nie przewiduje się finansowania z
 
 <br>
 
-LGD Chełmno dokona oceny i wyboru projektów w opaciu o Kryteria wyboru projektów, w zakresie:
+LGD Chełmno dokona oceny i wyboru projektów w oparciu o Kryteria wyboru projektów, w zakresie:
 
 1. Kryteriów zgodności z LSR;
 2. Lokalnych kryteriów wyboru Grantobiorców;
@@ -278,9 +278,9 @@ Szczegółowe nazwy kryteriów, uzasadnianie oraz źródło ich weryfikacji okre
 Warunki uzyskania pozytywnej oceny:
 
 1. Uzyskanie odpowiedzi TAK lub NIE DOTYCZNY za spełnienie kryteriów zgodności z LSR Grantobiorców.
-2. Uzyskanie minimum wymaganych puntków za spenienie lokalnych kryteriów wyboru;
+2. Uzyskanie minimum wymaganych punktów za spełnienie lokalnych kryteriów wyboru;
 
-Maksymalna suma punktów możliwyczh do uzyskania: 64 pkt.
+Maksymalna suma punktów możliwych do uzyskania: 64 pkt.
 
 Procedury wyboru i oceny projektów zostały szczegółowo opisane w załączniku nr 12 do ogłoszenia o naborze.
 
