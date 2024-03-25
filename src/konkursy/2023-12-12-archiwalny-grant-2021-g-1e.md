@@ -132,7 +132,7 @@ Wzrost aktywizacji społeczno-zawodowej mieszkańców objętych Lokalnymi Strate
 
 <br>
 
-Włączenie społeczne na obzsarach objętych LSR
+Włączenie społeczne na obszarach objętych LSR
 
 <br>
 
@@ -144,7 +144,7 @@ Włączenie społeczne na obzsarach objętych LSR
 
 <br>
 
-Lokalna Grupa Działania Chełmno ogłasza nabór wnioskó o powierzenie grantów w ramach działania 11.1 Włączenie społeczne na obszarach objętych LSR.
+Lokalna Grupa Działania Chełmno ogłasza nabór wniosków o powierzenie grantów w ramach działania 11.1 Włączenie społeczne na obszarach objętych LSR.
 
 <br>
 
@@ -154,7 +154,7 @@ Lokalna Grupa Działania Chełmno ogłasza nabór wnioskó o powierzenie grantó
 
 * Termin, od którego można składać wnioski - 15.07.2021 r.
 * Termin, od którego można składać wnioski - 13.08.2021 r.
-* Termin rozstrygnięcia naboru - IV kwartał 2021 r.
+* Termin rozstrzygnięcia naboru - IV kwartał 2021 r.
 
 <br>
 
@@ -170,7 +170,7 @@ Lokalna Grupa Działania Chełmno, ul. Dominikańska 35, 86-200 Chełmno, sala n
 
 <br>
 
-Formularz wniosku o powierzenie grantu i załączniki (wg obowiązujących wzorów wskazanych w Ogłoszeniu o naborze) należy pobrać ze strony www.lgdchelmno.pl - zakładka KONKURSY. W pierwszej kolejności należy wypełnić i wysłać elektronicznie w generatorze wnioskó o dofinansowanie. Wersję ostateczną wygenerowaną przez GWD kompletnie wypełnionego formularza w niosku o powierzenie grantu wraz z załącznikami należy wydrukować i podpisać (pieczątka podmiotu oraz pieczątka/i imienna/e osoby/osób upoważnionej/ych). Wymaga się zachowania czytelności wszystkich formularzy składanych w odpowiedzi na Ogłoszenie o naborze wniosków.
+Formularz wniosku o powierzenie grantu i załączniki (wg obowiązujących wzorów wskazanych w Ogłoszeniu o naborze) należy pobrać ze strony www.lgdchelmno.pl - zakładka KONKURSY. W pierwszej kolejności należy wypełnić i wysłać elektronicznie w generatorze wniosków o dofinansowanie. Wersję ostateczną wygenerowaną przez GWD kompletnie wypełnionego formularza wniosku o powierzenie grantu wraz z załącznikami należy wydrukować i podpisać (pieczątka podmiotu oraz pieczątka/i imienna/e osoby/osób upoważnionej/ych). Wymaga się zachowania czytelności wszystkich formularzy składanych w odpowiedzi na Ogłoszenie o naborze wniosków.
 
 <br>
 
@@ -178,21 +178,21 @@ Wygenerowany przez GWD wraz załącznikami należy złożyć najpóźniej do dni
 
 <br>
 
- Podmiot ubiegający się o grant skłąda wniosek:
+ Podmiot ubiegający się o grant składa wniosek:
 
-1. osobiście, przez pełnomocnika lub osobę uprawnioną do reprezentacji ( dostarczyciel otrzyma potwierdzienie wpływu wniosku) - decyduje data wpływu do biura LGD.
+1. osobiście, przez pełnomocnika lub osobę uprawnioną do reprezentacji ( dostarczyciel otrzyma potwierdzenie wpływu wniosku) - decyduje data wpływu do biura LGD.
 
-**Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (porzez generator wniosków), jak i wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).**
+**Wniosek o dofinansowanie projektu należy złożyć zarówno w wersji elektronicznej (poprzez generator wniosków), jak i wersji papierowej (jeden egzemplarz). Obie wersje powinny być tożsame (o tożsamości decyduje suma kontrolna na wersji elektronicznej i papierowej).**
 
 <br>
 
-## V. Kto może złoćyć wniosek?
+## V. Kto może złożyć wniosek?
 
 <br>
 
 O grant mogą się ubiegać:
 
-* wszystkie podmioty z wyłączeniem osób fizycznych (nie dotyczy osó prowadzących działalność gospodarczą lub oświatową na podstawie przepisów odrębnych).
+* wszystkie podmioty z wyłączeniem osób fizycznych (nie dotyczy osób prowadzących działalność gospodarczą lub oświatową na podstawie przepisów odrębnych).
 
 <br>
 
@@ -202,7 +202,7 @@ O grant mogą się ubiegać:
 
 **Grupą docelową, w ramach ogłaszanego naboru muszą być osoby spełniające poniższe kryteria:**
 
-1. osoby zagrożone ubóstwem lub wykluczeniem społęcznym z obszaru objętego LSR, tj. miasta Chełmno;
+1. osoby zagrożone ubóstwem lub wykluczeniem społecznym z obszaru objętego LSR, tj. miasta Chełmno;
 2. podmioty ekonomii społecznej z obszaru LSR,
 3. jednostki samorządu terytorialnego z obszaru LSR
 
@@ -212,7 +212,7 @@ O grant mogą się ubiegać:
 
 <br>
 
-Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osó zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami obszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią siędo realizacji następujących celów LSR:
+Projekty realizowane w ramach niniejszego naboru mają się przyczynić do osiągnięcia celów założonych w Lokalnej Strategii Rozwoju Stowarzyszenia Lokalnej Grupy Działania Chełmno. Przedmiotem naboru wniosków o dofinansowanie są działania na rzecz osób zagrożonych ubóstwem lub wykluczeniem społecznym, będących mieszkańcami obszaru Lokalnej Strategii Rozwoju LGD Chełmno, które przyczynią się do realizacji następujących celów LSR:
 
 <br>
 
@@ -228,7 +228,7 @@ PRZEDSIĘWZIĘCIE 3.1.1 - Wzmocnienie sektora ekonomii społecznej
 
 <br>
 
-TYP: Działania wspierające rozwój gospodarki społęcznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne spierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
+TYP: Działania wspierające rozwój gospodarki społecznej i przedsiębiorczości społecznej, w tym: działania animacyjne, budowa i rozwój lokalnych partnerstw publiczno-społecznych na rzecz tworzenia i rozwoju przedsiębiorstw społecznych i inne spierające rozwój gospodarki społecznej i przedsiębiorczości społecznej.
 
 <br>
 
@@ -245,7 +245,7 @@ W ramach naboru wniosków planowane jest osiągnięcie wskaźników rezultatu i 
 2. wskaźniki produktu specyficzne dla Projektu Grantowego LGD:
 
 * liczba podmiotów ekonomii społecznej objętych wsparciem w programie;
-* liczba jedostek samorządu terytorialnego objętych wsparciem w programie;
+* liczba jednostek samorządu terytorialnego objętych wsparciem w programie;
 * liczba inicjatyw dotyczących rozwoju ekonomii społecznej sfinansowanych ze środków EFS (def. WLWK);
 
 3. wskaźniki rezultatu specyficzne dla Projektu Grantowego LGD:
@@ -280,7 +280,7 @@ Wnioskodawca zobowiązany jest do wniesienia wkładu własnego - 5% wydatków kw
 
 <br>
 
-Koszty projektu objętego grantem winny być zgodne z aktulnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podziale na:
+Koszty projektu objętego grantem winny być zgodne z aktualnymi Wytycznymi w zakresie kwalifikowalności wydatków w ramach Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności na lata 2014-2020. Koszty projektu objętego grantem są przedstawiane w budżecie w podziale na:
 
 1. koszty bezpośrednie - dotyczące realizacji poszczególnych zadań merytorycznych w projekcie objętym grantem;
 2. koszty administracyjne - w projektach objętych grantami Grantobiorca może rozliczyć koszty administracyjne związane z obsługą projektu objętego grantem i jego zarządzaniem do wysokości 20% grantu.
@@ -295,7 +295,7 @@ UWAGA: W ramach projektów objętych grantami nie przewiduje się finansowania z
 
 <br>
 
-LGD Chełmno dokona oceny i wyboru projektów w opariu o Kryteria wyboru projektów w zakresie:
+LGD Chełmno dokona oceny i wyboru projektów w oparciu o Kryteria wyboru projektów w zakresie:
 
 1. Kryteriów zgodności z LSR;
 2. Lokalnych kryteriów wyboru Grantobiorców;
@@ -315,7 +315,7 @@ Maksymalna suma punktów możliwych do uzyskania: 64 pkt.
 
 <br>
 
-Procedury wyboru i oceny projektów zostały szczegółowo opisane w załączniku nr 14 do Ogłozsenia o naborze.
+Procedury wyboru i oceny projektów zostały szczegółowo opisane w załączniku nr 14 do Ogłoszenia o naborze.
 
 <br>
 
@@ -323,7 +323,7 @@ Procedury wyboru i oceny projektów zostały szczegółowo opisane w załącznik
 
 <br>
 
-Szczegółowe zasady dotyczące naboru zawarte śa w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS, stanowiących załącznik nr 1 do Ogłoszenia.
+Szczegółowe zasady dotyczące naboru zawarte są w Zasadach udzielania wsparcia na projekty objęte grantami w ramach EFS, stanowiących załącznik nr 1 do Ogłoszenia.
 
 <br>
 
@@ -349,7 +349,7 @@ W terminie składania wniosków zapewnione zostanie wsparcie doradcze w zakresie
 
 Stowarzyszenie Lokalna Grupa Działania Chełmno realizuje projekt "Wsparcie na rzecz kosztów bieżących i animacji" współfinansowanego w ramach Europejskiego Funduszu Społecznego, w ramach Regionalnego Programu Operacyjnego Województwa Kujawsko-Pomorskiego.
 
-* Całkowita wartoś projektu: 527 383,83 zł,
+* Całkowita wartość projektu: 527 383,83 zł,
 * Całkowita wartość dofinansowania: 501 014,63 zł,
 * Wkład własny: 26 369,20 zł.
 
