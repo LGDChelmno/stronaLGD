@@ -1,0 +1,34 @@
+---
+title: LGD Chełmno - Działaj lokalnie
+layout: 'base.njk'
+pagination:
+    data: collections.dzialaj_lokalnie
+    size: 6
+    alias: dzialaj_lokalnie
+    reverse: true
+---
+<main class="stowarzyszenie">
+
+    <div class="container-stowarzyszenie">
+        <h1>Działaj Lokalnie</h1>
+        <p class="text-justify">
+                        Program „Działaj Lokalnie” powstał w 2000 roku i jest przedsięwzięciem Polsko-Amerykańskiej Fundacji Wolności. Od początku realizuje go Akademia Rozwoju Filantropii w Polsce. Program kierowany jest przede wszystkim do miejscowości liczących do około 20.000 mieszkańców. Głównym trzonem Programu jest coroczny, zdecentralizowany konkurs grantowy realizowany przez sieć Ośrodków Działaj Lokalnie. 
+        </p>
+    </div>
+<br>
+<br>
+
+        <div class="container-aktualnosci">
+            <div class="aktualnosci">
+                <div role="list" class="aktualnosci-container">
+                    
+                        {%- for dzialaj_lokalnie in dzialaj_lokalnie -%}
+                            {% include 'dzialaj_lokalnie-snippet.njk' %}
+                        {%- endfor -%}
+
+                </div>
+                {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="arrow">&leftarrow;</a>{% endif %}
+                {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="arrow">&rightarrow;</a>{% endif %}
+            </div>
+        </div>
+</main>
