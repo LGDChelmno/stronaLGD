@@ -144,5 +144,11 @@ function toggleContrastGreen(){
     document.header.classList.toggle('green-contrast');
 }
 
+function toggleFontUp(){
+    document.body.classList.toggle('font-up');
+    document.header.classList.toggle('font-up');
+}
+
+
 
   
