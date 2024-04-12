@@ -124,6 +124,10 @@ a[href$=".pptx"] {
     content: " (.pttx)"
 }
 
+.text-justify {
+    text-align: justify;
+}
+
 h2 {
     color:#A0170D;
 }
@@ -312,6 +316,9 @@ nav {
     outline: none;
     padding: 1.4rem;
     height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
