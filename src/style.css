@@ -331,7 +331,7 @@ h6 {
     color: #32820a !important;
 }
 
-.yellow-contrast h1, .high-contrast h2, .high-contrast h3, .high-contrast h4, .high-contrast h5, .high-contrast h6 {
+.yellow-contrast h1, .yellow-contrast h2, .yellow-contrast h3, .yellow-contrast h4, .yellow-contrast h5, .yellow-contrast h6 {
     color: black !important;
 }
 
@@ -357,6 +357,81 @@ h6 {
 .yellow-contrast .nav-button {
     background-color: yellow  !important;
     color: black !important;
+}
+
+/*kontrast zielony*/
+.green-contrast {
+    background-color: #000000  !important;
+    color: #008000 !important;
+    background-image: none !important;
+}
+  
+.green-contrast #accessibility-panel button {
+    background-color: #000000  !important;
+    color: #008000 !important;
+}
+  
+.green-contrast #toggle-btn {
+    background-color: #000000  !important;
+    color: #008000 !important;
+}
+  
+.green-contrast body {
+    background-image: none !important;
+}
+
+.green-contrast nav {
+    background-color: #000000  !important;
+    color: #008000 !important;
+}
+  
+.green-contrast nav a {
+    color: #008000!important;
+}
+  
+.green-contrast nav a:hover {
+    color: #32820a !important;
+}
+  
+.green-contrast nav {
+    background-color: #000000  !important;
+    color: #008000 !important;
+}
+  
+.green-contrast nav a {
+    color: #008000 !important;
+}
+  
+.green-contrast nav a:hover {
+    color: #32820a !important;
+}
+
+.green-contrast h1, .green-contrast  h2, .green-contrast  h3, .green-contrast  h4, .green-contrast  h5, .green-contrast  h6 {
+    color: #008000 !important;
+}
+
+.green-contrast h3 a {
+    color: #008000 !important;
+}
+
+.green-contrast .dropdown-content-sto a {
+    background-color: #000000  !important;
+    color: #008000 !important;
+}
+
+.green-contrast .dropbtn {
+    background-color: #000000  !important;
+    color: #008000 !important;
+}
+  
+.green-contrast .dropbtn:hover {
+    background-color: #000000  !important;
+    color: #008000 !important;
+}
+
+.green-contrast .nav-button {
+    background-color: #000000  !important;
+    color: #008000 !important;
 }
 
 
