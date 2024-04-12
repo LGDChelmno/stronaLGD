@@ -124,13 +124,24 @@ function underlineLinks() {
 }
 
 function toggleContrast() {
+    document.body.classList.remove('green-contrast');
+    document.body.classList.remove('yellow-contrast');
     document.body.classList.toggle('high-contrast');
     document.header.classList.toggle('high-contrast');
   }
 
 function toggleContrastYellow(){
+    document.body.classList.remove('high-contrast');
+    document.body.classList.remove('green-contrast');
     document.body.classList.toggle('yellow-contrast');
     document.header.classList.toggle('yellow-contrast');
+}
+
+function toggleContrastGreen(){
+    document.body.classList.remove('high-contrast');
+    document.body.classList.remove('yellow-contrast');
+    document.body.classList.toggle('green-contrast');
+    document.header.classList.toggle('green-contrast');
 }
 
 
