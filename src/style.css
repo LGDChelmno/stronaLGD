@@ -284,6 +284,80 @@ h6 {
     color: #fff !important;
 }
 
+/*kontrast */
+.yellow-contrast {
+    background-color: yellow  !important;
+    color: black !important;
+    background-image: none !important;
+}
+  
+.yellow-contrast #accessibility-panel button {
+    background-color: yellow  !important;
+    color: black !important;
+}
+  
+.yellow-contrast #toggle-btn {
+    background-color: yellow  !important;
+    color: black !important;
+}
+  
+.yellow-contrast body {
+    background-image: none !important;
+}
+
+.yellow-contrast nav {
+    background-color: yellow  !important;
+    color: black !important;
+}
+  
+.yellow-contrast nav a {
+    color: black !important;
+}
+  
+.yellow-contrast nav a:hover {
+    color: #32820a !important;
+}
+  
+.yellow-contrast nav {
+    background-color: yellow  !important;
+    color: black !important;
+}
+  
+.yellow-contrast nav a {
+    color: black !important;
+}
+  
+.yellow-contrast nav a:hover {
+    color: #32820a !important;
+}
+
+.yellow-contrast h1, .high-contrast h2, .high-contrast h3, .high-contrast h4, .high-contrast h5, .high-contrast h6 {
+    color: black !important;
+}
+
+.yellow-contrasth3 a {
+    color: black !important;
+}
+
+.yellow-contrast .dropdown-content-sto a {
+    background-color: yellow  !important;
+    color: black !important;
+}
+
+.yellow-contrast .dropbtn {
+    background-color: yellow  !important;
+    color: black !important;
+}
+  
+.yellow-contrast .dropbtn:hover {
+    background-color: yellow  !important;
+    color: black !important;
+}
+
+.yellow-contrast .nav-button {
+    background-color: yellow  !important;
+    color: black !important;
+}
 
 
 /* opcje dla header */
