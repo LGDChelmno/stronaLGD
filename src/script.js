@@ -128,5 +128,10 @@ function toggleContrast() {
     document.header.classList.toggle('high-contrast');
   }
 
+function toggleContrastYellow(){
+    document.body.classList.toggle('yellow-contrast');
+    document.header.classList.toggle('yellow-contrast');
+}
+
 
   
