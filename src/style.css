@@ -435,6 +435,71 @@ h6 {
 }
 
 
+.font-up #accessibility-panel button {
+    font-size: 105% !important;
+}
+  
+.font-up #toggle-btn {
+    font-size: 105% !important;
+}
+
+.font-up nav {
+    font-size: 105% !important;
+}
+  
+.font-up nav a {
+    font-size: 105% !important;
+}
+  
+.font-up nav a:hover {
+    font-size: 105% !important;
+}
+  
+.font-up nav {
+    font-size: 105% !important;
+}
+  
+.font-up nav a {
+    font-size: 105% !important;
+}
+  
+.font-up nav a:hover {
+    font-size: 105% !important;
+}
+
+.font-up h1, .font-up  h2, .font-up  h3, .font-up  h4, .font-up  h5 {
+    font-size: 265% !important;
+}
+
+.font-up p {
+    font-size: 120% !important;
+}
+
+.font-up h3 a {
+    font-size: 110% !important;
+}
+
+.font-up  h6 {
+    font-size: 90%;
+}
+
+.font-up .dropdown-content-sto a {
+    font-size: 105% !important;
+}
+
+.font-up.dropbtn {
+    font-size: 105% !important;
+}
+  
+.font-up .dropbtn:hover {
+    font-size: 105% !important;
+}
+
+.font-up .nav-button {
+    font-size: 105% !important;
+}
+
+
 /* opcje dla header */
 
 header {
