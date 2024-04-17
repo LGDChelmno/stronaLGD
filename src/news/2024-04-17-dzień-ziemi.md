@@ -6,6 +6,7 @@ description: >-
 date: 2024-04-17T15:15:29.361Z
 tags:
   - news
+  - glowna
 image: /assets/uploads/dzien-ziemi.jpg
 imageAlt: zdjęcie tytułowe
 files:
