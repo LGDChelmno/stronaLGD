@@ -4,9 +4,10 @@ description: >-
   „Wsparcie na rzecz kosztów bieżących i animacji” – edycja II  Stowarzyszenie
   Lokalna Grupa Działania Chełmno od 01.04.2019 r. realizuje projekt „Wsparcie
   na rzecz kosztów [...]
-date: 2019-06-25T11:26:30+02:00
+date: 2019-06-25T09:26:30.000Z
 tags:
   - news
+  - kbia
 image: /assets/uploads/lgd.jpg
 imageAlt: zdjece tytułowe
 ---
