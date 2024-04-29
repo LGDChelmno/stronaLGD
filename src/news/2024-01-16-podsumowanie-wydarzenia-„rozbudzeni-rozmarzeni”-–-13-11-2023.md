@@ -7,6 +7,7 @@ description: >-
 date: 2023-11-28T07:34:10.000Z
 tags:
   - news
+  - kbia
 image: /assets/uploads/podsumowanie-wydarzenia.jpg
 imageAlt: zdjęcie tytułowe
 ---
