@@ -8,6 +8,7 @@ date: 2024-05-07T12:42:06.134Z
 tags:
   - news
   - działania_statutowe
+  - glowna
 image: /assets/uploads/spotkania.jpg
 imageAlt: zdjęcie tytułowe
 files:
