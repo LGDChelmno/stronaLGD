@@ -10,6 +10,10 @@ tags:
   - glowna
 image: /assets/uploads/konkurs.jpg
 imageAlt: zdjęcie tytułowe
+files:
+  - file: /assets/uploads/konkurs_plastyczny.pdf
+    fileName: Regulamin
+    fileType: pdf
 gallery:
   - caption: plakat konkursu
     image: /assets/uploads/441451251_845285320963371_1773500580730643642_n.jpg
