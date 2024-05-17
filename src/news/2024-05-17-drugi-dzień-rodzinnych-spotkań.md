@@ -21,7 +21,5 @@ gallery:
     image: /assets/uploads/442438099_845857890906114_1548855213286343763_n.jpg
   - caption: zdjęcie
     image: /assets/uploads/442476121_845857987572771_7670565794023010099_n.jpg
-  - caption: zdjęcie
-    image: /assets/uploads/442438099_845857890906114_1548855213286343763_n.jpg
 ---
 Fotorelacja z drugiego dnia Rodzinnych Spotkań na Grudziądzka 36. Dziękujemy wszystkim za przybycie!
