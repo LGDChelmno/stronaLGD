@@ -18,6 +18,9 @@ files:
   - file: /assets/uploads/program szkolenia toruń kad 4.06.pdf
     fileName: Program Szkolenia
     fileType: pdf
+  - file: /assets/uploads/sprawozdawczość_info o szkoleniu.pdf
+    fileName: Sprawozdawczość
+    fileType: pdf
 gallery:
   - caption: zdjecie logo
     image: /assets/uploads/444189938_850034257155144_1655202044082829549_n.jpg
