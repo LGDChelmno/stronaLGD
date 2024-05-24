@@ -12,7 +12,7 @@ image: /assets/uploads/piknik.jpg
 imageAlt: zdjęcie tytułowe
 gallery:
   - caption: plakat
-    image: /assets/uploads/443718419_850479213777315_4890320465476870737_n.jpg
+    image: /assets/uploads/442489321_850512933773943_2399145391213245958_n.jpg
 ---
 Do Pikniku Wolności organizowanego razem z Działaj Lokalnie i Stowarzyszenie Grubno - Szkoła Bez Granic coraz bliżej, a nam jest niezmiernie miło poinformować, że partnerami wydarzenia zostali: Urząd Miasta Chełmna, Powiat Chełmiński - Starostwo Powiatowe w Chełmnie, Chełmińska Rada Seniorów, Młodzieżowa Rada Miasta Chełmna i LGD Vistula-Terra Culmensis.
 
