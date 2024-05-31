@@ -41,4 +41,4 @@ W ramach tegorocznego Konkursu przewidywane jest przyznanie dotacji na projekty,
 
 – będą umiejętnie i w sposób przemyślany angażowały zasoby lokalne – naturalne, społeczne, ludzkie i finansowe.
 
-Wnioski o dofinansowanie można składać tylko drogą elektroniczną w generatorze: https://generatorspoleczny.pl  do 30 czerwca 2024.
+Wnioski o dofinansowanie można składać tylko drogą elektroniczną w generatorze: <https://generatorspoleczny.pl>  do 30 czerwca 2024.
