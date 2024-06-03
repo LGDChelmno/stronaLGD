@@ -16,7 +16,7 @@ files:
   - file: /assets/uploads/regulamin odl.2024.pdf
     fileName: Regulamin
     fileType: pdf
-  - file: /assets/uploads/klauzula informacyjna dla programu odl.pdf
+  - file: /assets/uploads/klauzula informacyjna dla programu odl-1.pdf
     fileName: Klauzula informacyjna programu
     fileType: pdf
 gallery:
