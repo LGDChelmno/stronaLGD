@@ -21,7 +21,7 @@ files:
     fileName: 'Nowy regulamin Rady '
     fileType: pdf
   - file: /assets/uploads/regulamin_zarządu.docx.pdf
-    fileName: 'Nowy regulamin Zarządu '
+    fileName: 'Aktualizacja regulaminu Zarządu '
     fileType: pdf
   - file: /assets/uploads/statut_27.6.2024.docx.pdf
     fileName: Aktualizacja statutu
