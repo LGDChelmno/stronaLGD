@@ -20,16 +20,16 @@ files:
   - file: /assets/uploads/nowy_regulamin_rady_chełmno_27.062024.docx.pdf
     fileName: 'Nowy regulamin Rady '
     fileType: pdf
-  - file: /assets/uploads/regulamin_zarządu.docx.pdf
+  - file: /assets/uploads/regulamin_zarządu.pdf
     fileName: 'Aktualizacja regulaminu Zarządu '
     fileType: pdf
-  - file: /assets/uploads/statut_27.6.2024.docx.pdf
+  - file: /assets/uploads/statut_27.6.2024.pdf
     fileName: Aktualizacja statutu
     fileType: pdf
-  - file: /assets/uploads/regulamin walnego zebrania członków_07.06.2016.docx.pdf
-    fileName: Regulamin Walnego Zebrania
+  - file: /assets/uploads/regulamin walnego zebrania członków_07.06.2016.pdf
+    fileName: Aktualizacja regulaminu Walnego Zebrania
     fileType: pdf
-  - file: /assets/uploads/komisja rewizyjna-regulamin_15.06.2016.docx.pdf
+  - file: /assets/uploads/komisja rewizyjna-regulamin_27.06.2024.pdf
     fileName: Aktualizacja regulaminu Komisji Rewizyjnej
     fileType: pdf
   - file: >-
