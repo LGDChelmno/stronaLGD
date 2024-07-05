@@ -3,7 +3,8 @@ title: Nabór członków do Lokalnej Komisji Grantowej „Działaj Lokalnie 2024
 description: >-
   Zapraszamy do składania ofert na członka lokalnej komisji grantowej
   Stowarzyszenia Lokalna Grupa Działania Chełmno - Ośrodku Działaj Lokalnie
-  realizującym lokalny [...]
+  realizującym lokalny konkurs grantowy w ramach programu „Działaj Lokalnie
+  2024”. 
 date: 2024-07-04T10:04:01.502Z
 tags:
   - dzialaj_lokalnie
