@@ -1,7 +1,5 @@
 ---
-title: >-
-  <p class="center">Nabór członków do Lokalnej Komisji Grantowej „Działaj
-  Lokalnie 2024”</p>
+title: Nabór członków do Lokalnej Komisji Grantowej „Działaj Lokalnie 2024”
 description: >-
   Zapraszamy do składania ofert na członka lokalnej komisji grantowej
   Stowarzyszenia Lokalna Grupa Działania Chełmno - Ośrodku Działaj Lokalnie
@@ -24,10 +22,6 @@ files:
     fileName: Regulamin komisja grantowa
     fileType: docx
 ---
-## Zapraszamy do składania ofert na członka lokalnej komisji grantowej Stowarzyszenia Lokalna Grupa Działania Chełmno - Ośrodku Działaj Lokalnie realizującym lokalny konkurs grantowy w ramach programu "Działaj Lokalnie 2024".
-
-<HR>
-
 ## <p class="center">Zarząd Stowarzyszenia Lokalna Grupa Działania Chełmno ogłasza nabór na członków składu do Lokalnej Komisji Grantowej Stowarzyszenia Lokalna Grupa Działania Chełmno – Ośrodku Działaj Lokalnie realizującym lokalny konkurs grantowy w ramach programu „Działaj Lokalnie 2024”</p>
 
 ## <BR>
@@ -70,6 +64,8 @@ w terminie od dnia 05.07.2024 do dnia 15.07.2024, do godz. 15:15. Kandydatury, k
 **Procedura wyboru Członków Komisji**
 
 Na podstawie złożonych dokumentów Zarząd wraz z Koordynatorem Projektu wybierze skład Lokalnej Komisji Grantowej do programu „Działaj Lokalnie 2024”. W trakcie wyboru Komisji brane pod uwagę będzie w szczególności, aby w Komisji zasiadał Członek z każdej z 4 gmin. O decyzji Zarządu, kandydaci zostaną poinformowani telefonicznie. Informacje o naborze można uzyskać pod numerem tel. 501 388 474.
+
+<BR>
 
 Zarząd LGD Chełmno 
 
