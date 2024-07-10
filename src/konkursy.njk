@@ -4,7 +4,7 @@ layout: 'base.njk'
 ---
     <main class="konkursy">
         <div class="container-konkursy">
-            <h1>Granty</h1>
+            <h1>Konkursy</h1>
             <div class="tabs-container">
                 {%- for tabs in collections.tabs | reverse -%}
                 <button class="tab" onclick="showTab('{{ tabs.data.id }}')">{{ tabs.data.title }}</button>
