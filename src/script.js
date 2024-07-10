@@ -149,6 +149,35 @@ function toggleFontUp(){
     document.header.classList.toggle('font-up');
 }
 
+document.addEventListener('DOMContentLoaded', function() {
+    var searchIcon = document.getElementById('searchIcon');
+    var searchContainer = document.querySelector('.search-container');
+    var searchInput = document.getElementById('searchInput');
+    var searchButton = document.getElementById('searchButton');
 
+    searchIcon.addEventListener('click', function() {
+        searchContainer.classList.toggle('active');
+        if (searchContainer.classList.contains('active')) {
+            searchInput.style.display = 'block';
+            searchButton.style.display = 'block';
+        } else {
+            searchInput.style.display = 'none';
+            searchButton.style.display = 'none';
+        }
+    });
+
+    searchButton.addEventListener('click', function() {
+        var searchWord = searchInput.value.toLowerCase();
+        if (searchWord) {
+            var paragraphs = document.querySelectorAll('.lane-1 p, .aktualnosci-container p');
+            paragraphs.forEach(function(paragraph) {
+                var regex = new RegExp(searchWord, 'gi');
+                paragraph.innerHTML = paragraph.textContent.replace(regex, function(match) {
+                    return '<span class="highlight">' + match + '</span>';
+                });
+            });
+        }
+    });
+});
 
   
