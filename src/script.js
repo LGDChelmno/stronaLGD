@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', function() {
     searchButton.addEventListener('click', function() {
         var searchWord = searchInput.value.toLowerCase();
         if (searchWord) {
-            var paragraphs = document.querySelectorAll('.lane-1 p, .aktualnosci-container p');
+            var paragraphs = document.querySelectorAll('p');
             paragraphs.forEach(function(paragraph) {
                 var regex = new RegExp(searchWord, 'gi');
                 paragraph.innerHTML = paragraph.textContent.replace(regex, function(match) {
