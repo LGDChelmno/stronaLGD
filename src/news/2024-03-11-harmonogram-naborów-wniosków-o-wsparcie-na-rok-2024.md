@@ -12,9 +12,7 @@ tags:
 image: /assets/uploads/harmonogran_naboru.jpg
 imageAlt: zdjęcie tytułowe
 files:
-  - file: >-
-      /assets/uploads/harmonogram naborów wniosków o przyznanie
-      pomocy_miejskie.pdf
+  - file: /assets/uploads/brn3c2af46f89aa_020112.pdf
     fileName: Harmonogram
     fileType: pdf
 ---
