@@ -78,8 +78,8 @@ collections:
       - { label: "Treść", name: "body", widget: "markdown" }
       - { label: 'Files', name: 'files', widget: 'list', fields: [
             { label: 'File', name: 'file', widget: 'file', multiple: true, required: false },
-            { label: 'File Type', name: 'fileType', widget: 'select', options: ['pdf', 'docx', 'xlsx'], required: true },
-            { label: 'File Name', name: 'fileName', widget: 'string', required: true }  
+            { label: 'File Type', name: 'fileType', widget: 'select', options: ['pdf', 'docx', 'xlsx'], required: false },
+            { label: 'File Name', name: 'fileName', widget: 'string', required: false }  
         ]
       }
   - name: "dzialania_statutowe"
