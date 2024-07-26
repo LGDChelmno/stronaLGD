@@ -24,10 +24,7 @@ files:
     fileType: pdf
   - file: >-
       /assets/uploads/2024.harmonogramji_planu_komunikacji_z_lokalną_społecznością_18.07.2024.pdf
-    fileName: harmonogram planu komunikacji z lokalną społecznością 18.07.2024
-    fileType: pdf
-  - file: /assets/uploads/pismo_zmiany_plan_komunikacji_harmonogram_na_rok_2024.pdf
-    fileName: Pismo zmiany planu komunikacji harmonogramu na rok 2024
+    fileName: Harmonogram planu komunikacji z lokalną społecznością 18.07.2024
     fileType: pdf
 ---
 # Plan komunikacji
