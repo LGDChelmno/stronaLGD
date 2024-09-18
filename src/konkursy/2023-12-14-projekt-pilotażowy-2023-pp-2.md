@@ -1,5 +1,5 @@
 ---
-title: Projekt pilotażowy 2023/PP/2
+title: Archiwalny Projekt pilotażowy 2023/PP/2
 id: projektpilotazowy2023pp2
 date: 2023-07-03T09:52:21.000Z
 files:
