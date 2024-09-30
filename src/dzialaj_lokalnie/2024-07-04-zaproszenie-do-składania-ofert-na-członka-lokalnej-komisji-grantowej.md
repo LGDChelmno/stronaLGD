@@ -27,6 +27,24 @@ files:
 
 ## <BR>
 
+## 
+
+## Wyniki naboru członków do Lokalnej Komisji Grantowej "Działaj lokalnie 2024":
+
+1. Ewa Wirosławska - sektor publiczny
+
+2. Katarzyna Bajera- sektor publiczny
+
+3. Mariola Epa-Pikuła - sektor społeczny
+
+4. Anna Zawadzka-Gralec - sektor społeczny
+
+5. Andrzej Stawiak - sektor sgospodarczy
+
+<hr>
+
+## 
+
 Lokalna Grupa Działania Chełmno w 2024 roku przystąpiła do programu „Działaj Lokalnie”, przedsięwzięcia Polsko-Amerykańskiej Fundacji Wolności realizowanym przez Akademię Rozwoju Filantropii w Polsce we współpracy z siecią Ośrodków Działaj Lokalnie. Jako Afiliowany Ośrodek Działaj Lokalnie LGD Chełmno obejmuje 4 gminy: Gmina Miasto Chełmno, Gmina Chełmno, Gmina Stolno i Gmina Papowo Biskupie. Program stanowi inicjatywę skierowaną do ww. gmin i ich mieszkańców, mającą na celu rozwój społeczności lokalnej oraz  promocję działań na rzecz dobra wspólnego. W ramach Programu oferowane jest wsparcie finansowe oraz merytoryczne poprzez organizację lokalnych konkursów grantowych dla aktywnych społeczności lokalnych. Dzięki programowi można zrealizować wiele różnorodnych inicjatyw na rzecz społeczności lokalnej.
 
 **Najważniejsze informacje o Programie**
