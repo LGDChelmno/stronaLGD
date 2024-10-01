@@ -6,15 +6,35 @@ layout: 'base.njk'
         <div class="container-lsr-2016">
             <h1>Nasze Działania</h1>
             <div class="tabs-container">
-                <button class="tab" onclick="showTab('rozwoj-lokalny')">Aktywizacja i włączenie społeczne seniorów</button>
-                <button class="tab" onclick="showTab('rozwoj-lokalny')">Wsparcie edukacji dzieci i młodzieży</button>
-                <button class="tab" onclick="showTab('rozwoj-lokalny')">Wspieranie równości szans kobiet i mężczyzn</button>
-                <button class="tab" onclick="showTab('rozwoj-lokalny')">Aktywizacja edukacyjna osób dorosłych</button>
+                <button class="tab" onclick="showTab('aktywizacja_seniorow')">Aktywizacja i włączenie społeczne seniorów</button>
+                <button class="tab" onclick="showTab('wsparcie_edukacji')">Wsparcie edukacji dzieci i młodzieży</button>
+                <button class="tab" onclick="showTab('wsparcie_rownosci')">Wspieranie równości szans kobiet i mężczyzn</button>
+                <button class="tab" onclick="showTab('aktywizacja_edukacyjna')">Aktywizacja edukacyjna osób dorosłych</button>
                 <button class="tab" onclick="showTab('rozwoj-lokalny')">Pilotujemy rozwój lokalny w Chełmnie</button>
                 <button class="tab" onclick="showTab('projekty-grantowe')">Projekty Grantowe</button>
                 <button class="tab" onclick="showTab('projekty-inne')">Projekty Inne</button>
                 <button class="tab" onclick="showTab('dzialania-statutowe')">Działania statutowe</button>
                 <button class="tab" onclick="showTab('kbia')">KBiA</button>
+            </div>
+            <div id="aktywizacja_serniorow" class="tab-content">
+                {%- for aktywizacja_seniorow in collections.aktywizacja_seniorow | reverse -%}
+                    {% include 'rozwoj_lokalny-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+            <div id="wsparcie_edukacji" class="tab-content">
+                {%- for wsparcie_edukacji in collections.wsparcie_edukacji | reverse -%}
+                    {% include 'rozwoj_lokalny-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+            <div id="wsparcie_rownosci" class="tab-content">
+                {%- for wsparcie_rownosci in collections.wsparcie_rownosci | reverse -%}
+                    {% include 'rozwoj_lokalny-snippet.njk' %}
+                {%- endfor -%}
+            </div>
+            <div id="aktywizacja_edukacyjna" class="tab-content">
+                {%- for aktywizacja_edukacyjna in collections.aktywizacja_edukacyjna | reverse -%}
+                    {% include 'rozwoj_lokalny-snippet.njk' %}
+                {%- endfor -%}
             </div>
             <div id="rozwoj-lokalny" class="tab-content">
                 {%- for rozwoj_lokalny in collections.rozwoj_lokalny | reverse -%}
