@@ -16,7 +16,7 @@ layout: 'base.njk'
                 <button class="tab" onclick="showTab('dzialania-statutowe')">Działania statutowe</button>
                 <button class="tab" onclick="showTab('kbia')">KBiA</button>
             </div>
-            <div id="aktywizacja_serniorow" class="tab-content">
+            <div id="aktywizacja_seniorow" class="tab-content">
                 {%- for aktywizacja_seniorow in collections.aktywizacja_seniorow | reverse -%}
                     {% include 'rozwoj_lokalny-snippet.njk' %}
                 {%- endfor -%}
