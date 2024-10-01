@@ -17,6 +17,10 @@ layout: 'base.njk'
                 <button class="tab" onclick="showTab('kbia')">KBiA</button>
             </div>
             <div id="aktywizacja_seniorow" class="tab-content">
+<p>MAMY TO! 09.09.2024 r. podpisaliśmy umowę na projekt "Aktywizacja i włączenie społeczne seniorów",
+a 23.09.2024 w Toruniu nastąpiło uroczyste wręczenie umów współfinansowanych z programu Fundusze Europejskie dla Kujaw i Pomorza na lata 2021-2027.<p>
+
+
                 {%- for aktywizacja_seniorow in collections.aktywizacja_seniorow | reverse -%}
                     {% include 'rozwoj_lokalny-snippet.njk' %}
                 {%- endfor -%}
