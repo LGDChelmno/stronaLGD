@@ -12,9 +12,7 @@ tags:
 image: /assets/uploads/harmonogran_naboru.jpg
 imageAlt: zdjęcie tytułowe
 files:
-  - file: >-
-      /assets/uploads/harmonogram planowanych naborów na rok 2024 - stan na
-      26.08.2024.pdf
+  - file: /assets/uploads/harmonogram naborów wniosków na rok 2024.pdf
     fileName: Harmonogram stan na 26.08.2024
     fileType: pdf
 ---
