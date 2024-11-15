@@ -13,6 +13,8 @@ image: /assets/uploads/szkolenie o naborze.jpg
 imageAlt: >-
   Szkolenie informacyjne o naborze nr 7.4/2024 w ramach projektu "Aktywizacja i
   włączenie społeczne seniorów"
+gallery:
+  - image: /assets/uploads/zrzut ekranu (19).png
 ---
 14.11 odbyło się szkolenie informacyjne o naborze nr 7.4/2024 w ramach projektu "Aktywizacja i włączenie społeczne seniorów". Na szkoleniu zostały omówione szczegółowe informacje dotyczące planowanego naboru, m.in. zostanie przedstawione Regulamin naboru oraz instrukcja składania wniosku o powierzenie grantu poprzez system OMIKRON.
 
