@@ -8,6 +8,7 @@ description: >-
 date: 2024-11-19T08:51:37.888Z
 tags:
   - news
+  - glowna
 image: /assets/uploads/lgd-pod-posty.jpg
 imageAlt: zdjecie tytułowe
 gallery:
