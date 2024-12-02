@@ -9,22 +9,19 @@ tags:
 image: /assets/uploads/przytul łapę.jpg
 imageAlt: Przytul łapę - zwierzętom na przeciw
 gallery:
-  - image: /assets/uploads/przytul łapę - zwierzętom na przeciw.jpg
+  - image: /assets/uploads/21.jpg
+  - image: /assets/uploads/22.jpg
+  - image: /assets/uploads/23.jpg
+  - image: /assets/uploads/24.jpg
+  - image: /assets/uploads/25.jpg
+  - image: /assets/uploads/26.jpg
+  - image: /assets/uploads/27.jpg
+  - image: /assets/uploads/28.jpg
 ---
-To już jutro 🙂 
+Wczoraj, oprócz konferencji podsumowującej RLKS w Toruniu, uczestniczyliśmy w spotkaniu w ramach projektu „Przytul łapę – zwierzętom naprzeciw"! spotkanie z behawiorystą realizowane przez Stowarzyszenie Grubno - Szkoła Bez Granic oraz grupę nieformalną Psyjaciele pod skrzydłami Doroty Pstrąg, działającą przy Zespół Szkół CKZ w Grubnie. Spotkanie odbyło się w ZSO nr 1 w Chełmnie - Strona Oficjalna w Chełmno - miasto zakochanych. 
 
-📢 "Przytul łapę – zwierzętom naprzeciw"! spotkanie z behawiorystą 🐾🐾
+Dziękujemy realizatorom, prelegentom (Piotr Korpal z Toruńskiego Towarzystwa Ochrony Praw Zwierząt) oraz gościom za poruszenie ważnych tematów dotyczących ochrony i praw zwierząt. Dziękujemy wszystkim osobom i instytucjom, które angażują się i wspierają inicjatywy. 
 
-📅 26 listopada (wtorek)
-
-⏰ 17:00
-
-📍 Liceum Ogólnokształcące w Chełmno - miasto zakochanych
-
-Stowarzyszenie Grubno - Szkoła Bez Granic wraz z grupą nieformalną Psyjaciele zaprasza do udziału w spotkaniu z Panem Piotrem Korpalem, behawiorystą z Toruńskiego Towarzystwa Ochrony Praw Zwierząt, który wygłosi wykład pt.: „Szczeniaki i kocięta ze schroniska szukają nowego domu” 🐕🐈
-
-Dowiedz się więcej o adopcji zwierząt i jak możesz pomóc naszym czworonożnym przyjaciołom w znalezieniu kochającego domu. ❤
-
-Działania w projekcie realizowane z programu Działaj Lokalnie, dofinansowane z Polsko-Amerykańskiej Fundacji Wolności realizowanego przez Akademię Rozwoju Filantropii w Polsce.
+Projekt dofinansowany ze środków programu Działaj Lokalnie Polsko-Amerykańskiej Fundacji Wolności realizowanego przez Akademię Rozwoju Filantropii w Polsce oraz Afiliowany Ośrodek Działaj Lokalnie LGD Chełmno
 
 \#działajlokalnie #LGDChełmno
