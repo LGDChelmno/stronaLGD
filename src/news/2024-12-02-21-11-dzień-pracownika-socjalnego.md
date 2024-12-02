@@ -9,7 +9,7 @@ description: >-
 date: 2024-12-02T08:03:35.775Z
 tags:
   - news
-image: /assets/uploads/dzień pracownika socjalnego.jpg
+image: /assets/uploads/dzień pracownika socjalnego2.jpg
 imageAlt: Dzień Pracownika Socjalnego
 gallery:
   - image: /assets/uploads/dzień pracownika socjalnego1.jpg
