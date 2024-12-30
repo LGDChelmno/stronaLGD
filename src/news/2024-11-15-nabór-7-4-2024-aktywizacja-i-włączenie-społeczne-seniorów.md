@@ -9,7 +9,6 @@ date: 2024-11-15T17:30:40.739Z
 tags:
   - news
   - glowna
-  - aktualny
 image: >-
   /assets/uploads/kopia – kopia – kopia – kopia – kopia obrazki wyróżniające na
   stronę.png
