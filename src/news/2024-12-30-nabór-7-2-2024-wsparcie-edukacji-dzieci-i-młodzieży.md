@@ -9,6 +9,7 @@ date: 2024-12-30T09:23:39.122Z
 tags:
   - news
   - glowna
+  - aktualny
 image: /assets/uploads/7.22024.jpg
 imageAlt: '722024'
 ---
