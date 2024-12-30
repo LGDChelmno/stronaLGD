@@ -7,7 +7,9 @@ tags:
 image: /assets/uploads/harmonogran_naboru.jpg
 imageAlt: Harmonogram naborów wniosków o wsparcie na rok 2024
 files:
-  - file: /assets/uploads/harmonogram naborów wniosków o wsparcie na rok 2024.pdf
+  - file: >-
+      /assets/uploads/49. harmonogram naborów wniosków o wsparcie na rok
+      2024.pdf
     fileName: Harmonogram naborów wniosków
     fileType: pdf
 ---
