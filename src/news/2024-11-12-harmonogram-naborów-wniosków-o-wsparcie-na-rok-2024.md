@@ -1,7 +1,7 @@
 ---
 title: Harmonogram naborów wniosków o wsparcie na rok 2025
-description: Harmonogram naborów wniosków o wsparcie na rok 2024
-date: 2025-01-02T08:05:43+01:00
+description: Harmonogram naborów wniosków o wsparcie na rok 2025
+date: 2025-01-02T07:05:43.000Z
 tags:
   - aktualny
   - news
