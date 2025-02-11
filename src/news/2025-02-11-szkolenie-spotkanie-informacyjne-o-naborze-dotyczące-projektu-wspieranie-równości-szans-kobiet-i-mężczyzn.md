@@ -1,6 +1,6 @@
 ---
 title: >-
-  szkolenie (spotkanie informacyjne o naborze) dotyczące projektu "Wspieranie
+  Szkolenie (spotkanie informacyjne o naborze) dotyczące projektu "Wspieranie
   równości szans kobiet i mężczyzn" 
 description: >-
   praszamy na szkolenie (spotkanie informacyjne o naborze) dotyczące projektu
