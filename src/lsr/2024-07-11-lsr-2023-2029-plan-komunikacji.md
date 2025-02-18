@@ -28,5 +28,8 @@ files:
       /assets/uploads/2024.harmonogramji_planu_komunikacji_z_lokalną_społecznością_18.07.2024.pdf
     fileName: 2024r Harmonogram planu komunikacji z lokalną społecznością 18.07.2024r
     fileType: pdf
+  - file: /assets/uploads/harmonogram planu komunikacji na rok 2025.pdf
+    fileName: Harmonogram planu komunikacji z lokalną społecznością na rok 2025
+    fileType: pdf
 ---
 # Plan komunikacji
