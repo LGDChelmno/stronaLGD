@@ -9,7 +9,7 @@ date: 2025-03-05T11:35:12.266Z
 tags:
   - projekt
   - glowna
-  - aktualnosci
+  - news
 image: /assets/uploads/funcacja-krzewienia-turystyki-dofinansowanie.jpg
 imageAlt: zdjęcie tytułowe
 gallery:
