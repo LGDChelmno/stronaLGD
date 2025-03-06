@@ -5,11 +5,11 @@ description: >-
   Samorządu Województwa Kujawsko-Pomorskiego  za pośrednictwem LGD Chełmno grant
   ze środków Funduszy Europejskich  dla Pomorza i Kujaw 2021-2027 w
   wysokości[...]
-date: 2025-03-03T12:11:23+01:00
+date: 2025-03-03T11:11:23.000Z
 tags:
   - projekt
   - glowna
-  - aktualnosci
+  - news
 image: /assets/uploads/fundacja-anny-gralec-informuje.jpg
 imageAlt: zdjęcie tytułowe
 ---
