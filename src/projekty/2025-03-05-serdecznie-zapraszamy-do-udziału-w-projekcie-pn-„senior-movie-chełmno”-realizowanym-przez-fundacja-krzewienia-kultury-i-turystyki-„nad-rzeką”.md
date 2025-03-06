@@ -15,7 +15,7 @@ date: 2025-03-05T12:42:46.210Z
 tags:
   - projekt
   - glowna
-  - aktualnosci
+  - news
 image: /assets/uploads/nad-rzeka-zapraszamy-do-klub-seniora.jpg
 imageAlt: zdjęcie tytułowe
 gallery:
