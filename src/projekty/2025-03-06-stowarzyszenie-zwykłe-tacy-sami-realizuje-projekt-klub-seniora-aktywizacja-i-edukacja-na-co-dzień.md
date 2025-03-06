@@ -9,7 +9,7 @@ date: 2025-03-06T07:05:00.609Z
 tags:
   - projekt
   - glowna
-  - aktualnosci
+  - news
 image: /assets/uploads/tacy-sami-realizuje-pod-post.jpg
 imageAlt: zdjęcie tytułowe
 gallery:
