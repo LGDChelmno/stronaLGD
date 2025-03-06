@@ -7,7 +7,7 @@ date: 2025-03-05T11:29:24.618Z
 tags:
   - projekt
   - aktualnosci
-  - glowna
+  - news
 image: /assets/uploads/dlacz-do-klubu-zloty-wiek.jpg
 imageAlt: zdjęcie tytułowe
 files: []
