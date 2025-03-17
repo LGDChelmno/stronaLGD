@@ -58,7 +58,7 @@ Telefon: 884-002-977,
 
 e-mail: fundacja.nadrzeka@gmail.com,
 
-więcej informacji na: https://fundacjanadrzeka.com/.../chelmno-projekt-pn.../
+więcej informacji na: <https://fundacjanadrzeka.com/.../chelmno-projekt-pn.../>
 
 \*Istnieje możliwość skorzystania z usług dostępowych, takich jak: tłumacz języka migowego, asystent osoby z niepełnosprawnością, dostęp do materiałów szkoleniowych w formie dostępnej.
 
