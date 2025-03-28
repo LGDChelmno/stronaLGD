@@ -9,7 +9,6 @@ date: 2025-02-20T14:07:37.258Z
 tags:
   - news
   - glowna
-  - aktualny
 image: /assets/uploads/480739128_1041876301304271_2820796229734506606_n.jpg
 imageAlt: zdjęcie tytułowe
 ---
