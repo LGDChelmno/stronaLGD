@@ -9,7 +9,7 @@ tags:
 image: /assets/uploads/harmonogran_naboru.jpg
 imageAlt: Harmonogram naborów wniosków o wsparcie na rok 2025
 files:
-  - file: /assets/uploads/harmonogram naborów wniosków 28.032025.pdf
+  - file: /assets/uploads/harmonogram naborów wniosków 2025.pdf
     fileName: Harmonogram naborów wniosków
     fileType: pdf
 ---
