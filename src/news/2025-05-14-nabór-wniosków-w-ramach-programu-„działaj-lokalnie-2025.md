@@ -1,5 +1,5 @@
 ---
-title: Nabór wniosków w ramach programu „Działaj Lokalnie 2025"
+title: AKTUALIZACJA Nabór wniosków w ramach programu „Działaj Lokalnie 2025"
 description: >-
   LGD Chełmno ogłasza nabór wniosków w ramach konkursu „Działaj Lokalnie 2025"
   [...]
@@ -22,6 +22,13 @@ files:
   - file: /assets/uploads/klauzula informacyjna dla programu odl-1.pdf
     fileName: Klauzula informacyjna dla programu
     fileType: pdf
+  - file: >-
+      /assets/uploads/01_regulamin_lokalnego_konkursu_grantowego_dl_2025
+      aktualizacja z dnia 11.06.2025.pdf
+    fileName: >-
+      Regulamin Lokalnego Konkursu Grantowego „Działaj Lokalnie 2025”
+      Aktualizacja z dnia 11.06.2025
+    fileType: pdf
 ---
 LGD Chełmno ogłasza nabór wniosków w ramach konkursu „Działaj Lokalnie 2025".
 
@@ -41,8 +48,6 @@ W ramach tegorocznego Konkursu przewidywane jest przyznanie dotacji na projekty,
 
 – będą umiejętnie i w sposób przemyślany angażowały zasoby lokalne – naturalne, społeczne, ludzkie i finansowe.
 
-Wnioski o dofinansowanie można składać tylko drogą elektroniczną w generatorze: https://generatorspoleczny.pl do 12 czerwca 2025.
-
-
+Wnioski o dofinansowanie można składać tylko drogą elektroniczną w generatorze: <https://generatorspoleczny.pl> do 20 czerwca 2025.
 
 Sfinansowano ze środków programu „Działaj Lokalnie” Polsko-Amerykańskiej Fundacji Wolności realizowanego przez Akademię Rozwoju Filantropii w Polsce oraz Sieć Ośrodków Działaj Lokalnie.
