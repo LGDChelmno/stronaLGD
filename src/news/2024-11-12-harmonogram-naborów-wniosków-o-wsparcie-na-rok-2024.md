@@ -3,7 +3,6 @@ title: Harmonogram naborów wniosków o wsparcie na rok 2025
 description: Harmonogram naborów wniosków o wsparcie na rok 2025
 date: 2025-01-28T22:54:00.000Z
 tags:
-  - aktualny
   - news
   - glowna
 image: /assets/uploads/harmonogran_naboru.jpg
