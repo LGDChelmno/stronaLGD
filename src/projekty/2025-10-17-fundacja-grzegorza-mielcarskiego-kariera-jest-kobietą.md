@@ -172,3 +172,25 @@ Link do zapisów: https://tiny.pl/b7m7stmz
 📧  wyślij e-mail: fundacjagrzegorzamielcarskiego@gmail.com
 
 UDOSTĘPNIJ, by Twoje znajome z Chełmna też zdążyły!
+
+<br>
+
+<hr>
+
+<br>
+
+Kariera jest Kobietą! 
+
+Za nami już trzy warsztaty grupowe, podczas których uczestniczki doskonaliły między innymi kompetencje interpersonalne oraz „ubierały swój sukces” 💪
+
+Dziękujemy za zaangażowanie! 
+
+[Fotorelcja](https://www.facebook.com/permalink.php?story_fbid=pfbid0u52p6jjSuJX71S2mruQtZ4c1GJuchAdq9Hh9m7TpTEJCzykQixq8RRP3hYzhvt8il&id=61579120553740)
+
+<br>
+
+<hr>
+
+<br>
+
+Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
