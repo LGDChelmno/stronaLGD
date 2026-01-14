@@ -85,3 +85,31 @@ Liczba objętych wsparciem klubów seniora, gospodarstw opiekuńczych i Uniwersy
 Liczba osób, których sytuacja społeczna uległa poprawie po opuszczeniu programu 16 os. 
 
 Całkowita wartość projektu wynosi 78 950,13 zł, z tego dofinansowanie z UE wynosi 75 000,00 zł
+
+<br>
+
+<hr>
+
+<br>
+
+Witajcie Kochani!!!
+
+Poniżej fotorelacja z działań klubu seniora ”Drzewo-(od)ziomki”: 
+
+warsztaty plastyczne prowadzone przez  Annę Ziemecką; 
+
+warsztaty krawieckie prowadzone przez Annę Pniewską; 
+
+warsztaty zielarskie prowadzone przez Katarzynę Rymarz; 
+
+warsztaty jogi prowadzone przez Lucynę Dąbrowską.
+
+[Fotorelacja](https://www.facebook.com/FAZG.org/posts/pfbid02S5WC8Gi1HyHn7iRKpkRPTYhhu4TzXxm4zH5JQ7AKP5R7rTujsLXuD1jYEAULqK19l)
+
+<br>
+
+<hr>
+
+<br>
+
+Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
