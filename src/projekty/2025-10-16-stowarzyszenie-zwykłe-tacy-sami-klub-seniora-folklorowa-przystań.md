@@ -202,4 +202,24 @@ Warsztaty Klubu Seniora- Folklorowa Przystań. Warsztaty folklorystyczne,  dzisi
 
 <br>
 
+Warsztaty Klubu Seniora- Folklorowa Przystań. Warsztaty rękodzielnicze.
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid0314ysCyergxNjnFjEReVBa29b4RtvHYbeECa6U5Losi9n1gaZVy2HUnK3fTtoEgFyl&id=100068678645885&__cft__[0]=AZYXM7ktO4AumZC_GOJpjgJeyC3QL-UlVfKZrwiCS7MElLu22WqyNAss1kBuwdN_yiw9F76EtUxflKvRk4zWq8eBbDKgOpHaDNZlUn4g23YJTTNPU7t9EiF1zmEq7Wb2KoFjkBEzu8e5DJb7ggvCA6xx22sv8yyNpRRQgdwAx-fDLA&__tn__=%2CO%2CP-R)
+
+<br>
+
+<hr>
+
+<br>
+
+Warsztaty Klubu Seniora- Folklorowa Przystań. Warsztaty rękodzielnicze.
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid0KgdkYzm9R7spCwKXd7aV2Sp2xhGsw2eKf4UyAvg7vCEPVKzE41MrS44ywZLJH3W8l&id=100068678645885)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
