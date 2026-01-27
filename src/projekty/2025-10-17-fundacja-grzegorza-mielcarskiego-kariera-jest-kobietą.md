@@ -193,4 +193,22 @@ Dziękujemy za zaangażowanie!
 
 <br>
 
+W naszym projekcie rozpoczęliśmy cykl warsztatów grupowych i spotkań indywidualnych z obszaru doradztwa zawodowego i planowania kariery z Hanną Grochowską.
+
+To tutaj uczymy się, jak skutecznie poruszać się po rynku pracy i rynku usług rozwojowych, dzielimy się doświadczeniami związanymi z rozwojem kariery i momentami zwrotu oraz wspólnie budujemy wewnętrzną siłę – opartą zarówno na własnych przeżyciach, jak i historiach innych kobiet.
+
+To czas, w którym wymieniamy się wskazówkami, jak zmienić pracę, zdobyć awans, otworzyć i rozwinąć własny biznes i odkrywać nowe kierunki rozwoju, a ponadto poznajemy narzędzia wspierające naszą zawodową drogę 🧭.
+
+Dziękuję wszystkim niesamowitym uczestniczkom za ogromną otwartość i gotowość do dzielenia się swoimi historiami 💖.
+
+Dziękuję naszym gościom specjalnym - wspaniałym kobietom z firmy BART za inspirujące spotkanie i cenne informacje o Waszej firmie, kulturze organizacyjnej, benefitach i możliwościach zatrudnienia.
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid02sGk11jJ8JzH67iyeXjp4ypyLdBrpFAAZreJmqfqhKqqXhgDJqNvYmK7xLKafU7pgl&id=61579120553740)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
