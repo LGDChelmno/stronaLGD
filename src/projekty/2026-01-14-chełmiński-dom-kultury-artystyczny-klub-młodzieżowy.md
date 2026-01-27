@@ -113,4 +113,28 @@ Do zobaczenia na kolejnych zajęciach AKM! ✨💃🕺
 
 <br>
 
+Międzypokoleniowa sesja zdjęciowa w Artystycznym Klubie Młodzieżowym - czyli młodość i doświadczenie, a Bartek Marchlewski łapie najlepsze momenty 📸😄
+
+Zajrzyjcie z nami za kulisy!
+
+[Fotorelacja](https://www.facebook.com/chelminskidomkultury/posts/pfbid02nhud9VhkrW6EUoxRZC3JuavjoLmNs2JzeS4i6r4Md29YERPf5mW52oF4DBAVZjyil)
+
+<br>
+
+<hr>
+
+<br>
+
+Ciszej, wolniej, ale z uśmiecham 🤍
+
+Krótki układ w wykonaniu uczestników Artystycznego Klubu Młodzieżowego. 
+
+[Fotorelacja](https://www.facebook.com/reel/750927854723944/)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
