@@ -1,12 +1,14 @@
 ---
 title: Chełmiński Dom Kultury Klub Seniora "Złoty Krąg"
-description: 'Strona w trakcie pracy[...]'
+description: "\U0001F4E2 Rekrutacja do Klubu Seniora \"Złoty Krąg\"! \U0001F4E2  Zapraszamy seniorów 60+ z Chełmna do udziału w projekcie aktywizującym! \U0001F3AD\U0001F483\U0001F3A8  Dołącz do Klubu Seniora \"Złoty Krąg\" i weź udział w różnorodnych, bezpłatnych zajęciach:  ✅ Warsztaty kreatywne (decoupage, biżuteria polimerowa, ozdobne talerze z gliny, perfumeryjne i inne)  ✅ Zajęcia ruchowe: „Zdrowy kręgosłup”  ✅ Wyjazdy do Opery Nova i Geotermii Grudziądz  ✅ Międzypokoleniowe warsztaty taneczne \U0001F483\U0001F57A  ✅ Muzykoterapia \U0001F3B6  \U0001F4C5 Zapisy prowadzimy w dniach 1-15 paździrnika 2025 r.!  \U0001F4CD Liczba miejsc ograniczona, więc nie zwlekaj!  \U0001F49B Dołącz do nas i przeżyj niezapomniane chwile w gronie aktywnych seniorów![...]"
 date: 2025-10-17T07:43:08.246Z
 tags:
   - projekt
 image: /assets/uploads/chelminski-dom-kultury-klub-seniora-zloty-karg.jpg
 imageAlt: zdjęcie tytułowe
 ---
+![zdjęcie grupowe uczestników klubu seniora](/assets/uploads/zdjecie_grupowe_zloty_krag.jpg)
+
 📢 Rekrutacja do Klubu Seniora "Złoty Krąg"! 📢
 
 Zapraszamy seniorów 60+ z Chełmna do udziału w projekcie aktywizującym! 🎭💃🎨
