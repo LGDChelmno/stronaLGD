@@ -10,6 +10,9 @@ tags:
   - projekt
 image: /assets/uploads/chelminskie-stowarzyszenie-oswiatowe-sigma-chelmno.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe uczestników
+    image: /assets/uploads/klub_sigma_oswiatowe.jpg
 ---
 ✨ Zapraszamy do Klubu młodzieżowego Sigma Chełmno ✨
 
