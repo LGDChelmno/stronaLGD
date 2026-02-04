@@ -8,6 +8,9 @@ tags:
   - projekt
 image: /assets/uploads/bydgoski-zaklad-doskonalenia-zawodowego-moc-mlodzi.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe uczestników
+    image: /assets/uploads/bzdz_zdjecie_grupowe.jpg
 ---
 Bydgoski Zakład Doskonalenia Zawodowego Stowarzyszenie Oświatowo-Techniczne otrzymał dofinansowanie ze środków UE na projekt pod nazwą „MOC: Młodzi, Odważni, Ciekawi”. Projekt realizowany w okresie 01.09.2025 – 30.06.2026 na terenie LGD Chełmno. Skierowany jest do dzieci i młodzież uczącej się w wieku od 14 do 24 lat z obszaru objętego Lokalną Strategią Rozwoju na lata 2023-2029 dla obszaru Lokalnej Grupy Działania Chełmno.
 
