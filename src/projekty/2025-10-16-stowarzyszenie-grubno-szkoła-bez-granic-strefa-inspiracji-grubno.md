@@ -54,29 +54,7 @@ Dziękujemy wszystkim uczestnikom za obecność, energię i otwartość. To dopi
 
 [Fotorelacja](https://www.facebook.com/GrubnoBezGranic/posts/pfbid0Hn78ku6WdgR8ZdmWML7W2baTF77TbTn66HqGmeZQRsFEoMJ3yRCzsrZbLrCetBtml)
 
-<br>
 
-<hr>
-
-<br>
-
-🎭 Wyjazd młodzieży do Opery 
-
-30 listopada młodzież z Klubu Młodzieżowego uczestniczyła w spektaklu baletowym „Dziadek do Orzechów” w Operze Nova w Bydgoszczy. To klasyczne dzieło Piotra Czajkowskiego wprowadziło wszystkich w świąteczny nastrój i było niezapomnianym spotkaniem ze sztuką na najwyższym poziomie.
-
-[Fotorelacja](https://www.facebook.com/GrubnoBezGranic/posts/pfbid0Cfi9prkB37QsFkE9qJ95ApxeJQqAdQzkzRYQMnfBrVrQGce1pfphwBvBUnMCCmL9l?__cft__[0]=AZas0cXcuQ7Q6oaT6kuUSP_2IE9dZPAxdSjrpcF8sPSZpgg_1nnxH04xd4V1xJyFIomymWl7WJPVo0f2jIbtLbHkGY6Xg_gyzcNzbLRB-HDIWOqrl5cG8J0WCa68afE-5ivnabpihse-_SnzqgA7u_cs1idTa5Ss47OafLZUupsCfA&__tn__=%2CO%2CP-R)
-
-<br>
-
-<hr>
-
-<br>
-
-🤖✨ Robotyka i programowanie w Klubie Młodzieżowym! ✨🤖
-
-Na ostatnich zajęciach młodzież pracowała z zestawami Arduino, ucząc się podstaw programowania i tworzenia własnych projektów elektronicznych. 🔌💡 To świetna okazja, by rozwijać kreatywność, logiczne myślenie i odkrywać świat nowoczesnych technologii!
-
-[Fotorelacja](https://www.facebook.com/GrubnoBezGranic/posts/pfbid071eFt3XCDMHCq3wQgrAvLfp3CmXUZUUKZViYdzNfk9sFRMopUbi4hXjkWULTvjuXl?__cft__[0]=AZYq_bGDT7l96rrYDgCaDMtw3y9aQt-VyLLaY9WJtqJ4pAkmjPU78XRVZeeSlCJKDXkpQGnqWT46WPs-aGLc0izQTQHkUx36ogh5vpr8YW0Lx72AAfHVLlPEYxecLl_xctfEgckM4CaS14LLYTTSGxzlkfgKahVmFKP4-kgxf4TlMw&__tn__=%2CO%2CP-R)
 
 <br>
 
