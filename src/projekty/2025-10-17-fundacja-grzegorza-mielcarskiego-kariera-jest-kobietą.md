@@ -10,6 +10,9 @@ tags:
   - projekt
 image: /assets/uploads/fundacja-grzegorza-mielcarskiego-kariera-jest-kobieta.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe uczestników projektu
+    image: /assets/uploads/kariera_jest_kobieta_zdjecie_grupowe.jpg
 ---
 REKRUTACJA DO NOWEGO PROJEKTU!
 
