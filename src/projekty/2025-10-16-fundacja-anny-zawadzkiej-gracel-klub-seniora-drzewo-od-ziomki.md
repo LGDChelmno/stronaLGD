@@ -9,6 +9,9 @@ tags:
   - projekt
 image: /assets/uploads/fundacja-anny-zawadzkiej-gracel-klub-seniora-drzewo.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe uczestników klubu
+    image: /assets/uploads/zdjęcie_grupowe_fundacja_anny_zawadzkiej_gralec.jpg
 ---
 Fundacja Anny Zawadzkiej-Gralec uprzejmie informuje, że otrzymała od  LGD Chełmno przy wsparciu Samorządu Województwa Kujawsko- Pomorskiego  grant ze środków Funduszy Europejskich dla Pomorza i Kujaw 2021-2027 w wysokości 75 000,00 zł na realizację projektu 7.4/2025/09/KS -  Klub seniora – „Drzewo – (od)ziomki” oraz ogłasza nabór do projektu.
 
