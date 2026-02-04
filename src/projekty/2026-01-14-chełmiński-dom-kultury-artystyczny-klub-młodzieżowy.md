@@ -6,6 +6,9 @@ tags:
   - projekt
 image: /assets/uploads/chdk-artystyczny-klub.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe
+    image: /assets/uploads/artystyczny_klub_chdk.jpg
 ---
 📢 Rekrutacja do Artystycznego Klubu Młodzieżowego! 📢
 
