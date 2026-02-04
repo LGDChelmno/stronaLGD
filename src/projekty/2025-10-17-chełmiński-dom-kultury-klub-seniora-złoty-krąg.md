@@ -6,9 +6,10 @@ tags:
   - projekt
 image: /assets/uploads/chelminski-dom-kultury-klub-seniora-zloty-karg.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe urzestników klubu seniora
+    image: /assets/uploads/zdjecie_grupowe_zloty_krag.jpg
 ---
-![zdjęcie grupowe uczestników klubu seniora](/assets/uploads/zdjecie_grupowe_zloty_krag.jpg)
-
 📢 Rekrutacja do Klubu Seniora "Złoty Krąg"! 📢
 
 Zapraszamy seniorów 60+ z Chełmna do udziału w projekcie aktywizującym! 🎭💃🎨
