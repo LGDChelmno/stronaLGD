@@ -12,6 +12,9 @@ tags:
   - projekt
 image: /assets/uploads/stowarzyszenie-grubno-szkola-bez-granic-kreatywni-plus.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe uczestników klubu
+    image: /assets/uploads/zdjecie_klub_seniora_grubno.jpg
 ---
 Projekt Klub Seniora "Kreatywni i Aktywni Plus” umowa nr 7.4/2025/06/KS realizowany jest przez Stowarzyszenie Grubno – Szkoła bez Granic w ramach LSR na lata 2023-2029 dla obszaru działania Lokalnej Grupy Działania Chełmno, w ramach Programu Fundusze Europejskie dla Kujaw i Pomorza na lata 2021-2027, Priorytet FEKP.07 FUNDUSZE EUROPEJSKIE NA ROZWÓJ LOKALNY, FEKP.07.04 Wspieranie integracji społecznej. Beneficjent projektu grantowego "Aktywizacja i włączenie społeczne seniorów” Stowarzyszenie Lokalna Grupa Działania Chełmno przy wsparciu Samorządu Województwa Kujawsko- Pomorskiego.
 
