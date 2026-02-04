@@ -8,6 +8,9 @@ tags:
   - projekt
 image: /assets/uploads/creative_crew_informatyczny_klub_seniora.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe uczestników klubu
+    image: /assets/uploads/informatyczny_klub_seniora_chełmno_grupowe.jpg
 ---
 Już od stycznia ruszają zajęcia nowego Klubu Seniora w Chełmnie. Zajęcia raz w tygodniu, w programie zajęcia terapeutyczne, kulturalne, podstawy obsługi komputera, nowoczesne ćwiczenia poprawiające pamięć, wycieczki do opery, filharmonii i teatru (do Bydgoszczy). 
 
