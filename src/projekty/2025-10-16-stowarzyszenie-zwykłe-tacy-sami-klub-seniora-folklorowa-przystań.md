@@ -9,6 +9,9 @@ tags:
   - projekt
 image: /assets/uploads/stowarzyszenie-zwykle-tacy-sami-folklorowa-przystan.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: 'zdjęcie grupowe urzestnikó klubu '
+    image: /assets/uploads/stowrzyszenie_tacy_sami_zdjecie_grupowe.jpg
 ---
 RUSZAMY z nowym projektem - zapraszamy do rekrutacji! 
 
