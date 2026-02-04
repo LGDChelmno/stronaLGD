@@ -6,6 +6,9 @@ tags:
   - projekt
 image: /assets/uploads/fundacja-progress-siegaj-po-wiecej.jpg
 imageAlt: zdjęcie tytułowe
+gallery:
+  - caption: zdjęcie grupowe uczestników
+    image: /assets/uploads/fundacja_progress_zdjecie_grupowe.jpg
 ---
 Fundacja Progress otrzymała grant od LGD Chełmno 🎉 Dzięki temu możemy zrealizować nowy projekt, który będzie służył rozwojowi i integracji naszej lokalnej społeczności. To dla nas ważny krok i ogromna motywacja do dalszych działań. Dziękujemy za wsparcie i zaufanie! 💙 
 
