@@ -54,7 +54,23 @@ Dziękujemy wszystkim uczestnikom za obecność, energię i otwartość. To dopi
 
 [Fotorelacja](https://www.facebook.com/GrubnoBezGranic/posts/pfbid0Hn78ku6WdgR8ZdmWML7W2baTF77TbTn66HqGmeZQRsFEoMJ3yRCzsrZbLrCetBtml)
 
+<br>
 
+<hr>
+
+<br>
+
+Smaki Ziemi Chełmińskiej🍎
+
+Klub Młodzieżowy rządził w kuchni! Klasyka naszego regionu zyskała zupełnie nowy wymiar. Na warsztat trafiły:
+
+🍲 Zupa klopsowa – aromatyczna, konkretna i po prostu idealna.
+
+🍰 Jabłecznik w nowym wydaniu – klasyczne jabłka w nowoczesnej formie.
+
+Było pysznie, kreatywnie i z lokalnym smakiem😋
+
+[Fotorelacja](https://www.facebook.com/GrubnoBezGranic/posts/pfbid02daFHp2PjDMKztkTo291prcbyiyPTVSR3nva76i5Cm7BrDoCy1hD1aPwRu9hZbuYzl)
 
 <br>
 
