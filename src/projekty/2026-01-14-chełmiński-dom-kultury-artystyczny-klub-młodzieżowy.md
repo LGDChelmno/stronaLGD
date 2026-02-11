@@ -140,4 +140,14 @@ Krótki układ w wykonaniu uczestników Artystycznego Klubu Młodzieżowego.
 
 <br>
 
+🤸‍♀️🧘‍♂️ Zajęcia gimnastyki artystycznej w Artystycznym Klubie Młodzieżowym już w walentynkowym klimacie ❤️😍
+
+[Fotorelacja](https://www.facebook.com/chelminskidomkultury/posts/pfbid02iroNn9aCzAYYLHsgKPiRURTtJi7ZVK1kKYY5A1vYKEozvcyDu7tJJN3WAm9HricWl)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
