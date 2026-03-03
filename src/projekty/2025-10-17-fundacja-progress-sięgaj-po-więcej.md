@@ -270,4 +270,20 @@ Dziękujemy wszystkim uczestniczkom za zaangażowanie, otwartość i wspólnie s
 
 <br>
 
+W minioną sobotę rozpoczęliśmy cykl szkoleń z negocjacji w ramach projektu „Sięgaj po więcej” 💬✨
+
+To było spotkanie wprowadzające – solidna dawka teorii, na której zbudowaliśmy fundament.
+
+A już w tę sobotę wchodzimy poziom wyżej 🚀
+
+Przed nami praktyka – konkretne techniki negocjacyjne, ćwiczenia i praca na realnych sytuacjach. 
+
+Szkolenie prowadzi dr Piotr Chrzczonowicz – radca prawny i doktor nauk prawnych, doświadczony praktyk specjalizujący się w prawie karnym i postępowaniach dyscyplinarnych, na co dzień związany z kancelarią Conseil Rudziński Słupczewski.
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
