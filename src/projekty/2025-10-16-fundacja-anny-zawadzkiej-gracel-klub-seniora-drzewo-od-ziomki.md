@@ -131,4 +131,20 @@ Dziękujemy wszystkim uczestnikom za obecność, otwartość i zaangażowanie. T
 
 <br>
 
+Witajcie kochani,
+
+Poniżej fotorelacja z działań klubu seniora ”Drzewo-(od)ziomki”:
+
+\- warsztaty kulinarne – seniorzy w krainie czekolady- prowadzone przez Andrzeja Wojciechowskiego
+
+\- warsztaty jogi prowadzone przez Lucynę Dąbrowską.
+
+[Fotorelacja](https://www.facebook.com/FAZG.org/posts/pfbid0AP3hZfgSoNdKMbdyjPGVmBSkPev8rShAPw6KJuvdodMvLBhP2VRPPsi8sYWTL8Upl?__cft__[0]=AZZIbXwGkMhqZdcvEpsFtXG_1Buq7JeEHt0yQZ_MdqyrNvpRN9e10Ab6VQeioZ2tbeR9etSNiQRfxufRxCqfMmeKa62-AV6uDGVoWrTGvDUD7tNsNs33HPHxbELWuAN_jjq4x-AAlcPb1OuhMfKC7HqpP1cKwk3XrM4q_12JeEItLg4T78QoKtcLvRF5Bm_y8HtFhPXmrjNdLedOQoa1YIZ-&__tn__=%2CO%2CP-R)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
