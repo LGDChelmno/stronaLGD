@@ -428,4 +428,20 @@ Uczestnicy warsztatów odnaleźli swoich przodków nie tylko na terenie gdzie ob
 
 <br>
 
+26 lutego odbyły się uroczyste obchody 10-lecia LGD 🎉✨ 
+
+To wyjątkowe wydarzenie było okazją do podsumowania dotychczasowych działań oraz wspólnego świętowania sukcesów minionej dekady 🏆🤝
+
+Nasza grupa „MOC” zaprezentowała przepiękny występ artystyczny 💛🎭, który w niezwykle poruszający sposób ukazał przeszłość, teraźniejszość oraz przyszłość działań LGD ⏳➡️🌟 Poprzez fraszki, wiersze oraz wyjątkowe momenty muzyczne 🎶🎤 Przedstawiliśmy historię rozwoju, zaangażowanie społeczności oraz wizję dalszych działań.
+
+Był to występ pełen emocji, refleksji i dumy 🥹❤️, który spotkał się z bardzo ciepłym odbiorem publiczności 👏🌸
+
+[Fotorelacja](https://www.facebook.com/klubmlodziezowymoc/posts/pfbid023TvWFiPymPfeYXhUebAqYf17yAXMAFDSe5nPEma614Yp9JAofPzKiVr2pWt24bEl?__cft__[0]=AZY3DDu_I4CHizrJSf-9wUVSCpGfwxj6nNeed_P5ErHS1a6n7k6NNwo4SGPIjnmPb-UAuXGezirQ4Gq7gpo4LmRCKwQuKhOL5175aK1yyKAfPcfRW0mRVX6ocv_BKMbgsm5KWacPj9WbeLbZqRXBYlg8BI5_A9nC9ZtT74MHFEA7z59F_QnOr1MROMoS275QQgDicBckI9MgB6TQVGoXRLQh&__tn__=%2CO%2CP-R)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
