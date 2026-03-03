@@ -214,4 +214,30 @@ Dziękuję naszym gościom specjalnym - wspaniałym kobietom z firmy BART za ins
 
 <br>
 
+💜 KARIERA JEST KOBIETĄ! 💜
+
+Ten weekend to kolejne inspirujące spotkanie naszej Fundacji z uczestniczkami projektu „Kariera jest kobietą!”.
+
+W tym projekcie spotkania indywidualne oraz warsztaty grupowe z obszaru doradztwa kariery prowadzi Hanna Grochowska. Na zajęciach Hanna dzieli się doświadczeniami z zakresu dobrych praktyk wspierających równość szans kobiet i mężczyzn na rynku pracy oraz wdrożonymi inicjatywami, które realnie wspierają rozwój zawodowy kobiet.
+
+Podczas dzisiejszych warsztatów rozmawiałyśmy o nowoczesnych i zgodnych z aktualnymi przepisami procesach rekrutacyjnych oraz metodach skutecznego poszukiwania pracy. Szczególną uwagę poświęciłyśmy wykorzystaniu AI w rekrutacji i metodach rekrutacji opartych na obiektywnych i profesjonalnych narzędziach, takich jak:
+
+✔️ gry rekrutacyjne,
+
+✔️ testy osobowości i kompetencji zawodowych,
+
+które pozwalają na rzetelną ocenę potencjału kandydatek i kandydatów oraz ograniczają ryzyko uprzedzeń i nierównego traktowania.
+
+Rozmawiałyśmy również o atutach kobiet na rynku pracy oraz o dobrych praktykach zatrudniania kobiet w firmach. Analizowałyśmy, jak nowe unijne regulacje przekładają się na realne działania w organizacjach – od większej przejrzystości płac, przez równe traktowanie w rekrutacji, po świadome budowanie ścieżek kariery.
+
+✊ Wierzę, że siła wiedzy i świadomość własnych praw to nasza tarcza i napęd w rozwoju kariery.
+
+Działamy dalej — razem, świadomie i z mocą! 💪💜
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
