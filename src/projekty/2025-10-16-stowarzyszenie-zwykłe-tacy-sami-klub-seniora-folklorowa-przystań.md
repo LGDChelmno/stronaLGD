@@ -235,4 +235,24 @@ Warsztaty  Klubu Seniora- Folklorowa Przystań. Właśnie zaczęły się nowe za
 
 <br>
 
+[Klub Seniora-Folklorowa Przystań. ](https://www.facebook.com/permalink.php?story_fbid=pfbid033RdWwZmMp6RbuSnWf2kK7fTY7SfC4TiWnwYGANaNy3YSxSk8a4LthAoP9PMXUFkul&id=100068678645885)
+
+<br>
+
+<hr>
+
+<br>
+
+Warsztaty Klubu Seniora- Folklorowa Przystań. Właśnie zaczęły się nowe zajęcia Warsztaty arteterapii.
+
+Praca nad graficznym opracowaniu legend o Chełmnie napisanych przez dzieci przebiega w całkowitym skupieniu.
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid02Nc9w3N9eYXsA6cnhXaYaQJEZkWKUsaatJTZc2Pwh4cVu6BPUad8jYXdZLUUUvTJAl&id=100068678645885&__cft__[0]=AZaw0m58CcuTXrB512gTmaFurLSr6xsIfzkTmwUVcCk1MXpyxIC7vWH7J5WJjYEfKsqemB_YuAOSHNAZoHTcjtfDH8qbV9PjjOVAgyZAkj_x6TIan1jDN07vAk4zdB5T9KlX2L-qifRTM-ZwKf3VlXEKjrkEhUkBRufrr2uSnJrRwA&__tn__=%2CO%2CP-R)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
