@@ -240,4 +240,44 @@ Działamy dalej — razem, świadomie i z mocą! 💪💜
 
 <br>
 
+Kariera jest kobietą – a jej siłą jest wiedza, relacje i wzajemne wsparcie
+
+W ramach projektu „Kariera jest kobietą” odbyły się szkolenia, które poprowadziła Dorota Stosik – Ekspertka w zakesie marketingu strategicznego  i komunikacji.
+
+Podczas spotkań uczestniczki pracowały nad tematami związanymi z budowaniem własnej marki w świecie biznesu.
+
+Rozmawiałyśmy m.in. o:
+
+\- roli liderki w nowoczesnym świecie biznesu
+
+\- budowaniu zespołów i odpowiedzialnym przywództwie
+
+\- kobiecych kompetencjach w zarządzaniu i podejmowaniu decyzji
+
+\-budowaniu marki osobistej i widoczności w biznesie
+
+\-wykorzystaniu social mediów do rozwoju kariery i relacji biznesowych
+
+Ważną częścią spotkań były także konkretne narzędzia i inspiracje do działania.
+
+To spotkanie było  o:
+
+👉 sile kobiet i ich kompetencjach
+
+👉 świadomym przywództwie
+
+👉 odwadze do budowania własnej drogi zawodowej
+
+👉 wspieraniu się i dzieleniu doświadczeniem
+
+Bo kiedy kobiety dzielą się wiedzą i doświadczeniem – rośnie nie tylko ich pewność siebie, ale także realny wpływ na biznes i otoczenie.
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid02dzjEhmbg7JbickXrSZu4ebc3ktMCiuFFTNPy2ZK8mc9mW1UM8wV6RU3sHx7K2jcel&id=61579120553740)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
