@@ -80,4 +80,18 @@ Przed nami kilka miesięcy wspólnej zabawy, nauki i rozwoju – chwilo trwaj!
 
 <br>
 
+Za nami wyjątkowe warsztaty „Eliksir Miłości z Miasta Zakochanych” – i powiemy jedno: magia naprawdę działa.
+
+Wspólnie z Pudrove Natural Cosmetics stworzyliśmy nie tylko piękne, naturalne perfumy w roll-onie, ale też coś dużo cenniejszego – dobry nastrój, uśmiechy i chwilę czystej przyjemności. Było kreatywnie, pachnąco i bardzo… sercowo.
+
+Dziękujemy wszystkim uczestnikom za obecność – Wasza energia była najlepszym składnikiem każdego eliksiru!
+
+[Fotorelacja](https://www.facebook.com/FundacjaNadRzeka/posts/pfbid02iL8t1bxGyA9RSVWQjYAprTog6KsdeG2jdoc3FUi5v1Uvh795vRruew5h48pQLFpbl)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
