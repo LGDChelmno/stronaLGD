@@ -1,6 +1,6 @@
 ---
 title: >-
-  Polskie Towarzystwo Ekonomiczne – Oddział w Bydgoszczy realizuje 2 projektu z
+  Polskie Towarzystwo Ekonomiczne – Oddział w Bydgoszczy realizuje 2 projekty z
   zakresu aktywizacji zawodowej
 description: >-
   Szanowni Państwo,  Polskie Towarzystwo Ekonomiczne – Oddział w Bydgoszczy
