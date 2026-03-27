@@ -444,4 +444,18 @@ Był to występ pełen emocji, refleksji i dumy 🥹❤️, który spotkał się
 
 <br>
 
+Dnia 16 marca 2026 r. uczestnicy modułu "Moje korzenie - moją tożsamością" uczestniczyli w kolejnej wycieczce terenowej po Chełmnie. Tym razem trasa wiodła szlakiem pomników i tablic pamiątkowych, które upamiętniają ważne postaci w naszym mieście.
+
+Okazało się, że wiele miejsc jest w ogóle nieznanych lub nie zwraca się na nie uwagi. Młodzież poznała historię Pomników:
+
+Katyńskiego, 66 Kaszubskiego Pułku Piechoty, Kawalerzysty, Grobu Nieznanego Żołnierza, Bractwa Kurkowego, Ofiar Faszyzmu oraz tablic pamiątkowych: polityka Kurta Schumachera, sportowca Jana Schmelters, drukarza i dziennikarza Ignacego Danielewskiego, biskupa Andrzeja Olszowskiego, słynnych gimnazjalistów Braci Raszejów, metaloplastyka Stanisława Ebłowskiego, malarza Antoniego Piotrowicza, Ofiar Stalinizmu oraz kamienia upamiętniającego Wojsko Polskie. Dzięki zajęciom uświadomiono młodzieży, że to My mieszkańcy Chełmna tworzymy własną historię, budujemy naszą tożsamość.
+
+[Fotorelacja](https://www.facebook.com/klubmlodziezowymoc/posts/pfbid035dJXXn1Jpz9D6yk9zfnBPaGHHRiDmxBigiRS8ozQ1yhtpr425gSZj4PcxVrkmQZ1l)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
