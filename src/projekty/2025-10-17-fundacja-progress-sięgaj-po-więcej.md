@@ -286,4 +286,20 @@ Szkolenie prowadzi dr Piotr Chrzczonowicz – radca prawny i doktor nauk prawnyc
 
 <br>
 
+Dwie ostatnie soboty upłynęły nam pod znakiem negocjacji 💬 
+
+Podczas spotkań uczestniczki miały okazję poznać podstawowe zagadnienia związane z prowadzeniem negocjacji oraz przećwiczyć je w praktyce. Praca opierała się na przykładach z życia codziennego, co pozwoliło lepiej zrozumieć omawiane mechanizmy i przełożyć je na własne doświadczenia.
+
+To były bardzo wartościowe spotkania – pełne refleksji, ale też konkretnych narzędzi do wykorzystania na co dzień.
+
+Dziękujemy za obecność i wspólną pracę 🤍
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid02grWuKwt4y8Yt4P3MsK8P7vKWtdiqL4WAPW7cPD1DBSaZQ7uYD9LSJt5oXxFdaDkhl&id=61564252336733)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
