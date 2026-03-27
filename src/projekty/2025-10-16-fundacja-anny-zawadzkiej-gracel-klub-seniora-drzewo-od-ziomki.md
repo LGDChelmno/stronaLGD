@@ -147,4 +147,20 @@ Poniżej fotorelacja z działań klubu seniora ”Drzewo-(od)ziomki”:
 
 <br>
 
+Witajcie kochani
+
+Poniżej fotorelacja z działań klubu seniora ”Drzewo-(od)ziomki”:
+
+\- warsztaty krawieckie – ozdobne broszki kwiaty - prowadzone przez Annę Pniewską;
+
+\- warsztaty aktywizujące intelektualnie seniorów; tworzymy gazetę  nawiązującą tematycznie do czasów Ludwika Rydygiera – prowadzone przez Jolantę i Wiesława Piekarskich
+
+[Fotorelacja](https://www.facebook.com/FAZG.org/posts/pfbid0fg9mAJKKExxEAH76DPtSzpQdoAoTDG8KfrQcR18sij6dKYWu5tfqqoTJaAA7XVMdl?__cft__[0]=AZbYIW3UXt_4feWiFP8UKASmsbxLmfgUqLSzCP5xQCJpSOjBEKl47eHYI9KvDwqJOou_1Ga1T7mBKQqENKoe_yCIYa6Z6EXZQZzCcjpFjfcRqWlSMGJnb-XpIk_ZKRNQjRKbhYGPcrTzn3WjKHYkPBp1ZOYvBWm_0VPcc_TpoANap02dBNKXIIj-ycYq8S4561MJOtGRaaCTPRPwQfU31kEV&__tn__=%2CO%2CP-R)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
