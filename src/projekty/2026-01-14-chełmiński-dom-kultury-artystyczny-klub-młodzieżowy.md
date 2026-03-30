@@ -150,4 +150,16 @@ Krótki układ w wykonaniu uczestników Artystycznego Klubu Młodzieżowego.
 
 <br>
 
+Tradycja w ruchu 💃✨
+
+Podczas warsztatów „Tradycje ludowe Kaszub” uczestnicy Artystycznego Klubu Młodzieżowego poznawali kaszubskie tańce. Dużo radości, ruchu i wspólnego odkrywania piękna kultury ludowej!
+
+[Fotorelacja](https://www.facebook.com/chelminskidomkultury/posts/pfbid02uKVHoK9QHzt8ctrX7YEa3CNfeqzBGovtNvuGjqq3iWgQb23JMZS2ZVUwz3vM5Nq4l?__cft__[0]=AZYODLgANHYuRDF_wD8p52EjRAt4tqE-xeWK_9yneAqzTrWy__7-ea01Hc9W6Eco3Vctw-0aUzS6_ssBpz-aI7_nOUkrYEm_GqdeNJrEasnK0uWMaufCx5LDKeEOFv20F0sNH34f99giMA0e7-3D09X0oe-YNou8iU4iEF4r5E4nfWB4R8-h-1nSMRsCwe0DcQs&__tn__=%2CO%2CP-R)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
