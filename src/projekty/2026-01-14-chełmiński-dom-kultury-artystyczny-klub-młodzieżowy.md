@@ -150,6 +150,18 @@ Krótki układ w wykonaniu uczestników Artystycznego Klubu Młodzieżowego.
 
 <br>
 
+Młodzież rozwija swoje umiejętności i poznaje kulturę ludową 🎶😃
+
+Uczestnicy Artystycznego Klubu Młodzieżowego podczas zajęć ze śpiewu białego odkrywają moc naturalnego głosu i tradycyjnych technik wokalnych. 
+
+[Fotorelacja](https://www.facebook.com/chelminskidomkultury/posts/pfbid069EK6hAHRhwbFx22L7pUZJm8vut8Z5NtFZagsi3P8EPUyURYBPhmxbivY2rcD1Jjl)
+
+<br>
+
+<hr>
+
+<br>
+
 Tradycja w ruchu 💃✨
 
 Podczas warsztatów „Tradycje ludowe Kaszub” uczestnicy Artystycznego Klubu Młodzieżowego poznawali kaszubskie tańce. Dużo radości, ruchu i wspólnego odkrywania piękna kultury ludowej!
