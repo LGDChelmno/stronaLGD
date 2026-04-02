@@ -12,6 +12,10 @@ tags:
   - projekt
 image: /assets/uploads/tacy-sami-klub-seniora-aktywizacja-edukaacja.jpg
 imageAlt: zdjęcie tytułowe
+files:
+  - {}
+gallery:
+  - {}
 ---
 Stowarzyszenie Tacy Sami - w dniu 24.02.2025r. Chełmińskim Inkubatorze
 
@@ -32,13 +36,11 @@ Aktywizacja i włączanie społeczne seniorów z obszaru Miasta Chełmna.
 Cele szczegółowe:
 
 1. Przeciwdziałanie izolacji społecznej i wzmacnianie więzi międzyludzkich.
-
 2. Zwiększenie umiejętności i zainteresowań uczestników, w tym w obszarze
 
 kreatywności i nowych technologii.
 
 3. Przełamanie stereotypowego postrzegania starości.
-
 4. Zwiększenie aktywności fizycznej, społecznej i kulturalnej seniorów z miasta
 
 Chełmna poprzez organizację kompleksowych działań sprzyjających ich integracji i
@@ -438,3 +440,19 @@ Warsztaty Klubu Seniora- Aktywizacja i edukacja na Co Dzień. Warsztaty ogrodnic
 Warsztaty Klubu Seniora- Aktywizacja i edukacja na Co Dzień. Warsztaty kronikarskie.
 
 [Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid02aqAZM7BCFtGsYTz1dkeFMz3iknW86heN1oZHN7AgsiPt9ZjVGbWjPB9k6DW1yZxql&id=100068678645885)
+
+<br>
+
+<hr>
+
+<br>
+
+Warsztaty Klubu Seniora- Aktywizacja i edukacja na Co Dzień. Warsztaty arteterpii.
+
+[Fotorelacja](https://www.facebook.com/share/r/1AsqZo22XS/)
+
+<br>
+
+<hr>
+
+<br>
