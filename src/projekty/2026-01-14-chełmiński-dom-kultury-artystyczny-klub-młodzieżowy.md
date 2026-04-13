@@ -174,7 +174,11 @@ Podczas warsztatów „Tradycje ludowe Kaszub” uczestnicy Artystycznego Klubu 
 
 <br>
 
-Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
+Rozwijamy zainteresowania i pobudzamy kreatywność 🌿
+
+W ramach projektu „Klub Seniora – Złoty Krąg” odbyły się warsztaty „Ziołowy Ogródek”. Uczestnicy poznali różne gatunki ziół, ich zastosowanie, podstawy pielęgnacji oraz własnoręcznie ozdobili doniczki 🪴
+
+[Fotorelacja](https://www.facebook.com/reel/1468111061529522)
 
 <br>
 
@@ -182,11 +186,7 @@ Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategi
 
 <br>
 
-Rozwijamy zainteresowania i pobudzamy kreatywność 🌿
-
-W ramach projektu „Klub Seniora – Złoty Krąg” odbyły się warsztaty „Ziołowy Ogródek”. Uczestnicy poznali różne gatunki ziół, ich zastosowanie, podstawy pielęgnacji oraz własnoręcznie ozdobili doniczki 🪴
-
-[Fotorelacja](https://www.facebook.com/reel/1468111061529522)
+Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
 
 <br>
 
