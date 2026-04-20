@@ -84,14 +84,18 @@ Kto powiedział, że wakacyjna moda musi być nudna? W naszym klubie młodzieżo
 
 Ostatnio w Strefie Inspiracji zamieniliśmy się w profesjonalnych projektantów mody. Temat przewodni? Oczywiście nasza autorska „Wakacyjna koszulka”! ☀️🌴
 
-Projekt „Strefa inspiracji Grubno” (umowa nr 7.2/2025/05/KM) realizowany jest przez Stowarzyszenie Grubno – Szkoła bez Granic w ramach LSR na lata 2023-2029 dla obszaru działania LGD Chełmno. Projekt współfinansowany z programu Fundusze Europejskie dla Kujaw i Pomorza 2021-2027 (Priorytet FEKP.07). Beneficjentem projektu grantowego "Wsparcie edukacji dzieci i młodzieży” jest Stowarzyszenie LGD Chełmno przy wsparciu Samorządu Województwa Kujawsko-Pomorskiego.
-
-Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
-
 [Fotorelacja](https://www.facebook.com/GrubnoBezGranic/posts/pfbid02Jfuh1HK5MUuGXRLBxhbnbsZsSP4T81D1BMycLrzgjJJFsJcwM9TV2fZifHdQ67Wl)
 
 <br>
 
 <hr>
+
+<br>
+
+Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
+
+<br>
+
+<hr
 
 <br>
