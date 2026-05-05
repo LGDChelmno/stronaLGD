@@ -302,4 +302,20 @@ Dziękujemy za obecność i wspólną pracę 🤍
 
 <br>
 
+Miniony weekend obyło się spotkanie szkoleniowe z zakresu Mindfulness i MBSR ✨
+
+Uczestniczki miały okazję poszerzyć swoją wiedzę teoretyczną, lepiej poznać założenia i fundamenty tych podejść oraz przyjrzeć się ich zastosowaniu w różnych obszarach życia i pracy. To był czas zdobywania nowych informacji, uporządkowania wiedzy i spojrzenia na temat z szerszej perspektywy.
+
+Jak zawsze nie zabrakło przestrzeni do rozmów, wymiany doświadczeń i inspiracji, które są nieodłącznym elementem naszych spotkań 🌿
+
+Dziękujemy za obecność i zaangażowanie 💛
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid02sgViD3bD54bgyCUJCxFSHyGWF6ZHG5vkK8jSSRZPXauYgWbKp8g53n6m2QXw5efWl&id=61564252336733)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
