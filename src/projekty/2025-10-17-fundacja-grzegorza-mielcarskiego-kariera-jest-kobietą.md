@@ -280,4 +280,16 @@ Bo kiedy kobiety dzielą się wiedzą i doświadczeniem – rośnie nie tylko ic
 
 <br>
 
+✨ Spotkanie z inspirującą liderką biznesu ✨
+
+Wyjątkowe spotkanie prowadzone przez liderkę biznesu, która z pasją i zaangażowaniem wspiera kobiety w odkrywaniu ich talentów i wzmacniania pewności siebie.
+
+Podczas spotkania nie zabrakło cennych wskazówek, prostych trików oraz sprawdzonych metod, które można z łatwością wykorzystać na co dzień w budowaniu kariery zawodowej. 
+
+Całość odbyła się w atmosferze kobiecego wsparcia, otwartości i pozytywnej energii 💄✨
+
+Takie wydarzenia pokazują, jak ważne są spotkania, które łączą rozwój, relacje i inspirację.
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid029irjE2iX87CKqDexrAkvGDjKkkwUMmW3qMRZ8hbhUc2KhAwo3m8Pctf615UWfi1ul&id=61579120553740)
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
