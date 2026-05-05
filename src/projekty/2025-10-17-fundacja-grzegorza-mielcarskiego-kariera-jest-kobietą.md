@@ -292,4 +292,18 @@ Takie wydarzenia pokazują, jak ważne są spotkania, które łączą rozwój, r
 
 [Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid029irjE2iX87CKqDexrAkvGDjKkkwUMmW3qMRZ8hbhUc2KhAwo3m8Pctf615UWfi1ul&id=61579120553740)
 
+<br>
+
+<hr>
+
+<br>
+
+W projekcie nie zwalniamy tempa. Tym razem odbyło się spotkanie z liderką biznesu - psychoterapeutką i coachem kariery - dr Jolantą Jaworską. 
+
+Uczestniczki pracowały nad work-life balance. 
+
+Dziękujemy za obecność i zaangażowanie! 💪
+
+[Fotorelacja](https://www.facebook.com/permalink.php?story_fbid=pfbid043otJcbjNkFU9aD3zs4cjY6Kyhybw1nNh8wWUzxJKUrYyUfYCUB9i3UUGKEMZjTRl&id=61579120553740)
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.01-IZ.00-0005/24, nr umowy „Wspieranie równości szans kobiet i mężczyzn” UM_WR.433.3.348.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
