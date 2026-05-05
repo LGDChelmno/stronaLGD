@@ -458,4 +458,14 @@ Katyńskiego, 66 Kaszubskiego Pułku Piechoty, Kawalerzysty, Grobu Nieznanego Ż
 
 <br>
 
+Budowa mózgu na tapecie! Czy wiecie, co lubi mózg? My wiemy! Dlatego były pogaduchy z wykorzystaniem kart metaforycznych i terapeutycznych oraz zabawa ruchowa na rozgrzewkę. A wy, jeśli nie chcecie w przyszłości przyjaźnić się z panem A., zaproście takie proste ćwiczenia do swojego życia.
+
+Po rozgrzewce przyszedł czas na wyzwanie, czyli zabraliśmy się za opracowywanie gry terenowej, którą w czerwcu poprowadzimy dla młodszych kolegów.
+
+Burza mózgów i ogólny plan gotowy, teraz skupimy się na dopracowaniu szczegółów.
+
+  Zajęcia odbyły się 28 kwietnia w ramach Klubu Młodzieżowego i projektu MOC.
+
+[Fotorelacja](https://www.facebook.com/klubmlodziezowymoc/posts/pfbid0SoPrjT4YsJLm2VgvVbHGEowaTXXytQb7iTjtQ5sXkMu1pkX3YpPx4HbdeA49jAiYl)
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
