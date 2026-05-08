@@ -108,4 +108,22 @@ Nie zabrakło ciekawych historii z akcji ratowniczych, praktycznych wskazówek o
 
 [Fotorelacja](https://www.facebook.com/reel/4510525875833711)
 
+<br>
+
+<hr>
+
+<br>
+
+Grill seniorów ❤️ 
+
+Seniorzy spotkali się nad jeziorem na wspólnym grillu integracyjnym, cieszyli się rozmowami i miłą atmosferą. W otoczeniu natury uczestnicy spędzają czas przy stole pełnym smakołyków z grilla, śmiejąc się i wspominając dawne lata. Takie spotkania sprzyjają budowaniu relacji, aktywizacji osób starszych😘. 
+
+[Fotorelacja](https://www.facebook.com/reel/1540598780985939)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
