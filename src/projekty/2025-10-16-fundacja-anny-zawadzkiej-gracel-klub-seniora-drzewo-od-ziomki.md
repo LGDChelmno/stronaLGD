@@ -163,4 +163,18 @@ Poniżej fotorelacja z działań klubu seniora ”Drzewo-(od)ziomki”:
 
 <br>
 
+Witajcie kochani
+
+Poniżej fotorelacja z działań klubu seniora ”Drzewo-(od)ziomki”:
+
+Warsztaty muzyczne „Śpiewać (naprawdę)każdy może!” spotkania muzyczne nawiązujące do tradycji amatorskiego śpiewania i muzykowania w trakcie spotkań rodzinnych, domowych uroczystości czy prac gospodarskich. Warsztaty prowadzone przez Wojciecha Błaszaka.
+
+[Fotorelacja](https://www.facebook.com/FAZG.org/posts/pfbid02RaQekCWBWkeM4mrUAkD9Bn8FQPnriFod1S7z99KuCs5rG4G3u6oto8Y4avetyujwl)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
