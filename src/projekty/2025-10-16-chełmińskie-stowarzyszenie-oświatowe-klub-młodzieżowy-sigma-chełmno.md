@@ -86,4 +86,20 @@ Ludność objęta projektami w ramach strategii zintegrowanego rozwoju terytoria
 
  Liczba uczniów, którzy nabyli kwalifikacje po opuszczeniu programu - 12 os.
 
+<br>
+
+<hr>
+
+<br>
+
+Pracowicie upłynął kwiecień w fabryce pozytywnych emocji i fabryce dobra. 🥰Młodzież twórczo działa na zajęciach robotyki👩‍👦
+
+[Fotorelacja](https://www.facebook.com/ChelminskieStowarzyszenieOswiatowe/posts/pfbid0bWPJsZHtjDws6mHgG6YVNSHaSVFyxpqWbHrdUCwCScQBeU79NdY3jEdMo994gLvKl)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/25, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2025. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
