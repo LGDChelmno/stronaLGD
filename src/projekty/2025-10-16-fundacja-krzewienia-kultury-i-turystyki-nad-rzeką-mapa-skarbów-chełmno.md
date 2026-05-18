@@ -136,6 +136,22 @@ Jest lekko, aktywnie i bardzo przyjemnie — i tym właśnie chcieliśmy się z 
 
 <br>
 
+W Klubie Seniora w Chełmnie zakończyliśmy cykl zajęć z Nordic Walkingu.
+
+Podczas wspólnych spotkań uczyliśmy się prawidłowej techniki chodzenia z kijami, pracowaliśmy nad postawą i świadomym ruchem, a przy okazji spędzaliśmy aktywnie czas w bardzo miłej atmosferze.
+
+Teraz pozostaje już tylko doskonalić zdobyte umiejętności i korzystać z każdej okazji do spacerów.
+
+Życzymy naszym Seniorom dużo ruchu, energii i wielu kilometrów pełnych zdrowia i dobrego samopoczucia.
+
+[Fotorelacja](https://www.facebook.com/FundacjaNadRzeka/posts/pfbid02HRyHPqhDW79PcHJoegTv9JFVPfnUhaqrSNy7hyc9HxAcpjDshaLnA62F45aiwudBl)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.04-IZ.00-0002/24, nr umowy „Aktywizacja i włączenie społeczne seniorów” UM_WR.433.3.127.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
 
 <br>
