@@ -530,4 +530,38 @@ Już nie możemy się doczekać, aż zobaczycie efekty ich pracy! ☀️
 
 [Fotorelacja](https://www.facebook.com/klubmlodziezowymoc/posts/pfbid02QdheMz7ZsjecXw9dq1LyevBGRMpFyCtwmFgARADanvE8VNszdiSgBZfxYYk9yqtPl)
 
+<br>
+
+<hr>
+
+<br>
+
+W dniu 19 maja w ramach modułu „Wiem, umiem, jestem bezpieczny” 🛡️ odbyły się zajęcia terenowe poświęcone orientacji w terenie oraz pracy z mapą 🗺️🧭.
+
+Podczas zajęć uczniowie poznawali zasady posługiwania się mapami wojskowymi, uczyli się korzystania z kompasu oraz zgrywania kompasu z mapą 📍. Ćwiczyli także odnajdywanie swojego położenia w terenie oraz marsz według wyznaczonej trasy 🥾🌲.
+
+Zajęcia miały charakter praktyczny i odbywały się w terenie, dzięki czemu uczestnicy mogli wykorzystać zdobytą wiedzę w rzeczywistych warunkach 👏🙂.
+
+[Fotorelacja](https://www.facebook.com/klubmlodziezowymoc/posts/pfbid0aQqLDYUB3fbEXnppxKMmAG8HZkwi4GfFtB1NsydDRtPP4L5WTiLpTHeA5FEsZyqxl)
+
+<br>
+
+<hr>
+
+<br>
+
+25 maja odbyła się kolejna próba w ramach projektu MOC 💥
+
+Nasi uczniowie z ogromnym zaangażowaniem przygotowują występ z okazji Dnia Dziecka – nie brakuje tańca, śpiewu, energii i świetnej atmosfery! 🎭🎶
+
+Każda próba przybliża nas do wielkiego występu, który już niebawem będzie można zobaczyć na scenie. Już teraz możemy zdradzić, że szykuje się coś naprawdę wyjątkowego! ✨
+
+[Fotorelacja](https://www.facebook.com/klubmlodziezowymoc/posts/pfbid0LN8KvsnZFUBLpH3q9Nsf8Cvtn9BFTYBEuR5QN9do9ts4qyHaMyETC3dpt6WnecCzl)
+
+<br>
+
+<hr>
+
+<br>
+
 Działanie realizowane w ramach Umowy o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność nr BSK.7161.25.6.2023 z dnia 12.12.2023 r. oraz zgodne z Umową o dofinansowanie projektu grantowego nr FEKP.07.02-IZ.00-0015/24, nr umowy „Wsparcie edukacji dzieci i młodzieży” UM_WR.433.3.310.2024. Dofinansowanie projektu przez UE. Program: Fundusze Europejskie dla Kujaw i Pomorza 2021-2027
