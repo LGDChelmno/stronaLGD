@@ -31,5 +31,15 @@ files:
   - file: /assets/uploads/harmonogram planu komunikacji na rok 2025.pdf
     fileName: Harmonogram planu komunikacji z lokalną społecznością na rok 2025
     fileType: pdf
+  - file: >-
+      /assets/uploads/harmonogram planu komunikacji z lokalną społecznością na
+      rok 2026.pdf
+    fileName: Harmonogram planu komunikacji z lokalną społecznością na rok 2026
+    fileType: pdf
+  - file: >-
+      /assets/uploads/plan komunikacji z lokalną społecznością - stan na
+      18.12.2025.pdf
+    fileName: Plan Komunikacji z lokalną społecznością - stan na 18.12.2025
+    fileType: pdf
 ---
 # Plan komunikacji
