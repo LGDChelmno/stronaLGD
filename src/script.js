@@ -188,46 +188,87 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    function runSearch() {
-        var searchWord = searchInput.value.trim().toLowerCase();
+function escapeHtml(text) {
+    return String(text).replace(/[&<>"']/g, function(match) {
+        return {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#039;'
+        }[match];
+    });
+}
 
-        if (searchWord.length < 2) {
-            searchResults.innerHTML = '<p>Wpisz minimum 2 znaki.</p>';
-            searchResults.classList.add('active');
-            return;
-        }
+function highlightText(text, query) {
+    var safeText = escapeHtml(text || '');
+    var safeQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    var regex = new RegExp('(' + safeQuery + ')', 'gi');
 
-        var matches = searchIndex.filter(function(item) {
-            var title = item.title ? item.title.toLowerCase() : '';
-            var description = item.description ? item.description.toLowerCase() : '';
-            var content = item.content ? item.content.toLowerCase() : '';
+    return safeText.replace(regex, '<mark>$1</mark>');
+}
 
-            return title.includes(searchWord) ||
-                   description.includes(searchWord) ||
-                   content.includes(searchWord);
-        });
+function formatDate(dateString) {
+    if (!dateString) return '';
 
-        if (matches.length === 0) {
-            searchResults.innerHTML = '<p>Brak wyników.</p>';
-            searchResults.classList.add('active');
-            return;
-        }
+    var date = new Date(dateString);
 
-        matches = matches.slice(0, 10);
+    if (isNaN(date.getTime())) return '';
 
-        searchResults.innerHTML =
-            '<p class="search-count">Znaleziono wyniki: ' + matches.length + '</p>' +
-            matches.map(function(item) {
-                var description = item.description || 'Przejdź do strony';
+    return date.toLocaleDateString('pl-PL', {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric'
+    });
+}
 
-                return '<a class="search-result-item" href="' + item.url + '">' +
-                    '<strong>' + item.title + '</strong>' +
-                    '<span>' + description + '</span>' +
-                '</a>';
-            }).join('');
+function runSearch() {
+    var searchWord = searchInput.value.trim().toLowerCase();
 
+    if (searchWord.length < 2) {
+        searchResults.innerHTML = '<p>Wpisz minimum 2 znaki.</p>';
         searchResults.classList.add('active');
+        return;
     }
+
+    var matches = searchIndex.filter(function(item) {
+        var title = item.title ? item.title.toLowerCase() : '';
+        var description = item.description ? item.description.toLowerCase() : '';
+        var content = item.content ? item.content.toLowerCase() : '';
+
+        return title.includes(searchWord) ||
+               description.includes(searchWord) ||
+               content.includes(searchWord);
+    });
+
+    matches.sort(function(a, b) {
+        return new Date(b.date) - new Date(a.date);
+    });
+
+    var totalMatches = matches.length;
+    matches = matches.slice(0, 10);
+
+    if (totalMatches === 0) {
+        searchResults.innerHTML = '<p>Brak wyników.</p>';
+        searchResults.classList.add('active');
+        return;
+    }
+
+    searchResults.innerHTML =
+        '<p class="search-count">Znaleziono wyników: ' + totalMatches + '</p>' +
+        matches.map(function(item) {
+            var description = item.description || 'Przejdź do strony';
+            var date = formatDate(item.date);
+
+            return '<a class="search-result-item" href="' + escapeHtml(item.url) + '">' +
+                '<strong>' + highlightText(item.title, searchWord) + '</strong>' +
+                (date ? '<small>' + date + '</small>' : '') +
+                '<span>' + highlightText(description, searchWord) + '</span>' +
+            '</a>';
+        }).join('');
+        
+    searchResults.classList.add('active');
+}
 
     searchButton.addEventListener('click', runSearch);
 
