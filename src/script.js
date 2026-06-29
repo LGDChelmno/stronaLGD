@@ -277,5 +277,13 @@ function runSearch() {
             runSearch();
         }
     });
+    document.addEventListener('click', function(event) {
+    if (
+        !searchContainer.contains(event.target) &&
+        event.target !== searchIcon
+    ) {
+        searchResults.classList.remove('active');
+    }
+});
 });
   
