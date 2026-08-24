@@ -3,24 +3,24 @@ title: >-
   „Prawy do lewego” – sieciujemy ofertę Doliny Dolnej Wisły na prawym i lewym
   brzegu Wisły 
 description: >-
-  REALCJA Z WIZYTY: Wizyta studyjna na prawym brzegu Wisły – powiat bydgoski i
-  chełmiński – 26.11.2025  OPIS: Kijewo Królewskie, Dąbrowa Chełmińska,
-  Gzin,[...]
-date: 2025-12-01T01:49:04+01:00
+  RELACJA Z WARSZATÓW - prezentacja nowych atrakcji Chełmna – 10.12.2025  OPIS:
+  Warsztaty branżowe w Chełmnie  Zadanie jest współfinansowane z budżetu
+  Samorządu Województwa [...]
+date: 2025-12-15T01:50:42+01:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
 imageAlt: zdjecie tytulowe
 gallery:
-  - caption: baneer logo
-    image: /assets/uploads/finansowanie rok ludzi nauki i młodzieży_herb urząd-1.jpg
+  - caption: zdjecie
+    image: /assets/uploads/prawy do lewego warsztaty branzowe w chełmnie.png
+  - caption: baner logo
+    image: /assets/uploads/obraz1.jpg
   - caption: baner logo
     image: /assets/uploads/obraz1.jpg
 ---
-REALCJA Z WIZYTY:  Wizyta studyjna na prawym brzegu Wisły – powiat bydgoski i chełmiński – 26.11.2025 
+RELACJA Z WARSZATÓW - prezentacja nowych atrakcji Chełmna – 10.12.2025
 
-OPIS: Kijewo Królewskie, Dąbrowa Chełmińska, Gzin, Ostromecko
+OPIS: Warsztaty  branżowe w Chełmnie
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
-
-<https://www.facebook.com/photo/?fbid=1500802388744991&set=pcb.1500803342078229>
