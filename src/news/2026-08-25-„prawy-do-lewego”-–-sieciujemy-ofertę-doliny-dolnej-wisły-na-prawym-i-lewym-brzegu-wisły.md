@@ -6,10 +6,10 @@ description: >-
   RELACJA Z WARSZATÓW - prezentacja nowych atrakcji Chełmna – 10.12.2025  OPIS:
   Warsztaty branżowe w Chełmnie  Zadanie jest współfinansowane z budżetu
   Samorządu Województwa [...]
-date: 2025-12-15T01:50:42+01:00
+date: 2025-12-15T00:50:42.000Z
 tags:
   - news
-image: /assets/uploads/lgd.jpg
+image: /assets/uploads/go slow flow_tytułowy.png
 imageAlt: zdjecie tytulowe
 gallery:
   - caption: zdjecie
