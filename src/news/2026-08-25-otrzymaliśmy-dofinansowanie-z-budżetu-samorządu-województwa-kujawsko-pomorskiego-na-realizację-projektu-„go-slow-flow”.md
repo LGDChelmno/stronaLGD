@@ -8,10 +8,10 @@ description: >-
   Kujawsko-Pomorskiego - Departament Sportu i Turystyki 30/2025 Rozwój i
   promocja turystyki w województwie kujawsko-pomorskim - edycja druga) na
   realizację projektu „Go Slow & Flow”[...]
-date: 2025-09-23T01:53:45+02:00
+date: 2025-09-22T23:53:45.000Z
 tags:
   - news
-image: /assets/uploads/lgd.jpg
+image: /assets/uploads/go slow flow_tytułowy.png
 imageAlt: zdjecie tytulowe
 gallery:
   - caption: baner logo
