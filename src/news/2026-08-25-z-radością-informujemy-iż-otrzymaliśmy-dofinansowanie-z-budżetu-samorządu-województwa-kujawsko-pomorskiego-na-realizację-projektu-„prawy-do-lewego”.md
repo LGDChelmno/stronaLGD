@@ -6,10 +6,10 @@ description: >-
   Z radością informujemy, iż otrzymaliśmy dofinansowanie z budżetu Samorządu
   Województwa Kujawsko-Pomorskiego na realizację projektu „Prawy do lewego” –
   sieciujemy ofertę Doliny Dolnej Wisły na prawym i lewym brzegu[...]
-date: 2025-10-06T01:43:01+02:00
+date: 2025-10-05T23:43:01.000Z
 tags:
   - news
-image: /assets/uploads/lgd.jpg
+image: /assets/uploads/prawy do lewego tytułowy.png
 imageAlt: zdjecie tytulowe
 gallery:
   - caption: baner logo
