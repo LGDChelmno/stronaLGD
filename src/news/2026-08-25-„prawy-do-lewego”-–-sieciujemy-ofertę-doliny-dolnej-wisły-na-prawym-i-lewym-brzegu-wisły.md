@@ -5,7 +5,7 @@ title: >-
 description: >-
   RELACJA Z WIZYTY: Wizyta studyjna na lewym brzegu Wisły – powiat bydgoski i
   Świecki - 19.11.2025  OPIS: Świecie, Chrystkowo, Gruczno, Luszko[...]
-date: 2026-08-24T23:47:01.918Z
+date: 2025-11-20T01:47:01+01:00
 tags:
   - news
 image: /assets/uploads/lgd.jpg
