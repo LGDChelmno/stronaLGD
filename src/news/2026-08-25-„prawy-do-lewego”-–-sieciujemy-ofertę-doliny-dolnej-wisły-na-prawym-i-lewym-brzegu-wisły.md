@@ -18,7 +18,7 @@ gallery:
 ---
 RELACJA Z WIZYTY:  Wizyta studyjna na lewym brzegu Wisły – powiat bydgoski i Świecki - 19.11.2025
 
-OPIS: Świecie, Chrystkowo, Gruczno, Luszkowo, Topolno
+Świecie, Chrystkowo, Gruczno, Luszkowo, Topolno
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego 
 
