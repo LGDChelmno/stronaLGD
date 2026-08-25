@@ -19,6 +19,6 @@ gallery:
 ---
 RELACJA Z WIZYTY:  Warsztat wyjazdowy do Bydgoszczy - 27.09.2025
 
-OPIS: Młyny Rothera, Barka Lemara, Wieża Ciśnień, Ostromecko
+Młyny Rothera, Barka Lemara, Wieża Ciśnień, Ostromecko
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
