@@ -19,7 +19,7 @@ gallery:
 ---
 REALCJA Z WIZYTY:  Wizyta studyjna na prawym brzegu Wisły – powiat bydgoski i chełmiński – 26.11.2025 
 
-OPIS: Kijewo Królewskie, Dąbrowa Chełmińska, Gzin, Ostromecko
+Kijewo Królewskie, Dąbrowa Chełmińska, Gzin, Ostromecko
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
 
