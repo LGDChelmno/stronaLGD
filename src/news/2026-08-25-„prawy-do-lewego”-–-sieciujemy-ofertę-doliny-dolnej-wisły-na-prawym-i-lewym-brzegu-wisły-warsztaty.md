@@ -5,7 +5,7 @@ title: >-
 description: >-
   RELACJA Z WARSZATÓW - prezentacja nowych atrakcji Chełmna – 10.12.2025  OPIS:
   Warsztaty branżowe w [...]
-date: 2025-12-15T09:15:06+01:00
+date: 2025-12-15T08:15:06.000Z
 tags:
   - news
 image: /assets/uploads/prawy do lewego tytułowy.png
@@ -18,6 +18,6 @@ gallery:
 ---
 RELACJA Z WARSZATÓW - prezentacja nowych atrakcji Chełmna – 10.12.2025
 
-OPIS: Warsztaty  branżowe w Chełmnie
+Warsztaty  branżowe w Chełmnie
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
