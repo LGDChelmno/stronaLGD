@@ -5,7 +5,7 @@ title: >-
 description: >-
   ELACJA Z WIZYTY: Wizyta studyjna na lewym brzegu Wisły – powiat bydgoski i
   Świecki - 19.11.2025  OPIS: Świecie, Chrystkowo, Gruczno, Luszkowo[...]
-date: 2025-11-20T08:34:52+01:00
+date: 2025-11-20T07:34:52.000Z
 tags:
   - news
 image: /assets/uploads/prawy do lewego tytułowy.png
@@ -20,6 +20,6 @@ RELACJA Z WIZYTY:  Wizyta studyjna na lewym brzegu Wisły – powiat bydgoski i 
 
 OPIS: Świecie, Chrystkowo, Gruczno, Luszkowo, Topolno
 
-Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
+Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego 
 
 <https://www.facebook.com/photo?fbid=1500796872078876&set=pcb.1500797518745478>
