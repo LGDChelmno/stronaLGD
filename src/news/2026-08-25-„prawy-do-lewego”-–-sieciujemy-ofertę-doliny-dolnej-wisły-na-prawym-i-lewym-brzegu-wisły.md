@@ -5,13 +5,17 @@ title: >-
 description: >-
   „Prawy do lewego” – sieciujemy ofertę Doliny Dolnej Wisły na prawym i lewym
   brzegu Wisły 
-date: 2025-12-01T08:13:49+01:00
+date: 2025-12-01T07:13:49.000Z
 tags:
   - news
 image: /assets/uploads/prawy do lewego tytułowy.png
 imageAlt: zdjecie
 gallery:
   - image: /assets/uploads/prawy do lewgo prawy brzeg 26.11.2025.png
+  - caption: baner logo
+    image: /assets/uploads/finansowanie rok ludzi nauki i młodzieży_herb urząd-1.jpg
+  - caption: baner logo
+    image: /assets/uploads/obraz1.jpg
 ---
 REALCJA Z WIZYTY:  Wizyta studyjna na prawym brzegu Wisły – powiat bydgoski i chełmiński – 26.11.2025 
 
