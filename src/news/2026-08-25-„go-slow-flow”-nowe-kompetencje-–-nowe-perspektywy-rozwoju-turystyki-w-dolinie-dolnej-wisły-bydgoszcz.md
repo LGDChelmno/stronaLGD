@@ -6,7 +6,7 @@ description: >-
   RELACJA Z WIZYTY: Warsztat wyjazdowy do Bydgoszczy - 27.09.2025  OPIS: Młyny
   Rothera, Barka Lemara, Wieża Ciśnień, Ostromecko  Zadanie jest
   współfinansowane z budżetu Samorządu Województwa[...]
-date: 2026-08-25T07:20:12.623Z
+date: 2025-10-01T09:20:12+02:00
 tags:
   - news
 image: /assets/uploads/go slow flow_tytułowy.png
