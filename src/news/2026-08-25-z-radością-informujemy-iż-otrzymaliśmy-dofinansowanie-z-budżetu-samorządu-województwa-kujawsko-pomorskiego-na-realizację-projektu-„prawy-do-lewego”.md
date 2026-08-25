@@ -32,13 +32,3 @@ Działania:
 Dziękujemy za zaufanie i możliwość realizacji projektu. 
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
-
-
-
-https://www.facebook.com/photo/?fbid=1500792202079343&set=a.462705949221312
-
-
-
-RELACJE Z PROJEKTU „Prawy do lewego” – sieciujemy ofertę Doliny Dolnej Wisły na prawym i lewym brzegu Wisły 
-
-Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
