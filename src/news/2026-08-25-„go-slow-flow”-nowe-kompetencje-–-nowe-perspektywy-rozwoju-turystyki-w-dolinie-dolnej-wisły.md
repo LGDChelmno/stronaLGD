@@ -3,21 +3,18 @@ title: >-
   „Go Slow & Flow”. Nowe kompetencje – nowe perspektywy rozwoju turystyki w
   Dolinie Dolnej Wisły
 description: >-
-  Warsztat wyjazdowy do wiodących atrakcji Doliny Dolnej Wisły - 03.12.2025 
-  OPIS: Dusocin, Grudziądz, Poledno [...]
-date: 2025-12-08T01:00:04.000Z
+  „Go Slow & Flow”. Nowe kompetencje – nowe perspektywy rozwoju turystyki w
+  Dolinie Dolnej Wisły
+date: 2025-10-01T08:01:58+02:00
 tags:
   - news
 image: /assets/uploads/go slow flow_tytułowy.png
-imageAlt: zdjecie tytulowe
+imageAlt: zdjecie
 gallery:
-  - caption: baner logo
-    image: /assets/uploads/finansowanie rok ludzi nauki i młodzieży_herb urząd-1.jpg
-  - caption: baner logo
-    image: /assets/uploads/obraz1.jpg
+  - image: /assets/uploads/go_slow_flow_27.09.205.png
 ---
-Warsztat wyjazdowy do wiodących atrakcji Doliny Dolnej Wisły  - 03.12.2025
+RELACJA Z WIZYTY:  Warsztat wyjazdowy do Bydgoszczy - 27.09.2025
 
-OPIS: Dusocin, Grudziądz, Poledno 
+OPIS: Młyny Rothera, Barka Lemara, Wieża Ciśnień, Ostromecko
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
