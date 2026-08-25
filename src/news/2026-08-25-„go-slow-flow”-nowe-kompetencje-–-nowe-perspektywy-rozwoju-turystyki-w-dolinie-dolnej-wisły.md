@@ -5,7 +5,7 @@ title: >-
 description: >-
   Warsztat wyjazdowy do wiodących atrakcji Doliny Dolnej Wisły - 03.12.2025 
   OPIS: Dusocin, Grudziądz, Poledno [...]
-date: 2025-12-08T02:00:04+01:00
+date: 2025-12-08T01:00:04.000Z
 tags:
   - news
 image: /assets/uploads/go slow flow_tytułowy.png
