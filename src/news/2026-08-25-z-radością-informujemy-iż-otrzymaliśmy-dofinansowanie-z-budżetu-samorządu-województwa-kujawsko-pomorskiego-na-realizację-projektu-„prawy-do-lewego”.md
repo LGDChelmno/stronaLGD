@@ -25,14 +25,20 @@ Okres realizacji: 01.09.2025 – 31.12.2025
 
 Działania: 
 
-1.	Wizyta studyjna na prawym brzegu Wisły – powiat bydgoski i chełmiński
-
-2.	Wizyta studyjna na lewym brzegu Wisły – powiat bydgoski i Świecki
-
-3.	Warsztaty, prezentacja nowych atrakcji Chełmna
+1. Wizyta studyjna na prawym brzegu Wisły – powiat bydgoski i chełmiński
+2. Wizyta studyjna na lewym brzegu Wisły – powiat bydgoski i Świecki
+3. Warsztaty, prezentacja nowych atrakcji Chełmna
 
 Dziękujemy za zaufanie i możliwość realizacji projektu. 
 
+Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
 
+
+
+https://www.facebook.com/photo/?fbid=1500792202079343&set=a.462705949221312
+
+
+
+RELACJE Z PROJEKTU „Prawy do lewego” – sieciujemy ofertę Doliny Dolnej Wisły na prawym i lewym brzegu Wisły 
 
 Zadanie jest współfinansowane z budżetu Samorządu Województwa Kujawsko-Pomorskiego
