@@ -9,7 +9,7 @@ description: >-
 date: 2025-12-15T00:50:42.000Z
 tags:
   - news
-image: /assets/uploads/go slow flow_tytułowy.png
+image: /assets/uploads/prawy do lewego tytułowy.png
 imageAlt: zdjecie tytulowe
 gallery:
   - caption: zdjecie
